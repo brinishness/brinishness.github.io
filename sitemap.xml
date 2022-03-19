@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://brinishness.github.io/2022/03/19/test/</loc>
+    <loc>https://brinishness.github.io/2022/03/18/test-title/</loc>
     
     <lastmod>2022-03-19</lastmod>
     
@@ -13,16 +13,16 @@
   <url>
     <loc>https://brinishness.github.io/2022/03/19/linux%E7%94%A8%E6%88%B7%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5docker/</loc>
     
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://brinishness.github.io/2022/03/18/test-title/</loc>
+    <loc>https://brinishness.github.io/2022/03/19/test/</loc>
     
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
