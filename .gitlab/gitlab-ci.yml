@@ -9,8 +9,10 @@ before_script:
 pages:
   script:
   - pnpm run docs:build
+  - rm -rf public
+  - mkdir public && cp -rf src/.vuepress/dist/* public
   artifacts:
     paths:
-    - src/.vuepress/dist
+    - public
   only:
   - master
