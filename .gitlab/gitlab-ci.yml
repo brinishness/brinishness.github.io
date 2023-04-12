@@ -1,0 +1,16 @@
+image: node:16
+cache:
+  paths:
+  - node_modules/
+before_script:
+- npm install pnpm -g
+- pnpm install
+- pnpm run version
+pages:
+  script:
+  - pnpm run docs:build
+  artifacts:
+    paths:
+    - src/.vuepress/dist
+  only:
+  - master
