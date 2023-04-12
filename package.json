@@ -7,11 +7,11 @@
   "author": {
     "name": "brinishness",
     "email": "596231290@qq.com",
-    "url": "http://gitlab.brinishness.eu.org:7580/root/blog.git"
+    "url": "http://gitlab.brinishness.eu.org:7580/root/brinishness.git"
   },
-  "homepage": "http://gitlab.brinishness.eu.org:7580/root/blog",
+  "homepage": "http://gitlab.brinishness.eu.org:7580/root/brinishness",
   "bugs": {
-    "url": "http://gitlab.brinishness.eu.org:7580/root/blog/-/issues"
+    "url": "http://gitlab.brinishness.eu.org:7580/root/brinishness/-/issues"
   },
   "scripts": {
     "docs:build": "vuepress build src",
