@@ -1,17 +1,39 @@
 {
   "name": "brinishness",
-  "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "version": "1.0.0",
+  "description": "A front-end self recording",
   "license": "MIT",
   "type": "commonjs",
+  "keywords": [
+    "vuepress",
+    "blog",
+    "frontend",
+    "backend",
+    "brinishness",
+    "record",
+    "nodejs",
+    "typescript",
+    "javascript",
+    "jenkins",
+    "vue",
+    "react",
+    "css",
+    "html",
+    "markdown",
+    "git",
+    "pve",
+    "esxi",
+    "docker",
+    "system"
+  ],
   "author": {
     "name": "brinishness",
     "email": "596231290@qq.com",
-    "url": "http://gitlab.brinishness.eu.org:7580/root/brinishness.git"
+    "url": "https://github.com/brinishness/brinishness.github.io.git"
   },
-  "homepage": "http://gitlab.brinishness.eu.org:7580/root/brinishness",
+  "homepage": "https://brinishness.eu.org",
   "bugs": {
-    "url": "http://gitlab.brinishness.eu.org:7580/root/brinishness/-/issues"
+    "url": "https://github.com/brinishness/brinishness.github.io.git/issues"
   },
   "scripts": {
     "docs:build": "vuepress build src",
