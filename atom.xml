@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://brinishness.eu.org/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://brinishness.eu.org/</id>
+  <title>brinishness</title>
+  <subtitle>Summary of development experience</subtitle>
+  <icon>https://brinishness.eu.org/goutou.svg</icon>
+  <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
+  <updated>2023-04-13T17:03:28.471Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
+  <link rel="alternate" href="https://brinishness.eu.org/"/>
+  <category term="arch"/>
+  <category term="image"/>
+  <category term="Guide"/>
+  <category term="Cherry"/>
+  <category term="Dragon Fruit"/>
+  <category term="Fruit"/>
+  <category term="Strawberry"/>
+  <category term="Vegetable"/>
+  <category term="Css"/>
+  <category term="Html"/>
+  <category term="Javascript"/>
+  <category term="React"/>
+  <category term="Typescript"/>
+  <category term="Vite"/>
+  <category term="Vue"/>
+  <category term="Webpack"/>
+  <category term="images"/>
+  <category term="Apple"/>
+  <category term="Banana"/>
+  <contributor>
+    <name>Ms.Hope</name>
+  </contributor>
+  <entry>
+    <title type="text">install ventoy</title>
+    <id>https://brinishness.eu.org/os/arch/1.html</id>
+    <link href="https://brinishness.eu.org/os/arch/1.html"/>
+    <updated>2023-04-13T16:17:42.000Z</updated>
+    <summary type="html"><![CDATA[<h1> install ventoy</h1>
+<blockquote>
+<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<h1> install ventoy</h1>
+<blockquote>
+<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
+</blockquote>
+<h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2 choose system</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
+<h2> step3 unzip</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
+<h2> step4 start(double click)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
+<h2> step5 choose disk and click install</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
+<h2> step6 finish</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
+<h2> step7 put iso to ventoy disk</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<p>modify the first startup entry of the bios</p>
+</div>
+<h2> step8 boot then you can see link this</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+]]></content>
+    <category term="arch"/>
+    <category term="image"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">1.0.0 (2023-04-13)</title>
+    <id>https://brinishness.eu.org/CHANGELOG.html</id>
+    <link href="https://brinishness.eu.org/CHANGELOG.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 1.0.0 (2023-04-13)</h1>
+<h3> Bug Fixes</h3>
+<ul>
+<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384ddd919c5b84166671b068ffaf90fe56f55" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
+<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a8f4d3957f3e9933a6a2f0223add06d828" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
+<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16ed86a6779c47ed1ad2c99b76e01e6040e" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
+<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f6a892f89620a6bae942e998ffdadcc08d" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc9b5d002a0ecd60d0daf8be66395c94e6c" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0372a22fc36ed773bb6ab0c4af0420a9b4" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011abc227c2bbb0f1e510b9a9195459cff37a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
+<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aad8dd815531455b760f7bba0b4d2405426" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<h1> 1.0.0 (2023-04-13)</h1>
+<h3> Bug Fixes</h3>
+<ul>
+<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384ddd919c5b84166671b068ffaf90fe56f55" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
+<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a8f4d3957f3e9933a6a2f0223add06d828" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
+<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16ed86a6779c47ed1ad2c99b76e01e6040e" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
+<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f6a892f89620a6bae942e998ffdadcc08d" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc9b5d002a0ecd60d0daf8be66395c94e6c" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0372a22fc36ed773bb6ab0c4af0420a9b4" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011abc227c2bbb0f1e510b9a9195459cff37a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
+<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aad8dd815531455b760f7bba0b4d2405426" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+</ul>
+<h3> Features</h3>
+<ul>
+<li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0ac5cc5089e8ab81ebd410e7c319110308b" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
+<li>🚀 初始化提交 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7bc47edb35401e63eab6cfe0d5fe4b6e836d42b0" target="_blank" rel="noopener noreferrer">7bc47ed</a>)</li>
+<li>🚀 添加gitlab自动化 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3448543d9ac68af6d993900c475277cbe9f65104" target="_blank" rel="noopener noreferrer">3448543</a>)</li>
+<li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6b45d77d61a553f2c202fceedc95ccbb94" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
+<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513f1fe2f6aa9306481a610ff07cf3f0cac9" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
+<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd1db8bc51835f89438c7b57de3252c973b" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
+</ul>
+]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">个人简介</title>
+    <id>https://brinishness.eu.org/intro.html</id>
+    <link href="https://brinishness.eu.org/intro.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 个人简介</h1>
+<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 个人简介</h1>
+<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
+]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Slide page</title>
+    <id>https://brinishness.eu.org/slides.html</id>
+    <link href="https://brinishness.eu.org/slides.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
+]]></summary>
+    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
+]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Features Demo</title>
+    <id>https://brinishness.eu.org/demo/</id>
+    <link href="https://brinishness.eu.org/demo/"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/demo/markdown.html" target="blank">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="/demo/page.html" target="blank">Page Config</a></p>
+</li>
+<li>
+<p><a href="/demo/disable.html" target="blank">Function Disable</a></p>
+</li>
+<li>
+<p><a href="/demo/encrypt.html" target="blank">Encryption Demo</a></p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/demo/markdown.html" target="blank">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="/demo/page.html" target="blank">Page Config</a></p>
+</li>
+<li>
+<p><a href="/demo/disable.html" target="blank">Function Disable</a></p>
+</li>
+<li>
+<p><a href="/demo/encrypt.html" target="blank">Encryption Demo</a></p>
+</li>
+</ul>
+]]></content>
+    <category term="Guide"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Disabling layout and features</title>
+    <id>https://brinishness.eu.org/demo/disable.html</id>
+    <link href="https://brinishness.eu.org/demo/disable.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<p>You can disable some function and layout on the page by setting the Frontmatter of the page.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>You can disable some function and layout on the page by setting the Frontmatter of the page.</p>
+<!-- more -->
+<p>This page is an demo that disables the following features:</p>
+<ul>
+<li>Navbar</li>
+<li>Sidebar</li>
+<li>Breadcrumb</li>
+<li>Page information</li>
+<li>Contributors</li>
+<li>Edit link</li>
+<li>Update time</li>
+<li>Prev/Next link</li>
+<li>Comment</li>
+<li>Footer</li>
+<li>Back to top button</li>
+</ul>
+]]></content>
+    <category term="Guide"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Encryption Article</title>
+    <id>https://brinishness.eu.org/demo/encrypt.html</id>
+    <link href="https://brinishness.eu.org/demo/encrypt.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Encryption Article</h1>
+<p>The actual article content.</p>
+<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
+<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Encryption Article</h1>
+<p>The actual article content.</p>
+<p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
+<p>Paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text paragraph 2 text.</p>
+]]></content>
+    <category term="Guide"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Markdown Enhance</title>
+    <id>https://brinishness.eu.org/demo/markdown.html</id>
+    <link href="https://brinishness.eu.org/demo/markdown.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<p>VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.</p>
+<p>You should create and write Markdown files, so that VuePress can convert them to different pages according to file structure.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>VuePress basically generate pages from Markdown files. So you can use it to generate documentation or blog sites easily.</p>
+<p>You should create and write Markdown files, so that VuePress can convert them to different pages according to file structure.</p>
+<!-- more -->
+<h2> Markdown Introduction</h2>
+<p>If you are a new learner and don’t know how to write Markdown, please read <a href="https://theme-hope.vuejs.press/cookbook/markdown/" target="_blank" rel="noopener noreferrer">Markdown Intro</a> and <a href="https://theme-hope.vuejs.press/cookbook/markdown/demo.html" target="_blank" rel="noopener noreferrer">Markdown Demo</a>.</p>
+<h2> Markdown Config</h2>
+<p>VuePress introduce configuration for each Markdown page using Frontmatter.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Info</p>
+<p>Frontmatter is a important concept in VuePress. If you don’t know it, you need to read <a href="https://theme-hope.vuejs.press/cookbook/vuepress/page.html#front-matter" target="_blank" rel="noopener noreferrer">Frontmatter Introduction</a>.</p>
+</div>
+<h2> Markdown Extension</h2>
+<p>The Markdown content in VuePress will be parsed by <a href="https://github.com/markdown-it/markdown-it" target="_blank" rel="noopener noreferrer">markdown-it</a>, which supports <a href="https://github.com/markdown-it/markdown-it#syntax-extensions" target="_blank" rel="noopener noreferrer">syntax extensions</a> via markdown-it plugins.</p>
+<h3> VuePress Enhancement</h3>
+<p>To enrich document writing, VuePress has extended Markdown syntax.</p>
+<p>For these extensions, please read <a href="https://theme-hope.vuejs.press/basic/vuepress/markdown.html" target="_blank" rel="noopener noreferrer">Markdown extensions in VuePress</a>.</p>
+<h3> Theme Enhancement</h3>
+<p>By using <a href="https://md-enhance.vuejs.press/" target="_blank" rel="noopener noreferrer"><code>vuepress-plugin-md-enhance</code></a>, the theme extends more Markdown syntax and provides richer writing functions.</p>
+<h4> Custom Container</h4>
+<div v-pre="">
+<p>Safely use {{ variable }} in Markdown.</p>
+</div>
+<div class="hint-container info">
+<p class="hint-container-title">Custom Title</p>
+<p>A custom information container with <code>code</code>, <a href="#custom-container">link</a>.</p>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div></div>
+<div class="hint-container tip">
+<p class="hint-container-title">Custom Title</p>
+<p>A custom tip container</p>
+</div>
+<div class="hint-container warning">
+<p class="hint-container-title">Custom Title</p>
+<p>A custom warning container</p>
+</div>
+<div class="hint-container danger">
+<p class="hint-container-title">Custom Title</p>
+<p>A custom danger container</p>
+</div>
+<details class="hint-container details"><summary>Custom Title</summary>
+<p>A custom details container</p>
+</details>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/container.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Tabs</h4>
+
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/tabs.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Code Tabs</h4>
+
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/code-tabs.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Superscript and Subscript</h4>
+<p>19<sup>th</sup> H<sub>2</sub>O</p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/sup-sub.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Align</h4>
+<div style="text-align:center">
+<p>I am center</p>
+</div>
+<div style="text-align:right">
+<p>I am right align</p>
+</div>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/align.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Attrs</h4>
+<p>A <strong id="word">word</strong> having id.</p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/attrs.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Footnote</h4>
+<p>This text has footnote<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">.</a></p><a class="footnote-anchor" id="footnote-ref1">
+</a><ul><a class="footnote-anchor" id="footnote-ref1">
+</a><li><a class="footnote-anchor" id="footnote-ref1"></a><a href="https://theme-hope.vuejs.press/guide/markdown/footnote.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Mark</h4>
+<p>You can mark <mark>important words</mark> .</p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/mark.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Tasklist</h4>
+<ul class="task-list-container">
+<li class="task-list-item">
+<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-0" checked="checked" disabled="disabled"><label class="task-list-item-label" for="task-item-0"> Plan A</label></p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-1" disabled="disabled"><label class="task-list-item-label" for="task-item-1"> Plan B</label></p>
+</li>
+<li>
+<p><a href="https://theme-hope.vuejs.press/guide/markdown/tasklist.html" target="_blank" rel="noopener noreferrer">View Detail</a></p>
+</li>
+</ul>
+<h4> Image Enhancement</h4>
+<p>Support setting color scheme and size</p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/image.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Chart</h4>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/chart.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Echarts</h4>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/echarts.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Flowchart</h4>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/flowchart.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Mermaid</h4>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/mermaid.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Tex</h4>
+<p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord" style="margin-right:0.05556em;">∂</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.5904em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord" style="margin-right:0.05556em;">∂</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3414em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:3.0277em;vertical-align:-1.2777em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3414em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size4">{</span></span><span class="mopen">(</span><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.05em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.2777em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.5017em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7507em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mopen">(</span><span class="mord">−</span><span class="mord">1</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">⋯</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord mathnormal">i</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mopen">(</span><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight">i</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size4">}</span></span></span></span></span></span></span></p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/tex.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Include files</h4>
+<ul>
+<li>
+<p><a href="/demo/markdown.html" target="blank">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="/demo/page.html" target="blank">Page Config</a></p>
+</li>
+<li>
+<p><a href="/demo/disable.html" target="blank">Function Disable</a></p>
+</li>
+<li>
+<p><a href="/demo/encrypt.html" target="blank">Encryption Demo</a></p>
+</li>
+</ul>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/include.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Code Demo</h4>
+
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/demo.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Stylize</h4>
+<p>Donate Mr.Hope a cup of coffee. </p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/stylize.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Playground</h4>
+
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/playground.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Vue Playground</h4>
+
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/vue-playground.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<h4> Presentation</h4>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/markdown/presentation.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p>This is footnote content <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    <category term="Guide"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Page Config</title>
+    <id>https://brinishness.eu.org/demo/page.html</id>
+    <link href="https://brinishness.eu.org/demo/page.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<p>Content before <code>more</code> comment is regarded as page excerpt.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>Content before <code>more</code> comment is regarded as page excerpt.</p>
+<!-- more -->
+<h2> Page Information</h2>
+<p>You can set page information in Markdown’s Frontmatter.</p>
+<ul>
+<li>The author is Ms.Hope.</li>
+<li>The writing date is January 1, 2020</li>
+<li>Category is "Guide"</li>
+<li>Tags are "Page Config" and "Guide"</li>
+</ul>
+<h2> Page Content</h2>
+<p>You are free to write your Markdown here.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Assets</p>
+<ul>
+<li>
+<p>You can place images besides your Markdown files, but you should use <strong>relative links</strong> (i.e.: starting with <code>./</code>) for them.</p>
+</li>
+<li>
+<p>For images in <code>.vuepress/public</code> directory, please use absolute links (i.e.: starting with <code>/</code>) for them.</p>
+</li>
+</ul>
+</div>
+<p>The theme contains a custom badge:</p>
+<blockquote>
+<p>A dark blue badge text badge at the end of line. </p>
+</blockquote>
+<h2> Page Structure</h2>
+<p>This page should contain:</p>
+<ul>
+<li><a href="https://theme-hope.vuejs.press/guide/layout/breadcrumb.html" target="_blank" rel="noopener noreferrer">BreadCrumb</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/feature/page-info.html" target="_blank" rel="noopener noreferrer">Title and information</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/layout/page.html#header-list" target="_blank" rel="noopener noreferrer">TOC (Table of Contents)</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/feature/meta.html" target="_blank" rel="noopener noreferrer">Meta information including update time and contributors</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/feature/comment.html" target="_blank" rel="noopener noreferrer">Comments</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/layout/navbar.html" target="_blank" rel="noopener noreferrer">Navbar</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/layout/sidebar.html" target="_blank" rel="noopener noreferrer">Sidebar</a></li>
+<li><a href="https://theme-hope.vuejs.press/guide/layout/footer.html" target="_blank" rel="noopener noreferrer">Footer</a></li>
+<li>Back to top button</li>
+</ul>
+<p>You can customize them in theme options and page frontmatter.</p>
+]]></content>
+    <author>
+      <name>Ms.Hope</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>Ms.Hope</name>
+    </contributor>
+    <published>2020-01-01T00:00:00.000Z</published>
+    <rights>No Copyright</rights>
+  </entry>
+  <entry>
+    <title type="text">Cherry</title>
+    <id>https://brinishness.eu.org/posts/cherry.html</id>
+    <link href="https://brinishness.eu.org/posts/cherry.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Cherry</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Cherry</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Cherry"/>
+    <published>2022-01-09T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Dragon Fruit</title>
+    <id>https://brinishness.eu.org/posts/dragonfruit.html</id>
+    <link href="https://brinishness.eu.org/posts/dragonfruit.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Dragon Fruit</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Dragon Fruit</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Dragon Fruit"/>
+    <category term="Fruit"/>
+    <published>2022-01-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Strawberry</title>
+    <id>https://brinishness.eu.org/posts/strawberry.html</id>
+    <link href="https://brinishness.eu.org/posts/strawberry.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Strawberry</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Strawberry</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Fruit"/>
+    <category term="Strawberry"/>
+    <published>2022-01-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Tomato</title>
+    <id>https://brinishness.eu.org/posts/tomato.html</id>
+    <link href="https://brinishness.eu.org/posts/tomato.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Tomato</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Tomato</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Vegetable"/>
+    <published>2022-01-12T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/go/1.html</id>
+    <link href="https://brinishness.eu.org/backend/go/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>fmt<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/java/1.html</id>
+    <link href="https://brinishness.eu.org/backend/java/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"hello world"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">install nodejs</title>
+    <id>https://brinishness.eu.org/backend/node/1.html</id>
+    <link href="https://brinishness.eu.org/backend/node/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> install nodejs</h1>
+<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
+<h2> 测试内容</h2>]]></summary>
+    <content type="html"><![CDATA[<h1> install nodejs</h1>
+<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
+<h2> 测试内容</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/python/1.html</id>
+    <link href="https://brinishness.eu.org/backend/python/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/css/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/css/1.html"/>
+    <updated>2023-04-13T02:56:35.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 🚀 测试内容</h2>
+<div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">body</span> <span class="token punctuation">{</span>
+    <span class="token property">background</span><span class="token punctuation">:</span> red<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 🚀 测试内容</h2>
+<div class="language-css line-numbers-mode" data-ext="css"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <category term="Css"/>
+    <published>2023-04-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/html/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/html/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">doctype</span> <span class="token name">html</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>en<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>UTF-8<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span>
+          <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">http-equiv</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>X-UA-Compatible<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>ie=edge<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">&gt;</span></span>Document<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">&gt;</span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">&gt;</span></span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <category term="Html"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/javascript/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/javascript/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'hello world'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <category term="Javascript"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">react</title>
+    <id>https://brinishness.eu.org/frontend/react/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/react/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> react</h1>
+
+]]></summary>
+    <content type="html"><![CDATA[<h1> react</h1>
+
+]]></content>
+    <category term="React"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">react-demo</title>
+    <id>https://brinishness.eu.org/frontend/react/2.html</id>
+    <link href="https://brinishness.eu.org/frontend/react/2.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> react-demo</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> react-demo</h1>
+]]></content>
+    <category term="React"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/typescript/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/typescript/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token keyword">const</span> a<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> <span class="token string">'123'</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
+]]></content>
+    <category term="Typescript"/>
+    <published>2023-04-12T21:29:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/vite/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/vite/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
+<details class="hint-container details"><summary>Details</summary>
+
+</details>
+<p>安装 VuePress Theme Hope:</p>
+
+<p>安装 VuePress Plugin Markdown Enhance:</p>
+
+]]></content>
+    <category term="Vite"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">vue</title>
+    <id>https://brinishness.eu.org/frontend/vue/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/vue/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> vue</h1>
+<details class="hint-container details"><summary>vue</summary>
+
+</details>
+]]></summary>
+    <content type="html"><![CDATA[<h1> vue</h1>
+<details class="hint-container details"><summary>vue</summary>
+
+</details>
+]]></content>
+    <category term="Vue"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">vuedemo</title>
+    <id>https://brinishness.eu.org/frontend/vue/2.html</id>
+    <link href="https://brinishness.eu.org/frontend/vue/2.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> vuedemo</h1>
+
+]]></summary>
+    <content type="html"><![CDATA[<h1> vuedemo</h1>
+
+]]></content>
+    <category term="Vue"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/frontend/webpack/1.html</id>
+    <link href="https://brinishness.eu.org/frontend/webpack/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <category term="Webpack"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">install ventoy</title>
+    <id>https://brinishness.eu.org/os/images/1.html</id>
+    <link href="https://brinishness.eu.org/os/images/1.html"/>
+    <updated>2023-04-13T16:11:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> install ventoy</h1>
+<blockquote>
+<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<h1> install ventoy</h1>
+<blockquote>
+<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
+</blockquote>
+<h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2 choose system</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
+<h2> step3 unzip</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
+<h2> step4 start(double click)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
+<h2> step5 choose disk and click install</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
+<h2> step6 finish</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
+<h2> step7 put iso to ventoy disk</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<p>modify the first startup entry of the bios</p>
+</div>
+<h2> step8 boot then you can see link this</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+]]></content>
+    <category term="images"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Apple 1</title>
+    <id>https://brinishness.eu.org/posts/apple/1.html</id>
+    <link href="https://brinishness.eu.org/posts/apple/1.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Apple 1</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Apple 1</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Apple"/>
+    <published>2022-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Apple 2</title>
+    <id>https://brinishness.eu.org/posts/apple/2.html</id>
+    <link href="https://brinishness.eu.org/posts/apple/2.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Apple 2</h1>
+<p>A apple article being stared.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Apple 2</h1>
+<p>A apple article being stared.</p>
+<!-- more -->
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Apple"/>
+    <published>2022-01-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Apple 3</title>
+    <id>https://brinishness.eu.org/posts/apple/3.html</id>
+    <link href="https://brinishness.eu.org/posts/apple/3.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Apple 3</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Apple 3</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Apple"/>
+    <category term="Fruit"/>
+    <published>2022-01-03T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Apple 4</title>
+    <id>https://brinishness.eu.org/posts/apple/4.html</id>
+    <link href="https://brinishness.eu.org/posts/apple/4.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Apple 4</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Apple 4</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Apple"/>
+    <category term="Fruit"/>
+    <published>2022-01-04T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Banana 1</title>
+    <id>https://brinishness.eu.org/posts/banana/1.html</id>
+    <link href="https://brinishness.eu.org/posts/banana/1.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Banana 1</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Banana 1</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Banana"/>
+    <category term="Fruit"/>
+    <published>2022-01-05T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Banana 2</title>
+    <id>https://brinishness.eu.org/posts/banana/2.html</id>
+    <link href="https://brinishness.eu.org/posts/banana/2.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Banana 2</h1>
+<p>A banana article being stared with number <code>10</code>.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Banana 2</h1>
+<p>A banana article being stared with number <code>10</code>.</p>
+<!-- more -->
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Banana"/>
+    <category term="Fruit"/>
+    <published>2022-01-06T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Banana 3</title>
+    <id>https://brinishness.eu.org/posts/banana/3.html</id>
+    <link href="https://brinishness.eu.org/posts/banana/3.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Banana 3</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Banana 3</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Banana"/>
+    <published>2022-01-07T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Banana 4</title>
+    <id>https://brinishness.eu.org/posts/banana/4.html</id>
+    <link href="https://brinishness.eu.org/posts/banana/4.html"/>
+    <updated>2023-04-12T21:29:50.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Banana 4</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Banana 4</h1>
+<h2> Heading 2</h2>
+<p>Here is the content.</p>
+<h3> Heading 3</h3>
+<p>Here is the content.</p>
+]]></content>
+    <category term="Banana"/>
+    <published>2022-01-08T00:00:00.000Z</published>
+  </entry>
+</feed>
