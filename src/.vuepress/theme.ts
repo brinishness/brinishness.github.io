@@ -126,9 +126,34 @@ export default hopeTheme({
 
     plugins: {
         blog: true,
-        copyright: true,
-        pwa: true,
+        copyright: {
+            author: "brinishness",
+            license: "MIT",
+            canonical: "https://brinishness.eu.org",
+            global: true,
+            triggerWords: 5,
+            locales: {
+                "/": {
+                    // 覆盖链接文字
+                    link: "Original text published on :link",
+                },
 
+                "/zh/": {
+                    link: "原文发表于 :link",
+                    // 在这里完整设置 `mm-NN` 的多语言配置
+                },
+            },
+        },
+        pwa: true,
+        feed: {
+            atom: true,
+            json: true,
+            rss: true,
+            image: "http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg",
+            icon: "/goutou.svg",
+            count: 1000,
+            channel: {},
+        },
         comment: {
             // @typescript-expect-error: You should generate and use your own comment service
             provider: "Giscus",
