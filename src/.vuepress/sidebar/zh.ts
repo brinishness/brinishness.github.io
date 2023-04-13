@@ -19,7 +19,7 @@ export const zhSidebar = sidebar({
     "intro",
     "slides",
     {
-      icon: "discover",
+      icon: "front-end",
       text: "前端",
       prefix: "frontend/",
       // link: "frontend/",
@@ -27,14 +27,14 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
-      icon: "discover",
+      icon: "back-end",
       text: "后端",
       prefix: "backend/",
       collapsible: true,
       children: "structure",
     },
     {
-      icon: "discover",
+      icon: "jingxiang",
       text: "系统",
       prefix: "os/",
       collapsible: true,

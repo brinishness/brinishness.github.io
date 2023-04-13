@@ -45,63 +45,63 @@ export const enNavbar = navbar([
         ],
     },
     {
-        icon: "discover",
+        icon: "back-end",
         text: "frontend",
         prefix: "/frontend/",
         children: [
             {
                 text: "html",
-                icon: "edit",
+                icon: "html5",
                 link: "html"
             },
             {
                 text: "css",
-                icon: "edit",
+                icon: "css3",
                 link: "css",
             },
             {
                 text: "javascript",
-                icon: "edit",
+                icon: "javascript",
                 link: "javascript",
             }
         ],
         // children: "structure",
     },
     {
-        icon: "discover",
+        icon: "back-end",
         text: "backend",
         prefix: "/backend/",
         children: [
             {
                 text: "go",
-                icon: "edit",
+                icon: "go",
                 link: "go"
             },
             {
                 text: "node",
-                icon: "edit",
+                icon: "node",
                 link: "node"
             },
             {
                 text: "python",
-                icon: "edit",
+                icon: "python",
                 link: "python",
             },
             {
                 text: "java",
-                icon: "edit",
+                icon: "java",
                 link: "java",
             }
         ],
     },
     {
-        icon: "discover",
+        icon: "jingxiang",
         text: "os",
         prefix: "/os/",
         children: [
             {
                 text: "images",
-                icon: "edit",
+                icon: "jingxiang",
                 link: "images"
             }
         ],

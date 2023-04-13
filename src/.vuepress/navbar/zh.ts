@@ -45,52 +45,52 @@ export const zhNavbar = navbar([
         ],
     },
     {
-        icon: "discover",
+        icon: "front-end",
         text: "前端",
         prefix: "/zh/frontend/",
         children: [
             {
                 text: "html",
-                icon: "edit",
+                icon: "html5",
                 link: "html"
             },
             {
                 text: "css",
-                icon: "edit",
+                icon: "css3",
                 link: "css",
             },
             {
                 text: "javascript",
-                icon: "edit",
+                icon: "javascript",
                 link: "javascript",
             }
         ],
         // children: "structure",
     },
     {
-        icon: "discover",
+        icon: "back-end",
         text: "后端",
         prefix: "/zh/backend/",
         children: [
             {
                 text: "go",
-                icon: "edit",
+                icon: "golang",
                 link: "go"
             },
             {
                 text: "python",
-                icon: "edit",
+                icon: "python",
                 link: "python",
             },
             {
                 text: "java",
-                icon: "edit",
+                icon: "java",
                 link: "java",
             }
         ],
     },
     {
-        icon: "discover",
+        icon: "jingxiang",
         text: "系统",
         prefix: "/zh/os/",
         children: [
