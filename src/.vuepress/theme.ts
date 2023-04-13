@@ -21,8 +21,9 @@ export default hopeTheme({
         url: "https://brinishness.eu.org",
     },
 
-    iconAssets: "iconfont",
+    iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_fcfrjgatffc.css"],
 
+    iconPrefix: "iconfont icon-",
     logo: "/goutou.svg",
 
     repo: "brinishness/brinishness.github.io",
