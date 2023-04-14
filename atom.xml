@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-14T01:44:40.787Z</updated>
+  <updated>2023-04-14T02:49:38.505Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -105,39 +105,7 @@
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
     <updated>2023-04-13T16:11:13.000Z</updated>
     <summary type="html"><![CDATA[<h1> 1.0.0 (2023-04-14)</h1>
-<h3> Bug Fixes</h3>
-<ul>
-<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384d" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
-<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
-<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
-<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
-<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<h1> 1.0.0 (2023-04-14)</h1>
-<h3> Bug Fixes</h3>
-<ul>
-<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384d" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
-<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
-<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
-<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
-<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
-</ul>
-<h3> Chores</h3>
-<ul>
-<li>💊 修改changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/814be43" target="_blank" rel="noopener noreferrer">814be43</a>)</li>
-<li>💊 修改仓库地址 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c228a05" target="_blank" rel="noopener noreferrer">c228a05</a>)</li>
-<li>💊 修改自动化目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8bd11cc" target="_blank" rel="noopener noreferrer">8bd11cc</a>)</li>
-<li>💊 修改配置文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e6fa04b" target="_blank" rel="noopener noreferrer">e6fa04b</a>)</li>
-<li>修改配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f6184a4" target="_blank" rel="noopener noreferrer">f6184a4</a>)</li>
-<li>添加生成changelog配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc" target="_blank" rel="noopener noreferrer">e7cb2fc</a>)</li>
-</ul>
-<h3> Features</h3>
+<h3> ✨ Features | 新功能</h3>
 <ul>
 <li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
 <li>🚀 初始化提交 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7bc47ed" target="_blank" rel="noopener noreferrer">7bc47ed</a>)</li>
@@ -146,6 +114,48 @@
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<h1> 1.0.0 (2023-04-14)</h1>
+<h3> ✨ Features | 新功能</h3>
+<ul>
+<li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
+<li>🚀 初始化提交 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7bc47ed" target="_blank" rel="noopener noreferrer">7bc47ed</a>)</li>
+<li>🚀 添加gitlab自动化 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3448543" target="_blank" rel="noopener noreferrer">3448543</a>)</li>
+<li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
+<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
+<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
+<li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
+</ul>
+<h3> 🎫 Chores | 其他更新</h3>
+<ul>
+<li>💊 修改changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/814be43" target="_blank" rel="noopener noreferrer">814be43</a>)</li>
+<li>💊 修改仓库地址 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c228a05" target="_blank" rel="noopener noreferrer">c228a05</a>)</li>
+<li>💊 修改自动化目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8bd11cc" target="_blank" rel="noopener noreferrer">8bd11cc</a>)</li>
+<li>💊 修改配置文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e6fa04b" target="_blank" rel="noopener noreferrer">e6fa04b</a>)</li>
+<li>修改生成changelog配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/65b617a" target="_blank" rel="noopener noreferrer">65b617a</a>)</li>
+<li>修改配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f6184a4" target="_blank" rel="noopener noreferrer">f6184a4</a>)</li>
+<li>添加生成changelog配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc" target="_blank" rel="noopener noreferrer">e7cb2fc</a>)</li>
+</ul>
+<h3> 🐛 Bug Fixes | Bug 修复</h3>
+<ul>
+<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384d" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
+<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
+<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
+<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
+<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
+<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+<li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
+</ul>
+<h3> 📝 Documentation | 文档</h3>
+<ul>
+<li>
+<p>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</p>
+</li>
+<li>
+<p>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</p>
+</li>
 </ul>
 ]]></content>
     <published>2023-04-12T21:29:50.000Z</published>
