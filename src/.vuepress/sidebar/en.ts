@@ -39,5 +39,12 @@ export const enSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      icon: "brower",
+      text: "brower",
+      prefix: "brower/",
+      collapsible: true,
+      children: "structure",
+    },
   ],
 });

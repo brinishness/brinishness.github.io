@@ -40,5 +40,12 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      icon: "brower",
+      text: "浏览器",
+      prefix: "brower/",
+      collapsible: true,
+      children: "structure",
+    },
   ],
 });
