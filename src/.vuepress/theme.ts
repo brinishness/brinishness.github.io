@@ -21,14 +21,16 @@ export default hopeTheme({
         url: "https://brinishness.eu.org",
     },
 
-    iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_zdosyi05pi.css"],
+    iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_x97qitb1ofk.css"],
 
     iconPrefix: "iconfont icon-",
     logo: "/goutou.svg",
 
     repo: "brinishness/brinishness.github.io",
 
-    docsDir: "docs",
+    docsBranch: "master",
+
+    docsDir: "src",
 
     blog: {
         medias: {
