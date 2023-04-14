@@ -5,12 +5,14 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-14T06:57:10.106Z</updated>
+  <updated>2023-04-14T18:55:49.359Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
-  <category term="centos"/>
+  <category term="docker"/>
   <category term="install"/>
+  <category term="verdaccio"/>
+  <category term="centos"/>
   <category term="deepin"/>
   <category term="esxi"/>
   <category term="macos"/>
@@ -29,6 +31,34 @@
   <category term="Vue"/>
   <category term="Webpack"/>
   <category term="images"/>
+  <entry>
+    <title type="text">安装docker</title>
+    <id>https://brinishness.eu.org/server/docker/1.html</id>
+    <link href="https://brinishness.eu.org/server/docker/1.html"/>
+    <updated>2023-04-14T18:53:27.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装docker</h1>
+
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装docker</h1>
+
+]]></content>
+    <category term="docker"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">verdaccio部署</title>
+    <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
+    <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
+    <updated>2023-04-14T18:53:27.000Z</updated>
+    <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> verdaccio部署</h1>
+]]></content>
+    <category term="verdaccio"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">安装centos7</title>
     <id>https://brinishness.eu.org/os/centos/1.html</id>
@@ -226,6 +256,7 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+<li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 </ul>
@@ -236,6 +267,9 @@
 </li>
 <li>
 <p>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</p>
+</li>
+<li>
+<p>添加服务器页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6aa001d" target="_blank" rel="noopener noreferrer">6aa001d</a>)</p>
 </li>
 <li>
 <p>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</p>
