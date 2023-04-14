@@ -5,13 +5,21 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-14T02:49:38.505Z</updated>
+  <updated>2023-04-14T04:55:15.743Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
+  <category term="centos"/>
+  <category term="install"/>
+  <category term="deepin"/>
+  <category term="esxi"/>
+  <category term="macos"/>
+  <category term="proxmox"/>
+  <category term="ubuntu"/>
+  <category term="windows10"/>
+  <category term="windows11"/>
   <category term="Chrome"/>
   <category term="arch"/>
-  <category term="image"/>
   <category term="Guide"/>
   <category term="Cherry"/>
   <category term="Dragon Fruit"/>
@@ -32,6 +40,110 @@
   <contributor>
     <name>Ms.Hope</name>
   </contributor>
+  <entry>
+    <title type="text">安装centos7</title>
+    <id>https://brinishness.eu.org/os/centos/1.html</id>
+    <link href="https://brinishness.eu.org/os/centos/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装centos7</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装centos7</h1>
+]]></content>
+    <category term="centos"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装deepin</title>
+    <id>https://brinishness.eu.org/os/deepin/1.html</id>
+    <link href="https://brinishness.eu.org/os/deepin/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装deepin</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装deepin</h1>
+]]></content>
+    <category term="deepin"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装esxi</title>
+    <id>https://brinishness.eu.org/os/esxi/1.html</id>
+    <link href="https://brinishness.eu.org/os/esxi/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装esxi</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装esxi</h1>
+]]></content>
+    <category term="esxi"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装macos</title>
+    <id>https://brinishness.eu.org/os/macos/1.html</id>
+    <link href="https://brinishness.eu.org/os/macos/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装macos</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装macos</h1>
+]]></content>
+    <category term="macos"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装proxmox</title>
+    <id>https://brinishness.eu.org/os/proxmox/1.html</id>
+    <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装proxmox</h1>
+]]></content>
+    <category term="proxmox"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装ubuntu</title>
+    <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
+    <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
+]]></content>
+    <category term="ubuntu"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装windows10</title>
+    <id>https://brinishness.eu.org/os/windows/1.html</id>
+    <link href="https://brinishness.eu.org/os/windows/1.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装windows10</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装windows10</h1>
+]]></content>
+    <category term="windows10"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装windows11</title>
+    <id>https://brinishness.eu.org/os/windows/2.html</id>
+    <link href="https://brinishness.eu.org/os/windows/2.html"/>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装windows11</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装windows11</h1>
+]]></content>
+    <category term="windows11"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">Chrome http to https</title>
     <id>https://brinishness.eu.org/brower/chrome/1.html</id>
@@ -63,40 +175,16 @@
     <published>2023-04-14T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">install ventoy</title>
+    <title type="text">安装archlinux</title>
     <id>https://brinishness.eu.org/os/arch/1.html</id>
     <link href="https://brinishness.eu.org/os/arch/1.html"/>
-    <updated>2023-04-13T16:17:42.000Z</updated>
-    <summary type="html"><![CDATA[<h1> install ventoy</h1>
-<blockquote>
-<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
-</blockquote>]]></summary>
-    <content type="html"><![CDATA[<h1> install ventoy</h1>
-<blockquote>
-<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
-</blockquote>
-<h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
-<h2> step2 choose system</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
-<h2> step3 unzip</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
-<h2> step4 start(double click)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
-<h2> step5 choose disk and click install</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
-<h2> step6 finish</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
-<h2> step7 put iso to ventoy disk</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
-<div class="hint-container tip">
-<p class="hint-container-title">Tips</p>
-<p>modify the first startup entry of the bios</p>
-</div>
-<h2> step8 boot then you can see link this</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+    <updated>2023-04-14T04:51:25.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装archlinux</h1>
 ]]></content>
     <category term="arch"/>
-    <category term="image"/>
+    <category term="install"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -147,9 +235,16 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
+<li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 </ul>
 <h3> 📝 Documentation | 文档</h3>
 <ul>
+<li>
+<p>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</p>
+</li>
+<li>
+<p>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</p>
+</li>
 <li>
 <p>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</p>
 </li>

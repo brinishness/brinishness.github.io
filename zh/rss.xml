@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/zh/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Apr 2023 02:49:38 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Apr 2023 02:49:38 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2023 04:55:15 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2023 04:55:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,14 +15,263 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/zh/</link>
     </image>
+    <category>Chrome</category>
+    <category>React</category>
+    <category>Vue</category>
+    <category>arch</category>
+    <category>install</category>
+    <category>centos</category>
+    <category>deepin</category>
+    <category>esxi</category>
+    <category>images</category>
+    <category>macos</category>
+    <category>proxmox</category>
+    <category>ubuntu</category>
+    <category>windows10</category>
+    <category>windows11</category>
     <category>使用指南</category>
     <category>樱桃</category>
     <category>火龙果</category>
     <category>水果</category>
     <category>草莓</category>
     <category>蔬菜</category>
+    <category>Css</category>
+    <category>Html</category>
+    <category>Javascript</category>
+    <category>Typescript</category>
+    <category>Vite</category>
+    <category>Webpack</category>
     <category>苹果</category>
     <category>香蕉</category>
+    <item>
+      <title>install nodejs</title>
+      <link>https://brinishness.eu.org/zh/backend/node/1.html</link>
+      <guid>https://brinishness.eu.org/zh/backend/node/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">install nodejs</source>
+      <description>install nodejs step1 download step2 测试内容</description>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> install nodejs</h1>
+<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
+<h2> 测试内容</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Chrome http to https</title>
+      <link>https://brinishness.eu.org/zh/brower/chrome/1.html</link>
+      <guid>https://brinishness.eu.org/zh/brower/chrome/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">Chrome http to https</source>
+      <description>Chrome http to https 问题描述 google浏览器自动将图床http转为https，导致图片无法显示 解决方案 1. 点击访问链接的小锁图标 2. 点击网站设置</description>
+      <category>Chrome</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Chrome http to https</h1>
+<h2> 问题描述</h2>
+<blockquote>
+<p>google浏览器自动将图床http转为https，导致图片无法显示</p>
+</blockquote>
+<h2> 解决方案</h2>
+<h3> 1. 点击访问链接的小锁图标</h3>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
+<h3> 2. 点击网站设置</h3>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png" alt="第二步" loading="lazy"></p>
+<h3> 3. 修改图中设置为允许</h3>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png" alt="第三部" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" type="image/png"/>
+    </item>
+    <item>
+      <title>react</title>
+      <link>https://brinishness.eu.org/zh/frontend/react/1.html</link>
+      <guid>https://brinishness.eu.org/zh/frontend/react/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">react</source>
+      <description>react</description>
+      <category>React</category>
+      <pubDate>Fri, 14 Apr 2023 04:52:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> react</h1>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>react-demo</title>
+      <link>https://brinishness.eu.org/zh/frontend/react/2.html</link>
+      <guid>https://brinishness.eu.org/zh/frontend/react/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">react-demo</source>
+      <description>react-demo</description>
+      <category>React</category>
+      <pubDate>Fri, 14 Apr 2023 04:52:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> react-demo</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>vue</title>
+      <link>https://brinishness.eu.org/zh/frontend/vue/1.html</link>
+      <guid>https://brinishness.eu.org/zh/frontend/vue/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">vue</source>
+      <description>vue vue</description>
+      <category>Vue</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> vue</h1>
+<details class="hint-container details"><summary>vue</summary>
+
+</details>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>vuedemo</title>
+      <link>https://brinishness.eu.org/zh/frontend/vue/2.html</link>
+      <guid>https://brinishness.eu.org/zh/frontend/vue/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">vuedemo</source>
+      <description>vuedemo</description>
+      <category>Vue</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> vuedemo</h1>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装archlinux</title>
+      <link>https://brinishness.eu.org/zh/os/arch/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/arch/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装archlinux</source>
+      <description>安装archlinux</description>
+      <category>arch</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装archlinux</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装centos7</title>
+      <link>https://brinishness.eu.org/zh/os/centos/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/centos/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装centos7</source>
+      <description>安装centos7</description>
+      <category>centos</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装centos7</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装deepin</title>
+      <link>https://brinishness.eu.org/zh/os/deepin/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/deepin/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装deepin</source>
+      <description>安装deepin</description>
+      <category>deepin</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装deepin</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装esxi</title>
+      <link>https://brinishness.eu.org/zh/os/esxi/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/esxi/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装esxi</source>
+      <description>安装esxi</description>
+      <category>esxi</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装esxi</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>install ventoy</title>
+      <link>https://brinishness.eu.org/zh/os/images/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/images/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">install ventoy</source>
+      <description>install ventoy Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</description>
+      <category>images</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> install ventoy</h1>
+<blockquote>
+<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
+</blockquote>
+<h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2 choose system</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
+<h2> step3 unzip</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
+<h2> step4 start(double click)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
+<h2> step5 choose disk and click install</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
+<h2> step6 finish</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
+<h2> step7 put iso to ventoy disk</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>modify the first startup entry of the bios</p>
+</div>
+<h2> step8 boot then you can see link this</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" type="image/png"/>
+    </item>
+    <item>
+      <title>安装macos</title>
+      <link>https://brinishness.eu.org/zh/os/macos/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/macos/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装macos</source>
+      <description>安装macos</description>
+      <category>macos</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装macos</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装proxmox</title>
+      <link>https://brinishness.eu.org/zh/os/proxmox/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/proxmox/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装proxmox</source>
+      <description>安装proxmox</description>
+      <category>proxmox</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装proxmox</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装ubuntu</title>
+      <link>https://brinishness.eu.org/zh/os/ubuntu/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/ubuntu/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装ubuntu</source>
+      <description>安装ubuntu</description>
+      <category>ubuntu</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装ubuntu</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装windows10</title>
+      <link>https://brinishness.eu.org/zh/os/windows/1.html</link>
+      <guid>https://brinishness.eu.org/zh/os/windows/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装windows10</source>
+      <description>安装windows10</description>
+      <category>windows10</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装windows10</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装windows11</title>
+      <link>https://brinishness.eu.org/zh/os/windows/2.html</link>
+      <guid>https://brinishness.eu.org/zh/os/windows/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装windows11</source>
+      <description>安装windows11</description>
+      <category>windows11</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装windows11</h1>
+]]></content:encoded>
+    </item>
     <item>
       <title>介绍页</title>
       <link>https://brinishness.eu.org/zh/intro.html</link>
@@ -437,10 +686,11 @@
       <link>https://brinishness.eu.org/zh/frontend/css/1.html</link>
       <guid>https://brinishness.eu.org/zh/frontend/css/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
-      <description>测试标题 测试内容 body { background: red; }</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <description>测试标题 🚀 测试内容 body { background: red; }</description>
+      <category>Css</category>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
+<h2> 🚀 测试内容</h2>
 <div class="language-css line-numbers-mode" data-ext="css"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
     </item>
     <item>
@@ -449,10 +699,11 @@
       <guid>https://brinishness.eu.org/zh/frontend/html/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&amp;quot;&amp;gt; &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;ie=edge&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
+      <category>Html</category>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
-<div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+<div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
     </item>
     <item>
       <title>测试标题</title>
@@ -460,7 +711,8 @@
       <guid>https://brinishness.eu.org/zh/frontend/javascript/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 console.log(&amp;apos;hello world&amp;apos;);</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <category>Javascript</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -486,10 +738,12 @@
       <guid>https://brinishness.eu.org/zh/frontend/typescript/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 const a: string = &amp;apos;123&amp;apos;;</description>
+      <category>Typescript</category>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
-<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
+]]></content:encoded>
     </item>
     <item>
       <title>测试标题</title>
@@ -497,10 +751,19 @@
       <guid>https://brinishness.eu.org/zh/frontend/vite/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 const a = 1;</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <category>Vite</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
-<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
+<details class="hint-container details"><summary>详情</summary>
+
+</details>
+<p>安装 VuePress Theme Hope:</p>
+
+<p>安装 VuePress Plugin Markdown Enhance:</p>
+
+]]></content:encoded>
     </item>
     <item>
       <title>测试标题</title>
@@ -508,7 +771,8 @@
       <guid>https://brinishness.eu.org/zh/frontend/webpack/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 const a = 1;</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <category>Webpack</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>

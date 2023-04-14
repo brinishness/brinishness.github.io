@@ -1,4 +1,0 @@
-import{_ as a,X as e,Y as s,a3 as n}from"./framework-c8dc88ca.js";const c={},t=n(`<h1 id="测试标题" tabindex="-1"><a class="header-anchor" href="#测试标题" aria-hidden="true">#</a> 测试标题</h1><h2 id="测试内容" tabindex="-1"><a class="header-anchor" href="#测试内容" aria-hidden="true">#</a> 测试内容</h2><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">body</span> <span class="token punctuation">{</span>
-    <span class="token property">background</span><span class="token punctuation">:</span> red<span class="token punctuation">;</span>
-<span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),i=[t];function d(r,o){return e(),s("div",null,i)}const p=a(c,[["render",d],["__file","1.html.vue"]]);export{p as default};

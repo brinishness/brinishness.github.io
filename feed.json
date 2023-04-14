@@ -8,6 +8,118 @@
   "favicon": "https://brinishness.eu.org/goutou.svg",
   "items": [
     {
+      "title": "安装centos7",
+      "url": "https://brinishness.eu.org/os/centos/1.html",
+      "id": "https://brinishness.eu.org/os/centos/1.html",
+      "summary": "安装centos7",
+      "content_html": "<h1> 安装centos7</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "centos",
+        "install"
+      ]
+    },
+    {
+      "title": "安装deepin",
+      "url": "https://brinishness.eu.org/os/deepin/1.html",
+      "id": "https://brinishness.eu.org/os/deepin/1.html",
+      "summary": "安装deepin",
+      "content_html": "<h1> 安装deepin</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "deepin",
+        "install"
+      ]
+    },
+    {
+      "title": "安装esxi",
+      "url": "https://brinishness.eu.org/os/esxi/1.html",
+      "id": "https://brinishness.eu.org/os/esxi/1.html",
+      "summary": "安装esxi",
+      "content_html": "<h1> 安装esxi</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "esxi",
+        "install"
+      ]
+    },
+    {
+      "title": "安装macos",
+      "url": "https://brinishness.eu.org/os/macos/1.html",
+      "id": "https://brinishness.eu.org/os/macos/1.html",
+      "summary": "安装macos",
+      "content_html": "<h1> 安装macos</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "macos",
+        "install"
+      ]
+    },
+    {
+      "title": "安装proxmox",
+      "url": "https://brinishness.eu.org/os/proxmox/1.html",
+      "id": "https://brinishness.eu.org/os/proxmox/1.html",
+      "summary": "安装proxmox",
+      "content_html": "<h1> 安装proxmox</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "proxmox",
+        "install"
+      ]
+    },
+    {
+      "title": "安装ubuntu",
+      "url": "https://brinishness.eu.org/os/ubuntu/1.html",
+      "id": "https://brinishness.eu.org/os/ubuntu/1.html",
+      "summary": "安装ubuntu",
+      "content_html": "<h1> 安装ubuntu</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "ubuntu",
+        "install"
+      ]
+    },
+    {
+      "title": "安装windows10",
+      "url": "https://brinishness.eu.org/os/windows/1.html",
+      "id": "https://brinishness.eu.org/os/windows/1.html",
+      "summary": "安装windows10",
+      "content_html": "<h1> 安装windows10</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "windows10",
+        "install"
+      ]
+    },
+    {
+      "title": "安装windows11",
+      "url": "https://brinishness.eu.org/os/windows/2.html",
+      "id": "https://brinishness.eu.org/os/windows/2.html",
+      "summary": "安装windows11",
+      "content_html": "<h1> 安装windows11</h1>\n",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
+      "authors": [],
+      "tags": [
+        "windows11",
+        "install"
+      ]
+    },
+    {
       "title": "Chrome http to https",
       "url": "https://brinishness.eu.org/brower/chrome/1.html",
       "id": "https://brinishness.eu.org/brower/chrome/1.html",
@@ -22,18 +134,17 @@
       ]
     },
     {
-      "title": "install ventoy",
+      "title": "安装archlinux",
       "url": "https://brinishness.eu.org/os/arch/1.html",
       "id": "https://brinishness.eu.org/os/arch/1.html",
-      "summary": "install ventoy Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.",
-      "content_html": "<h1> install ventoy</h1>\n<blockquote>\n<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>\n</blockquote>\n<h2> step1 <a href=\"https://www.ventoy.net/cn/download.html\" target=\"_blank\" rel=\"noopener noreferrer\">download</a></h2>\n<h2> step2 choose system</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png\" alt=\"choose system\" loading=\"lazy\"></p>\n<h2> step3 unzip</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png\" alt=\"unzip\" loading=\"lazy\"></p>\n<h2> step4 start(double click)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png\" alt=\"start\" loading=\"lazy\"></p>\n<h2> step5 choose disk and click install</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png\" alt=\"choose disk\" loading=\"lazy\"></p>\n<h2> step6 finish</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png\" alt=\"finish\" loading=\"lazy\"></p>\n<h2> step7 put iso to ventoy disk</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png\" alt=\"put\" loading=\"lazy\"></p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">Tips</p>\n<p>modify the first startup entry of the bios</p>\n</div>\n<h2> step8 boot then you can see link this</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png\" alt=\"boot\" loading=\"lazy\"></p>\n",
-      "image": "http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png",
+      "summary": "安装archlinux",
+      "content_html": "<h1> 安装archlinux</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-13T16:17:42.000Z",
+      "date_modified": "2023-04-14T04:51:25.000Z",
       "authors": [],
       "tags": [
         "arch",
-        "image"
+        "install"
       ]
     },
     {
@@ -41,7 +152,7 @@
       "url": "https://brinishness.eu.org/CHANGELOG.html",
       "id": "https://brinishness.eu.org/CHANGELOG.html",
       "summary": "1.0.0 (2023-04-14) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 添加chrome图片显示问题 (c50634a)",
-      "content_html": "<h1> 1.0.0 (2023-04-14)</h1>\n<h3> ✨ Features | 新功能</h3>\n<ul>\n<li>💊 修改自动化node版本 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/fd72d0a\" target=\"_blank\" rel=\"noopener noreferrer\">fd72d0a</a>)</li>\n<li>🚀 初始化提交 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/7bc47ed\" target=\"_blank\" rel=\"noopener noreferrer\">7bc47ed</a>)</li>\n<li>🚀 添加gitlab自动化 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3448543\" target=\"_blank\" rel=\"noopener noreferrer\">3448543</a>)</li>\n<li>🚀 添加生成更新日志 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760f2d6\" target=\"_blank\" rel=\"noopener noreferrer\">760f2d6</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/016b513\" target=\"_blank\" rel=\"noopener noreferrer\">016b513</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f096cd\" target=\"_blank\" rel=\"noopener noreferrer\">9f096cd</a>)</li>\n<li>添加chrome图片显示问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c50634a\" target=\"_blank\" rel=\"noopener noreferrer\">c50634a</a>)</li>\n</ul>\n<h3> 🎫 Chores | 其他更新</h3>\n<ul>\n<li>💊 修改changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/814be43\" target=\"_blank\" rel=\"noopener noreferrer\">814be43</a>)</li>\n<li>💊 修改仓库地址 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c228a05\" target=\"_blank\" rel=\"noopener noreferrer\">c228a05</a>)</li>\n<li>💊 修改自动化目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8bd11cc\" target=\"_blank\" rel=\"noopener noreferrer\">8bd11cc</a>)</li>\n<li>💊 修改配置文件 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e6fa04b\" target=\"_blank\" rel=\"noopener noreferrer\">e6fa04b</a>)</li>\n<li>修改生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/65b617a\" target=\"_blank\" rel=\"noopener noreferrer\">65b617a</a>)</li>\n<li>修改配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/f6184a4\" target=\"_blank\" rel=\"noopener noreferrer\">f6184a4</a>)</li>\n<li>添加生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc\" target=\"_blank\" rel=\"noopener noreferrer\">e7cb2fc</a>)</li>\n</ul>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>💊 修复分支问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/970384d\" target=\"_blank\" rel=\"noopener noreferrer\">970384d</a>)</li>\n<li>💊 修复自动部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760658a\" target=\"_blank\" rel=\"noopener noreferrer\">760658a</a>)</li>\n<li>💊 修改存储仓库 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f3fa16\" target=\"_blank\" rel=\"noopener noreferrer\">9f3fa16</a>)</li>\n<li>💊 修改目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/cbddc9f\" target=\"_blank\" rel=\"noopener noreferrer\">cbddc9f</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/83af2dc\" target=\"_blank\" rel=\"noopener noreferrer\">83af2dc</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/ed958f0\" target=\"_blank\" rel=\"noopener noreferrer\">ed958f0</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/174011a\" target=\"_blank\" rel=\"noopener noreferrer\">174011a</a>)</li>\n<li>💊 删除无用依赖 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/21ba0aa\" target=\"_blank\" rel=\"noopener noreferrer\">21ba0aa</a>)</li>\n<li>修改配置依赖缺失 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8814edf\" target=\"_blank\" rel=\"noopener noreferrer\">8814edf</a>)</li>\n</ul>\n<h3> 📝 Documentation | 文档</h3>\n<ul>\n<li>\n<p>配置隐藏changelog文档在目录中显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6a506ae\" target=\"_blank\" rel=\"noopener noreferrer\">6a506ae</a>)</p>\n</li>\n<li>\n<p>Create CNAME (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2d32fcb\" target=\"_blank\" rel=\"noopener noreferrer\">2d32fcb</a>)</p>\n</li>\n</ul>\n",
+      "content_html": "<h1> 1.0.0 (2023-04-14)</h1>\n<h3> ✨ Features | 新功能</h3>\n<ul>\n<li>💊 修改自动化node版本 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/fd72d0a\" target=\"_blank\" rel=\"noopener noreferrer\">fd72d0a</a>)</li>\n<li>🚀 初始化提交 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/7bc47ed\" target=\"_blank\" rel=\"noopener noreferrer\">7bc47ed</a>)</li>\n<li>🚀 添加gitlab自动化 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3448543\" target=\"_blank\" rel=\"noopener noreferrer\">3448543</a>)</li>\n<li>🚀 添加生成更新日志 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760f2d6\" target=\"_blank\" rel=\"noopener noreferrer\">760f2d6</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/016b513\" target=\"_blank\" rel=\"noopener noreferrer\">016b513</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f096cd\" target=\"_blank\" rel=\"noopener noreferrer\">9f096cd</a>)</li>\n<li>添加chrome图片显示问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c50634a\" target=\"_blank\" rel=\"noopener noreferrer\">c50634a</a>)</li>\n</ul>\n<h3> 🎫 Chores | 其他更新</h3>\n<ul>\n<li>💊 修改changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/814be43\" target=\"_blank\" rel=\"noopener noreferrer\">814be43</a>)</li>\n<li>💊 修改仓库地址 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c228a05\" target=\"_blank\" rel=\"noopener noreferrer\">c228a05</a>)</li>\n<li>💊 修改自动化目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8bd11cc\" target=\"_blank\" rel=\"noopener noreferrer\">8bd11cc</a>)</li>\n<li>💊 修改配置文件 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e6fa04b\" target=\"_blank\" rel=\"noopener noreferrer\">e6fa04b</a>)</li>\n<li>修改生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/65b617a\" target=\"_blank\" rel=\"noopener noreferrer\">65b617a</a>)</li>\n<li>修改配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/f6184a4\" target=\"_blank\" rel=\"noopener noreferrer\">f6184a4</a>)</li>\n<li>添加生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc\" target=\"_blank\" rel=\"noopener noreferrer\">e7cb2fc</a>)</li>\n</ul>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>💊 修复分支问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/970384d\" target=\"_blank\" rel=\"noopener noreferrer\">970384d</a>)</li>\n<li>💊 修复自动部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760658a\" target=\"_blank\" rel=\"noopener noreferrer\">760658a</a>)</li>\n<li>💊 修改存储仓库 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f3fa16\" target=\"_blank\" rel=\"noopener noreferrer\">9f3fa16</a>)</li>\n<li>💊 修改目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/cbddc9f\" target=\"_blank\" rel=\"noopener noreferrer\">cbddc9f</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/83af2dc\" target=\"_blank\" rel=\"noopener noreferrer\">83af2dc</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/ed958f0\" target=\"_blank\" rel=\"noopener noreferrer\">ed958f0</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/174011a\" target=\"_blank\" rel=\"noopener noreferrer\">174011a</a>)</li>\n<li>💊 删除无用依赖 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/21ba0aa\" target=\"_blank\" rel=\"noopener noreferrer\">21ba0aa</a>)</li>\n<li>修改配置依赖缺失 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8814edf\" target=\"_blank\" rel=\"noopener noreferrer\">8814edf</a>)</li>\n<li>删除navbar和sidebar显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/235ed2a\" target=\"_blank\" rel=\"noopener noreferrer\">235ed2a</a>)</li>\n</ul>\n<h3> 📝 Documentation | 文档</h3>\n<ul>\n<li>\n<p>新增中文初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/737df14\" target=\"_blank\" rel=\"noopener noreferrer\">737df14</a>)</p>\n</li>\n<li>\n<p>新增初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3ed1553\" target=\"_blank\" rel=\"noopener noreferrer\">3ed1553</a>)</p>\n</li>\n<li>\n<p>配置隐藏changelog文档在目录中显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6a506ae\" target=\"_blank\" rel=\"noopener noreferrer\">6a506ae</a>)</p>\n</li>\n<li>\n<p>Create CNAME (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2d32fcb\" target=\"_blank\" rel=\"noopener noreferrer\">2d32fcb</a>)</p>\n</li>\n</ul>\n",
       "date_published": "2023-04-12T21:29:50.000Z",
       "date_modified": "2023-04-13T16:11:13.000Z",
       "authors": [],

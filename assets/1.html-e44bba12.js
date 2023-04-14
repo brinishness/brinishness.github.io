@@ -1,0 +1,1 @@
+import{_ as a,X as t,Y as c,Z as e,$ as s}from"./framework-c8dc88ca.js";const o={},r=e("h1",{id:"安装macos",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装macos","aria-hidden":"true"},"#"),s(" 安装macos")],-1),_=[r];function n(d,i){return t(),c("div",null,_)}const l=a(o,[["render",n],["__file","1.html.vue"]]);export{l as default};
