@@ -1,0 +1,1 @@
+import{_ as a,X as t,Y as c,Z as e,$ as r}from"./framework-d619fcd3.js";const n={},s=e("h1",{id:"安装archlinux",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装archlinux","aria-hidden":"true"},"#"),r(" 安装archlinux")],-1),o=[s];function _(i,d){return t(),c("div",null,o)}const l=a(n,[["render",_],["__file","1.html.vue"]]);export{l as default};
