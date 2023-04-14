@@ -167,6 +167,10 @@ export default hopeTheme({
             lazyLoading: false
         },
 
+        autoCatalog: {
+            exclude: ['/changelog.html']
+        },
+
         // all features are enabled for demo, only preserve features you need here
         mdEnhance: {
             align: true,
