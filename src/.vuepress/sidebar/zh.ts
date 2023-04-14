@@ -6,7 +6,6 @@ export const zhSidebar = sidebar({
       icon: "front-end",
       text: "前端",
       prefix: "frontend/",
-      // link: "frontend/",
       collapsible: true,
       children: "structure",
     },
