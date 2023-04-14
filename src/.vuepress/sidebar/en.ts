@@ -30,5 +30,12 @@ export const enSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      icon: "server",
+      text: "server",
+      prefix: "server/",
+      collapsible: true,
+      children: "structure",
+    },
   ],
 });
