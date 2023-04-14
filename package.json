@@ -41,7 +41,7 @@
     "docs:dev": "vuepress dev src",
     "docs:update-package": "pnpm dlx vp-update",
     "prepare": "husky install",
-    "version": "conventional-changelog -p custom-config commit-option.js angular -i src/CHANGELOG.md -s -r 0"
+    "version": "conventional-changelog -p custom-config -n commit-option.js angular -i src/CHANGELOG.md -s -r 0"
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
