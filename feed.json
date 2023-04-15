@@ -13,8 +13,8 @@
       "id": "https://brinishness.eu.org/intro.html",
       "summary": "个人简介 一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样",
       "content_html": "<h1> 个人简介</h1>\n<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>\n",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -25,8 +25,8 @@
       "summary": "slidestart Slide Demo A simple slide demo and useful hints. By Mr.Hope. Please scroll mouse wheel down to the next slide Marking Slides 👇 (#/1/1) -- Marking Slides Use --- to m...",
       "content_html": "<!-- markdownlint-disable MD024 MD033 MD051 -->\n",
       "image": "https://brinishness.eu.org/logo.svg",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -36,8 +36,8 @@
       "id": "https://brinishness.eu.org/backend/go/1.html",
       "summary": "测试标题 测试内容 fmt.println(\"Hello World\");",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-go line-numbers-mode\" data-ext=\"go\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -47,8 +47,8 @@
       "id": "https://brinishness.eu.org/backend/java/1.html",
       "summary": "测试标题 测试内容 System.out.println(\"hello world\");",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-java line-numbers-mode\" data-ext=\"java\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -60,7 +60,7 @@
       "content_html": "<h1> install nodejs</h1>\n<h2> step1 <a href=\"https://nodejs.org/en/download\" target=\"_blank\" rel=\"noopener noreferrer\">download</a></h2>\n<h2> step2</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png\" alt=\"choose system\" loading=\"lazy\"></p>\n<h2> 测试内容</h2>\n<div class=\"language-typescript line-numbers-mode\" data-ext=\"ts\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
       "image": "http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -70,8 +70,8 @@
       "id": "https://brinishness.eu.org/backend/python/1.html",
       "summary": "测试标题 测试内容 print(\"Hello World\");",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-python line-numbers-mode\" data-ext=\"py\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -83,7 +83,7 @@
       "content_html": "<h1> Chrome http to https</h1>\n<h2> 问题描述</h2>\n<blockquote>\n<p>google浏览器自动将图床http转为https，导致图片无法显示</p>\n</blockquote>\n<h2> 解决方案</h2>\n<h3> 1. 点击访问链接的小锁图标</h3>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png\" alt=\"第一步\" loading=\"lazy\"></p>\n<h3> 2. 点击网站设置</h3>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png\" alt=\"第二步\" loading=\"lazy\"></p>\n<h3> 3. 修改图中设置为允许</h3>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png\" alt=\"第三部\" loading=\"lazy\"></p>\n",
       "image": "http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png",
       "date_published": "2023-04-14T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Chrome"
@@ -96,7 +96,7 @@
       "summary": "测试标题 🚀 测试内容 body { background: red; }",
       "content_html": "<h1> 测试标题</h1>\n<h2> 🚀 测试内容</h2>\n<div class=\"language-css line-numbers-mode\" data-ext=\"css\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
       "date_published": "2023-04-10T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Css"
@@ -108,8 +108,8 @@
       "id": "https://brinishness.eu.org/frontend/html/1.html",
       "summary": "测试标题 测试内容 &lt;!doctype html&gt; &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta charset=\"UTF-8\"&gt; &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\"&gt; &lt;meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\"&gt; &lt;title&gt;Document&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-html line-numbers-mode\" data-ext=\"html\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Html"
@@ -122,7 +122,7 @@
       "summary": "测试标题 测试内容 console.log('hello world');",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Javascript"
@@ -134,8 +134,8 @@
       "id": "https://brinishness.eu.org/frontend/react/1.html",
       "summary": "react",
       "content_html": "<h1> react</h1>\n\n",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "React"
@@ -147,8 +147,8 @@
       "id": "https://brinishness.eu.org/frontend/react/2.html",
       "summary": "react-demo",
       "content_html": "<h1> react-demo</h1>\n",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "React"
@@ -160,8 +160,8 @@
       "id": "https://brinishness.eu.org/frontend/typescript/1.html",
       "summary": "测试标题 测试内容 const a: string = '123';",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-typescript line-numbers-mode\" data-ext=\"ts\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>\n",
-      "date_published": "2023-04-15T02:33:58.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_published": "2023-04-15T03:25:31.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Typescript"
@@ -174,7 +174,7 @@
       "summary": "测试标题 测试内容 const a = 1;",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>\n<details class=\"hint-container details\"><summary>Details</summary>\n\n</details>\n<p>安装 VuePress Theme Hope:</p>\n\n<p>安装 VuePress Plugin Markdown Enhance:</p>\n\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Vite"
@@ -187,7 +187,7 @@
       "summary": "vue vue",
       "content_html": "<h1> vue</h1>\n<details class=\"hint-container details\"><summary>vue</summary>\n\n</details>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Vue"
@@ -200,7 +200,7 @@
       "summary": "vuedemo",
       "content_html": "<h1> vuedemo</h1>\n\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Vue"
@@ -213,7 +213,7 @@
       "summary": "测试标题 测试内容 const a = 1;",
       "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "Webpack"
@@ -226,7 +226,7 @@
       "summary": "安装archlinux",
       "content_html": "<h1> 安装archlinux</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "arch",
@@ -240,7 +240,7 @@
       "summary": "安装centos7",
       "content_html": "<h1> 安装centos7</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "centos",
@@ -254,7 +254,7 @@
       "summary": "安装deepin",
       "content_html": "<h1> 安装deepin</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "deepin",
@@ -268,7 +268,7 @@
       "summary": "安装esxi",
       "content_html": "<h1> 安装esxi</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "esxi",
@@ -283,7 +283,7 @@
       "content_html": "<h1> install ventoy</h1>\n<blockquote>\n<p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>\n</blockquote>\n<h2> step1 <a href=\"https://www.ventoy.net/cn/download.html\" target=\"_blank\" rel=\"noopener noreferrer\">download</a></h2>\n<h2> step2 choose system</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png\" alt=\"choose system\" loading=\"lazy\"></p>\n<h2> step3 unzip</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png\" alt=\"unzip\" loading=\"lazy\"></p>\n<h2> step4 start(double click)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png\" alt=\"start\" loading=\"lazy\"></p>\n<h2> step5 choose disk and click install</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png\" alt=\"choose disk\" loading=\"lazy\"></p>\n<h2> step6 finish</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png\" alt=\"finish\" loading=\"lazy\"></p>\n<h2> step7 put iso to ventoy disk</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png\" alt=\"put\" loading=\"lazy\"></p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">Tips</p>\n<p>modify the first startup entry of the bios</p>\n</div>\n<h2> step8 boot then you can see link this</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png\" alt=\"boot\" loading=\"lazy\"></p>\n",
       "image": "http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "images"
@@ -296,7 +296,7 @@
       "summary": "安装macos",
       "content_html": "<h1> 安装macos</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "macos",
@@ -310,7 +310,7 @@
       "summary": "安装proxmox",
       "content_html": "<h1> 安装proxmox</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "proxmox",
@@ -324,7 +324,7 @@
       "summary": "安装ubuntu",
       "content_html": "<h1> 安装ubuntu</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "ubuntu",
@@ -338,7 +338,7 @@
       "summary": "安装windows10",
       "content_html": "<h1> 安装windows10</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "windows10",
@@ -352,7 +352,7 @@
       "summary": "安装windows11",
       "content_html": "<h1> 安装windows11</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "windows11",
@@ -366,7 +366,7 @@
       "summary": "安装docker",
       "content_html": "<h1> 安装docker</h1>\n\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "docker",
@@ -380,7 +380,7 @@
       "summary": "verdaccio部署",
       "content_html": "<h1> verdaccio部署</h1>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T02:33:58.000Z",
+      "date_modified": "2023-04-15T03:25:31.000Z",
       "authors": [],
       "tags": [
         "verdaccio",
@@ -391,9 +391,9 @@
       "title": "",
       "url": "https://brinishness.eu.org/CHANGELOG.html",
       "id": "https://brinishness.eu.org/CHANGELOG.html",
-      "summary": "1.0.3 (2023-04-15) 🐛 Bug Fixes | Bug 修复 修改文档生成 (d466f9d)",
-      "content_html": "<h2> 1.0.3 (2023-04-15)</h2>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/d466f9d\" target=\"_blank\" rel=\"noopener noreferrer\">d466f9d</a>)</li>\n</ul>\n",
-      "date_modified": "2023-04-15T02:36:31.953Z",
+      "summary": "1.0.3 (2023-04-15) 🐛 Bug Fixes | Bug 修复 修改文档生成 (df5ad81)",
+      "content_html": "<h2> 1.0.3 (2023-04-15)</h2>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/df5ad81\" target=\"_blank\" rel=\"noopener noreferrer\">df5ad81</a>)</li>\n</ul>\n",
+      "date_modified": "2023-04-15T03:28:50.529Z",
       "authors": [],
       "tags": []
     }

@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/zh/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Apr 2023 02:36:31 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Apr 2023 02:36:31 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 03:28:50 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 03:28:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -41,7 +41,7 @@
       <guid>https://brinishness.eu.org/zh/intro.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">介绍页</source>
       <description>介绍页 将你的个人介绍和档案放置在此处。</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 介绍页</h1>
 <p>将你的个人介绍和档案放置在此处。</p>
 ]]></content:encoded>
@@ -52,7 +52,7 @@
       <guid>https://brinishness.eu.org/zh/slides.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">幻灯片页</source>
       <description>slidestart 幻灯片演示 一个简单的幻灯片演示与各种小贴士。 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页 标注幻灯片 👇 (#/1/1) -- 标注幻灯片 使用 --- 标注水平幻灯片 在水平幻灯片中使用 -- 分割垂直幻灯片 使用 在幻灯片上添加属性 使用 在前一个 HTML 元素上添加属性 Markdown 你可以在幻灯片中使用 M...</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
 ]]></content:encoded>
       <enclosure url="https://brinishness.eu.org/logo.svg" type="image/svg+xml"/>
@@ -63,7 +63,7 @@
       <guid>https://brinishness.eu.org/zh/backend/go/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 fmt.println(&amp;quot;Hello World&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -74,7 +74,7 @@
       <guid>https://brinishness.eu.org/zh/backend/java/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 System.out.println(&amp;quot;hello world&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -100,7 +100,7 @@
       <guid>https://brinishness.eu.org/zh/backend/python/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 print(&amp;quot;Hello World&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -147,7 +147,7 @@
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&amp;quot;&amp;gt; &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;ie=edge&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
       <category>Html</category>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
@@ -170,7 +170,7 @@
       <guid>https://brinishness.eu.org/zh/frontend/node/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">install nodejs</source>
       <description>install nodejs step1 download step2 测试内容</description>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> install nodejs</h1>
 <h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
 <h2> step2</h2>
@@ -186,7 +186,7 @@
       <source url="https://brinishness.eu.org/zh/rss.xml">react</source>
       <description>react</description>
       <category>React</category>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> react</h1>
 
 ]]></content:encoded>
@@ -198,7 +198,7 @@
       <source url="https://brinishness.eu.org/zh/rss.xml">react-demo</source>
       <description>react-demo</description>
       <category>React</category>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> react-demo</h1>
 ]]></content:encoded>
     </item>
@@ -209,7 +209,7 @@
       <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
       <description>测试标题 测试内容 const a: string = &amp;apos;123&amp;apos;;</description>
       <category>Typescript</category>
-      <pubDate>Sat, 15 Apr 2023 02:33:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
