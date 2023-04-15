@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-15T03:28:50.396Z</updated>
+  <updated>2023-04-15T03:44:13.081Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -35,31 +35,31 @@
     <title type="text">个人简介</title>
     <id>https://brinishness.eu.org/intro.html</id>
     <link href="https://brinishness.eu.org/intro.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 个人简介</h1>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 个人简介</h1>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
 ]]></content>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">Slide page</title>
     <id>https://brinishness.eu.org/slides.html</id>
     <link href="https://brinishness.eu.org/slides.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
 ]]></summary>
     <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
 ]]></content>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/backend/go/1.html</id>
     <link href="https://brinishness.eu.org/backend/go/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>fmt<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -67,13 +67,13 @@
     <content type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/backend/java/1.html</id>
     <link href="https://brinishness.eu.org/backend/java/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"hello world"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -81,13 +81,13 @@
     <content type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">install nodejs</title>
     <id>https://brinishness.eu.org/backend/node/1.html</id>
     <link href="https://brinishness.eu.org/backend/node/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> install nodejs</h1>
 <h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
 <h2> step2</h2>
@@ -105,7 +105,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/backend/python/1.html</id>
     <link href="https://brinishness.eu.org/backend/python/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -113,13 +113,13 @@
     <content type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">Chrome http to https</title>
     <id>https://brinishness.eu.org/brower/chrome/1.html</id>
     <link href="https://brinishness.eu.org/brower/chrome/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> Chrome http to https</h1>
 <h2> 问题描述</h2>
 <blockquote>
@@ -149,7 +149,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/css/1.html</id>
     <link href="https://brinishness.eu.org/frontend/css/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 🚀 测试内容</h2>
 <div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">body</span> <span class="token punctuation">{</span>
@@ -166,7 +166,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/html/1.html</id>
     <link href="https://brinishness.eu.org/frontend/html/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">doctype</span> <span class="token name">html</span><span class="token punctuation">&gt;</span></span>
@@ -187,13 +187,13 @@
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="Html"/>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/javascript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/javascript/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'hello world'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -208,7 +208,7 @@
     <title type="text">react</title>
     <id>https://brinishness.eu.org/frontend/react/1.html</id>
     <link href="https://brinishness.eu.org/frontend/react/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> react</h1>
 
 ]]></summary>
@@ -216,25 +216,25 @@
 
 ]]></content>
     <category term="React"/>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">react-demo</title>
     <id>https://brinishness.eu.org/frontend/react/2.html</id>
     <link href="https://brinishness.eu.org/frontend/react/2.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> react-demo</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> react-demo</h1>
 ]]></content>
     <category term="React"/>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/typescript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/typescript/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token keyword">const</span> a<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> <span class="token string">'123'</span><span class="token punctuation">;</span>
@@ -244,13 +244,13 @@
 <div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
 ]]></content>
     <category term="Typescript"/>
-    <published>2023-04-15T03:25:31.000Z</published>
+    <published>2023-04-15T03:41:50.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/vite/1.html</id>
     <link href="https://brinishness.eu.org/frontend/vite/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
@@ -273,7 +273,7 @@
     <title type="text">vue</title>
     <id>https://brinishness.eu.org/frontend/vue/1.html</id>
     <link href="https://brinishness.eu.org/frontend/vue/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> vue</h1>
 <details class="hint-container details"><summary>vue</summary>
 
@@ -291,7 +291,7 @@
     <title type="text">vuedemo</title>
     <id>https://brinishness.eu.org/frontend/vue/2.html</id>
     <link href="https://brinishness.eu.org/frontend/vue/2.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> vuedemo</h1>
 
 ]]></summary>
@@ -305,7 +305,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/webpack/1.html</id>
     <link href="https://brinishness.eu.org/frontend/webpack/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
@@ -320,7 +320,7 @@
     <title type="text">安装archlinux</title>
     <id>https://brinishness.eu.org/os/arch/1.html</id>
     <link href="https://brinishness.eu.org/os/arch/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装archlinux</h1>
@@ -333,7 +333,7 @@
     <title type="text">安装centos7</title>
     <id>https://brinishness.eu.org/os/centos/1.html</id>
     <link href="https://brinishness.eu.org/os/centos/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装centos7</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装centos7</h1>
@@ -346,7 +346,7 @@
     <title type="text">安装deepin</title>
     <id>https://brinishness.eu.org/os/deepin/1.html</id>
     <link href="https://brinishness.eu.org/os/deepin/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装deepin</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装deepin</h1>
@@ -359,7 +359,7 @@
     <title type="text">安装esxi</title>
     <id>https://brinishness.eu.org/os/esxi/1.html</id>
     <link href="https://brinishness.eu.org/os/esxi/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装esxi</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装esxi</h1>
@@ -372,7 +372,7 @@
     <title type="text">install ventoy</title>
     <id>https://brinishness.eu.org/os/images/1.html</id>
     <link href="https://brinishness.eu.org/os/images/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> install ventoy</h1>
 <blockquote>
 <p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
@@ -408,7 +408,7 @@
     <title type="text">安装macos</title>
     <id>https://brinishness.eu.org/os/macos/1.html</id>
     <link href="https://brinishness.eu.org/os/macos/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装macos</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装macos</h1>
@@ -421,7 +421,7 @@
     <title type="text">安装proxmox</title>
     <id>https://brinishness.eu.org/os/proxmox/1.html</id>
     <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装proxmox</h1>
@@ -434,7 +434,7 @@
     <title type="text">安装ubuntu</title>
     <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
     <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
@@ -447,7 +447,7 @@
     <title type="text">安装windows10</title>
     <id>https://brinishness.eu.org/os/windows/1.html</id>
     <link href="https://brinishness.eu.org/os/windows/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows10</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装windows10</h1>
@@ -460,7 +460,7 @@
     <title type="text">安装windows11</title>
     <id>https://brinishness.eu.org/os/windows/2.html</id>
     <link href="https://brinishness.eu.org/os/windows/2.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows11</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装windows11</h1>
@@ -473,7 +473,7 @@
     <title type="text">安装docker</title>
     <id>https://brinishness.eu.org/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装docker</h1>
 
 ]]></summary>
@@ -488,7 +488,7 @@
     <title type="text">verdaccio部署</title>
     <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-15T03:25:31.000Z</updated>
+    <updated>2023-04-15T03:41:50.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> verdaccio部署</h1>
@@ -501,17 +501,17 @@
     <title type="text"></title>
     <id>https://brinishness.eu.org/CHANGELOG.html</id>
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
-    <updated>2023-04-15T03:28:50.529Z</updated>
+    <updated>2023-04-15T03:44:13.209Z</updated>
     <summary type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
 <h3> 🐛 Bug Fixes | Bug 修复</h3>
 <ul>
-<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
+<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/127a05b" target="_blank" rel="noopener noreferrer">127a05b</a>)</li>
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
 <h3> 🐛 Bug Fixes | Bug 修复</h3>
 <ul>
-<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
+<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/127a05b" target="_blank" rel="noopener noreferrer">127a05b</a>)</li>
 </ul>
 ]]></content>
   </entry>

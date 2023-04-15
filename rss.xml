@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Sat, 15 Apr 2023 03:28:50 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Apr 2023 03:28:50 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 03:44:13 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 03:44:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -43,7 +43,7 @@
       <guid>https://brinishness.eu.org/intro.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">个人简介</source>
       <description>个人简介 一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</description>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 个人简介</h1>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
 ]]></content:encoded>
@@ -54,7 +54,7 @@
       <guid>https://brinishness.eu.org/slides.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">Slide page</source>
       <description>slidestart Slide Demo A simple slide demo and useful hints. By Mr.Hope. Please scroll mouse wheel down to the next slide Marking Slides 👇 (#/1/1) -- Marking Slides Use --- to m...</description>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
 ]]></content:encoded>
       <enclosure url="https://brinishness.eu.org/logo.svg" type="image/svg+xml"/>
@@ -65,7 +65,7 @@
       <guid>https://brinishness.eu.org/backend/go/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">测试标题</source>
       <description>测试标题 测试内容 fmt.println(&amp;quot;Hello World&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -76,7 +76,7 @@
       <guid>https://brinishness.eu.org/backend/java/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">测试标题</source>
       <description>测试标题 测试内容 System.out.println(&amp;quot;hello world&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -102,7 +102,7 @@
       <guid>https://brinishness.eu.org/backend/python/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">测试标题</source>
       <description>测试标题 测试内容 print(&amp;quot;Hello World&amp;quot;);</description>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
@@ -149,7 +149,7 @@
       <source url="https://brinishness.eu.org/rss.xml">测试标题</source>
       <description>测试标题 测试内容 &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&amp;quot;&amp;gt; &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;ie=edge&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
       <category>Html</category>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
@@ -173,7 +173,7 @@
       <source url="https://brinishness.eu.org/rss.xml">react</source>
       <description>react</description>
       <category>React</category>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> react</h1>
 
 ]]></content:encoded>
@@ -185,7 +185,7 @@
       <source url="https://brinishness.eu.org/rss.xml">react-demo</source>
       <description>react-demo</description>
       <category>React</category>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> react-demo</h1>
 ]]></content:encoded>
     </item>
@@ -196,7 +196,7 @@
       <source url="https://brinishness.eu.org/rss.xml">测试标题</source>
       <description>测试标题 测试内容 const a: string = &amp;apos;123&amp;apos;;</description>
       <category>Typescript</category>
-      <pubDate>Sat, 15 Apr 2023 03:25:31 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 03:41:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
@@ -432,11 +432,11 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.3 (2023-04-15) 🐛 Bug Fixes | Bug 修复 修改文档生成 (df5ad81)</description>
+      <description>1.0.3 (2023-04-15) 🐛 Bug Fixes | Bug 修复 修改文档生成 (127a05b)</description>
       <content:encoded><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
 <h3> 🐛 Bug Fixes | Bug 修复</h3>
 <ul>
-<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
+<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/127a05b" target="_blank" rel="noopener noreferrer">127a05b</a>)</li>
 </ul>
 ]]></content:encoded>
     </item>
