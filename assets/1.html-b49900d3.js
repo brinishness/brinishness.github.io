@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as n,Z as e,$ as c}from"./framework-9c5c00c4.js";const r={},s=e("h1",{id:"安装ubuntu",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装ubuntu","aria-hidden":"true"},"#"),c(" 安装ubuntu")],-1),o=[s];function _(u,d){return a(),n("div",null,o)}const h=t(r,[["render",_],["__file","1.html.vue"]]);export{h as default};
