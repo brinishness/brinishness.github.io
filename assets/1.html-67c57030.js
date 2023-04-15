@@ -1,0 +1,1 @@
+import{_ as t,X as c,Y as s,Z as e,$ as a}from"./framework-9c5c00c4.js";const o={},n=e("h1",{id:"安装centos7",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装centos7","aria-hidden":"true"},"#"),a(" 安装centos7")],-1),r=[n];function _(d,i){return c(),s("div",null,r)}const l=t(o,[["render",_],["__file","1.html.vue"]]);export{l as default};
