@@ -45,12 +45,10 @@
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
-      "pnpm run version",
       "git add --force"
     ],
     "*.{md,json}": [
-      "prettier --write",
-      "git add --forzce"
+      "git add --force"
     ]
   },
   "husky": {
