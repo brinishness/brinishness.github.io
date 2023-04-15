@@ -70,6 +70,8 @@ export default hopeTheme({
         },
     },
 
+    sidebarSorter: ["filename", "order", "title"],
+
     locales: {
         "/": {
             // navbar
@@ -170,6 +172,7 @@ export default hopeTheme({
         },
 
         autoCatalog: {
+            index: true,
             exclude: ['/changelog.html']
         },
 
