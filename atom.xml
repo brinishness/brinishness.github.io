@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-15T00:40:05.261Z</updated>
+  <updated>2023-04-15T00:59:21.446Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -211,7 +211,7 @@
     <id>https://brinishness.eu.org/CHANGELOG.html</id>
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
     <updated>2023-04-14T06:54:52.000Z</updated>
-    <summary type="html"><![CDATA[<h2> 1.0.1 (2023-04-15)</h2>
+    <summary type="html"><![CDATA[<h2> 1.0.2 (2023-04-15)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -224,9 +224,10 @@
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
 </ul>]]></summary>
-    <content type="html"><![CDATA[<h2> 1.0.1 (2023-04-15)</h2>
+    <content type="html"><![CDATA[<h2> 1.0.2 (2023-04-15)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -239,6 +240,7 @@
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
 </ul>
 <h3> 🎫 Chores | 其他更新</h3>
