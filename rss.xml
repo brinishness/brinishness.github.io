@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Sat, 15 Apr 2023 00:59:21 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Apr 2023 00:59:21 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 01:58:09 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 01:58:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -198,9 +198,9 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.2 (2023-04-15) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 添加chrome图片显示问题 (c50634a) 版本升级 (dfb6168) 版本升级 (de56e99)</description>
+      <description>1.0.3 (2023-04-15) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 添加chrome图片显示问题 (c50634a) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 1.0.2 (2023-04-15)</h2>
+      <content:encoded><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -213,6 +213,7 @@
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/da09f8c" target="_blank" rel="noopener noreferrer">da09f8c</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
 </ul>
