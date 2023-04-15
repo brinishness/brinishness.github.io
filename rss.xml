@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Sat, 15 Apr 2023 18:45:08 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Apr 2023 18:45:08 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 19:26:01 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 19:26:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,6 +15,9 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
+    <category>Jenkins</category>
+    <category>Docker</category>
+    <category>Nexus</category>
     <category>docker</category>
     <category>install</category>
     <category>verdaccio</category>
@@ -37,6 +40,115 @@
     <category>Vue</category>
     <category>Webpack</category>
     <category>images</category>
+    <item>
+      <title>jenkins部署</title>
+      <link>https://brinishness.eu.org/server/jenkins/1.html</link>
+      <guid>https://brinishness.eu.org/server/jenkins/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">jenkins部署</source>
+      <description>jenkins部署 使用docker-compose部署jenkins 1.安装docker并配置docker-compose 查看使用方式 2.创建jenkins目录 mkdir -p /data/env/jenkins/data</description>
+      <category>Jenkins</category>
+      <category>Docker</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> jenkins部署</h1>
+<h2> 使用docker-compose部署jenkins</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建jenkins目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动jenkins</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问jenkins</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.安装插件</h3>
+<h3> 8.创建管理员账号</h3>
+<h3> 9.完成jenkins安装</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>jenkins推荐插件安装</title>
+      <link>https://brinishness.eu.org/server/jenkins/2.html</link>
+      <guid>https://brinishness.eu.org/server/jenkins/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">jenkins推荐插件安装</source>
+      <description>jenkins推荐插件安装 推荐插件 插件名称 插件介绍 docker docker-pipeline</description>
+      <category>Jenkins</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> jenkins推荐插件安装</h1>
+<h2> 推荐插件</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">插件名称</th>
+<th>插件介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">docker</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left">docker-pipeline</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3> 1. <a href="https://plugins.jenkins.io/docker-plugin" target="_blank" rel="noopener noreferrer">Docker</a></h3>
+<h3> 2. <a href="https://plugins.jenkins.io/docker-workflow" target="_blank" rel="noopener noreferrer">Docker Pipeline</a></h3>
+<h3> 3. <a href="https://plugins.jenkins.io/docker-commons" target="_blank" rel="noopener noreferrer">Docker Commons</a></h3>
+<h3> 4. <a href="https://plugins.jenkins.io/docker-build-publish" target="_blank" rel="noopener noreferrer">Docker Build and Publish</a></h3>
+<h3> 5. <a href="https://plugins.jenkins.io/nexus-artifact-uploader" target="_blank" rel="noopener noreferrer">Nexus Artifact Uploader</a></h3>
+<h3> 6. <a href="https://plugins.jenkins.io/role-strategy" target="_blank" rel="noopener noreferrer">Role-based Authorization Strategy</a></h3>
+<h3> 7. <a href="https://plugins.jenkins.io/wxwork-notification" target="_blank" rel="noopener noreferrer">WXWork Notification</a></h3>
+<h3> 8. <a href="https://plugins.jenkins.io/publish-over-ssh" target="_blank" rel="noopener noreferrer">Publish Over SSH</a></h3>
+<h3> 9. <a href="https://plugins.jenkins.io/email-ext" target="_blank" rel="noopener noreferrer">Email Extension</a></h3>
+<h3> 10. <a href="https://plugins.jenkins.io/emailext-template" target="_blank" rel="noopener noreferrer">Email Extension Template</a></h3>
+<h3> 11. <a href="https://plugins.jenkins.io/build-user-vars-plugin" target="_blank" rel="noopener noreferrer">Build User Vars</a></h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>推荐插件配置</title>
+      <link>https://brinishness.eu.org/server/jenkins/3.html</link>
+      <guid>https://brinishness.eu.org/server/jenkins/3.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">推荐插件配置</source>
+      <description>推荐插件配置</description>
+      <category>Jenkins</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 推荐插件配置</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>nexus部署</title>
+      <link>https://brinishness.eu.org/server/nexus/1.html</link>
+      <guid>https://brinishness.eu.org/server/nexus/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">nexus部署</source>
+      <description>nexus部署 使用docker-compose部署nexus 1.安装docker并配置docker-compose 查看使用方式 2.创建nexus目录 mkdir -p /data/env/nexus/data</description>
+      <category>Nexus</category>
+      <category>Docker</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> nexus部署</h1>
+<h2> 使用docker-compose部署nexus</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建nexus目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.修改密码</h3>
+<h3> 8.完成nexus安装</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>nexus配置</title>
+      <link>https://brinishness.eu.org/server/nexus/2.html</link>
+      <guid>https://brinishness.eu.org/server/nexus/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">nexus配置</source>
+      <description>nexus配置</description>
+      <pubDate>Sat, 15 Apr 2023 19:22:52 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> nexus配置</h1>
+]]></content:encoded>
+    </item>
     <item>
       <title>安装docker</title>
       <link>https://brinishness.eu.org/server/docker/1.html</link>
@@ -245,6 +357,7 @@
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6bf63ef" target="_blank" rel="noopener noreferrer">6bf63ef</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
+<li>修改目录排序配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/786cdad" target="_blank" rel="noopener noreferrer">786cdad</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 </ul>
@@ -253,6 +366,7 @@
 <li>修改目录和标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0" target="_blank" rel="noopener noreferrer">1d5e5c0</a>)</li>
 <li>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</li>
 <li>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</li>
+<li>添加docker部署nexus和jenkins (<a href="https://github.com/brinishness/brinishness.github.io/commit/e1cbb0d" target="_blank" rel="noopener noreferrer">e1cbb0d</a>)</li>
 <li>添加服务器页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6aa001d" target="_blank" rel="noopener noreferrer">6aa001d</a>)</li>
 <li>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</li>
 </ul>
