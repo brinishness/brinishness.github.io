@@ -45,6 +45,7 @@
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
+      "pnpm run version",
       "git add --force"
     ],
     "*.{md,json}": [

@@ -21,7 +21,7 @@ export default hopeTheme({
         url: "https://brinishness.eu.org",
     },
 
-    iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_x97qitb1ofk.css"],
+    iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_m3as7bcc7w.css"],
 
     iconPrefix: "iconfont icon-",
     logo: "/goutou.svg",
