@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-14T18:55:49.359Z</updated>
+  <updated>2023-04-15T00:40:05.261Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -35,7 +35,7 @@
     <title type="text">安装docker</title>
     <id>https://brinishness.eu.org/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-14T18:53:27.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装docker</h1>
 
 ]]></summary>
@@ -50,7 +50,7 @@
     <title type="text">verdaccio部署</title>
     <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-14T18:53:27.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> verdaccio部署</h1>
@@ -63,7 +63,7 @@
     <title type="text">安装centos7</title>
     <id>https://brinishness.eu.org/os/centos/1.html</id>
     <link href="https://brinishness.eu.org/os/centos/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装centos7</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装centos7</h1>
@@ -76,7 +76,7 @@
     <title type="text">安装deepin</title>
     <id>https://brinishness.eu.org/os/deepin/1.html</id>
     <link href="https://brinishness.eu.org/os/deepin/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装deepin</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装deepin</h1>
@@ -89,7 +89,7 @@
     <title type="text">安装esxi</title>
     <id>https://brinishness.eu.org/os/esxi/1.html</id>
     <link href="https://brinishness.eu.org/os/esxi/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装esxi</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装esxi</h1>
@@ -102,7 +102,7 @@
     <title type="text">安装macos</title>
     <id>https://brinishness.eu.org/os/macos/1.html</id>
     <link href="https://brinishness.eu.org/os/macos/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装macos</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装macos</h1>
@@ -115,7 +115,7 @@
     <title type="text">安装proxmox</title>
     <id>https://brinishness.eu.org/os/proxmox/1.html</id>
     <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装proxmox</h1>
@@ -128,7 +128,7 @@
     <title type="text">安装ubuntu</title>
     <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
     <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
@@ -141,7 +141,7 @@
     <title type="text">安装windows10</title>
     <id>https://brinishness.eu.org/os/windows/1.html</id>
     <link href="https://brinishness.eu.org/os/windows/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows10</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装windows10</h1>
@@ -154,7 +154,7 @@
     <title type="text">安装windows11</title>
     <id>https://brinishness.eu.org/os/windows/2.html</id>
     <link href="https://brinishness.eu.org/os/windows/2.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows11</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装windows11</h1>
@@ -197,7 +197,7 @@
     <title type="text">安装archlinux</title>
     <id>https://brinishness.eu.org/os/arch/1.html</id>
     <link href="https://brinishness.eu.org/os/arch/1.html"/>
-    <updated>2023-04-14T04:51:25.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 安装archlinux</h1>
@@ -211,7 +211,10 @@
     <id>https://brinishness.eu.org/CHANGELOG.html</id>
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
     <updated>2023-04-14T06:54:52.000Z</updated>
-    <summary type="html"><![CDATA[<h2> 1.0.1 (2023-04-14)</h2>
+    <summary type="html"><![CDATA[<h2> 1.0.1 (2023-04-15)</h2>
+<ul>
+<li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
+</ul>
 <h3> ✨ Features | 新功能</h3>
 <ul>
 <li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
@@ -223,7 +226,10 @@
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
 </ul>]]></summary>
-    <content type="html"><![CDATA[<h2> 1.0.1 (2023-04-14)</h2>
+    <content type="html"><![CDATA[<h2> 1.0.1 (2023-04-15)</h2>
+<ul>
+<li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
+</ul>
 <h3> ✨ Features | 新功能</h3>
 <ul>
 <li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
@@ -257,26 +263,17 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
 <li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
+<li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 </ul>
 <h3> 📝 Documentation | 文档</h3>
 <ul>
-<li>
-<p>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</p>
-</li>
-<li>
-<p>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</p>
-</li>
-<li>
-<p>添加服务器页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6aa001d" target="_blank" rel="noopener noreferrer">6aa001d</a>)</p>
-</li>
-<li>
-<p>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</p>
-</li>
-<li>
-<p>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</p>
-</li>
+<li>修改目录和标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0" target="_blank" rel="noopener noreferrer">1d5e5c0</a>)</li>
+<li>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</li>
+<li>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</li>
+<li>添加服务器页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6aa001d" target="_blank" rel="noopener noreferrer">6aa001d</a>)</li>
+<li>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</li>
 </ul>
 ]]></content>
     <published>2023-04-12T21:29:50.000Z</published>
@@ -428,7 +425,7 @@
     <title type="text">react</title>
     <id>https://brinishness.eu.org/frontend/react/1.html</id>
     <link href="https://brinishness.eu.org/frontend/react/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> react</h1>
 
 ]]></summary>
@@ -442,7 +439,7 @@
     <title type="text">react-demo</title>
     <id>https://brinishness.eu.org/frontend/react/2.html</id>
     <link href="https://brinishness.eu.org/frontend/react/2.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> react-demo</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> react-demo</h1>
@@ -454,7 +451,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/typescript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/typescript/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T00:35:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token keyword">const</span> a<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> <span class="token string">'123'</span><span class="token punctuation">;</span>
