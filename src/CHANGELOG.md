@@ -1,3 +1,29 @@
+## [1.0.4](https://github.com/brinishness/brinishness.github.io/compare/v1.0.3...v1.0.4) (2023-04-15)
+
+
+### ✨ Features | 新功能
+
+* 本地提交changelog ([0146308](https://github.com/brinishness/brinishness.github.io/commit/0146308))
+* 添加钩子 ([1ea0ea3](https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修改changelog为本地生成 ([2756fe9](https://github.com/brinishness/brinishness.github.io/commit/2756fe9))
+* 修改文档生成 ([5f077b6](https://github.com/brinishness/brinishness.github.io/commit/5f077b6))
+* 修改文档生成 ([127a05b](https://github.com/brinishness/brinishness.github.io/commit/127a05b))
+* 修改文档生成 ([df5ad81](https://github.com/brinishness/brinishness.github.io/commit/df5ad81))
+* 修改文档生成 ([6bf63ef](https://github.com/brinishness/brinishness.github.io/commit/6bf63ef))
+* 修改文档生成 ([d466f9d](https://github.com/brinishness/brinishness.github.io/commit/d466f9d))
+* 修改目录排序配置 ([786cdad](https://github.com/brinishness/brinishness.github.io/commit/786cdad))
+
+
+### 📝 Documentation | 文档
+
+* 添加docker部署nexus和jenkins ([e1cbb0d](https://github.com/brinishness/brinishness.github.io/commit/e1cbb0d))
+
+
+
 ## [1.0.3](https://github.com/brinishness/brinishness.github.io/compare/v1.0.2...v1.0.3) (2023-04-15)
 
 
