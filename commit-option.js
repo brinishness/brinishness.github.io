@@ -76,7 +76,7 @@ module.exports = {
             return commit
         },
         groupBy: 'type',
-        commitGroupsSort: 'title',
+        commitGroupsSort: ["title", "time"],
         commitsSort: ['scope', 'subject'],
         noteGroupsSort: 'title',
         notesSort: compareFunc
