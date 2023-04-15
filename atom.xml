@@ -5,23 +5,11 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-15T02:19:36.356Z</updated>
+  <updated>2023-04-15T02:36:31.820Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
-  <category term="docker"/>
-  <category term="install"/>
-  <category term="verdaccio"/>
-  <category term="centos"/>
-  <category term="deepin"/>
-  <category term="esxi"/>
-  <category term="macos"/>
-  <category term="proxmox"/>
-  <category term="ubuntu"/>
-  <category term="windows10"/>
-  <category term="windows11"/>
   <category term="Chrome"/>
-  <category term="arch"/>
   <category term="Css"/>
   <category term="Html"/>
   <category term="Javascript"/>
@@ -30,144 +18,108 @@
   <category term="Vite"/>
   <category term="Vue"/>
   <category term="Webpack"/>
+  <category term="arch"/>
+  <category term="install"/>
+  <category term="centos"/>
+  <category term="deepin"/>
+  <category term="esxi"/>
   <category term="images"/>
+  <category term="macos"/>
+  <category term="proxmox"/>
+  <category term="ubuntu"/>
+  <category term="windows10"/>
+  <category term="windows11"/>
+  <category term="docker"/>
+  <category term="verdaccio"/>
   <entry>
-    <title type="text">安装docker</title>
-    <id>https://brinishness.eu.org/server/docker/1.html</id>
-    <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装docker</h1>
-
+    <title type="text">个人简介</title>
+    <id>https://brinishness.eu.org/intro.html</id>
+    <link href="https://brinishness.eu.org/intro.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 个人简介</h1>
+<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
 ]]></summary>
-    <content type="html"><![CDATA[<h1> 安装docker</h1>
-
+    <content type="html"><![CDATA[<h1> 个人简介</h1>
+<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
 ]]></content>
-    <category term="docker"/>
-    <category term="install"/>
+    <published>2023-04-15T02:33:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Slide page</title>
+    <id>https://brinishness.eu.org/slides.html</id>
+    <link href="https://brinishness.eu.org/slides.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
+]]></summary>
+    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
+]]></content>
+    <published>2023-04-15T02:33:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/go/1.html</id>
+    <link href="https://brinishness.eu.org/backend/go/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>fmt<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-15T02:33:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/java/1.html</id>
+    <link href="https://brinishness.eu.org/backend/java/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"hello world"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-15T02:33:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">install nodejs</title>
+    <id>https://brinishness.eu.org/backend/node/1.html</id>
+    <link href="https://brinishness.eu.org/backend/node/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> install nodejs</h1>
+<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
+<h2> 测试内容</h2>]]></summary>
+    <content type="html"><![CDATA[<h1> install nodejs</h1>
+<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
+<h2> step2</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
+<h2> 测试内容</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">verdaccio部署</title>
-    <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
-    <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> verdaccio部署</h1>
-]]></content>
-    <category term="verdaccio"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装centos7</title>
-    <id>https://brinishness.eu.org/os/centos/1.html</id>
-    <link href="https://brinishness.eu.org/os/centos/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装centos7</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装centos7</h1>
-]]></content>
-    <category term="centos"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装deepin</title>
-    <id>https://brinishness.eu.org/os/deepin/1.html</id>
-    <link href="https://brinishness.eu.org/os/deepin/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装deepin</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装deepin</h1>
-]]></content>
-    <category term="deepin"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装esxi</title>
-    <id>https://brinishness.eu.org/os/esxi/1.html</id>
-    <link href="https://brinishness.eu.org/os/esxi/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装esxi</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装esxi</h1>
-]]></content>
-    <category term="esxi"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装macos</title>
-    <id>https://brinishness.eu.org/os/macos/1.html</id>
-    <link href="https://brinishness.eu.org/os/macos/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装macos</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装macos</h1>
-]]></content>
-    <category term="macos"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装proxmox</title>
-    <id>https://brinishness.eu.org/os/proxmox/1.html</id>
-    <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装proxmox</h1>
-]]></content>
-    <category term="proxmox"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装ubuntu</title>
-    <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
-    <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
-]]></content>
-    <category term="ubuntu"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装windows10</title>
-    <id>https://brinishness.eu.org/os/windows/1.html</id>
-    <link href="https://brinishness.eu.org/os/windows/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装windows10</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装windows10</h1>
-]]></content>
-    <category term="windows10"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">安装windows11</title>
-    <id>https://brinishness.eu.org/os/windows/2.html</id>
-    <link href="https://brinishness.eu.org/os/windows/2.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装windows11</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装windows11</h1>
-]]></content>
-    <category term="windows11"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
+    <title type="text">测试标题</title>
+    <id>https://brinishness.eu.org/backend/python/1.html</id>
+    <link href="https://brinishness.eu.org/backend/python/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> 测试标题</h1>
+<h2> 测试内容</h2>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <published>2023-04-15T02:33:58.000Z</published>
   </entry>
   <entry>
     <title type="text">Chrome http to https</title>
     <id>https://brinishness.eu.org/brower/chrome/1.html</id>
     <link href="https://brinishness.eu.org/brower/chrome/1.html"/>
-    <updated>2023-04-14T01:41:20.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> Chrome http to https</h1>
 <h2> 问题描述</h2>
 <blockquote>
@@ -194,183 +146,10 @@
     <published>2023-04-14T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">安装archlinux</title>
-    <id>https://brinishness.eu.org/os/arch/1.html</id>
-    <link href="https://brinishness.eu.org/os/arch/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装archlinux</h1>
-]]></content>
-    <category term="arch"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text"></title>
-    <id>https://brinishness.eu.org/CHANGELOG.html</id>
-    <link href="https://brinishness.eu.org/CHANGELOG.html"/>
-    <updated>2023-04-14T06:54:52.000Z</updated>
-    <summary type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
-<ul>
-<li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
-</ul>
-<h3> ✨ Features | 新功能</h3>
-<ul>
-<li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
-<li>🚀 初始化提交 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7bc47ed" target="_blank" rel="noopener noreferrer">7bc47ed</a>)</li>
-<li>🚀 添加gitlab自动化 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3448543" target="_blank" rel="noopener noreferrer">3448543</a>)</li>
-<li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
-<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
-<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
-<li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/da09f8c" target="_blank" rel="noopener noreferrer">da09f8c</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
-<ul>
-<li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
-</ul>
-<h3> ✨ Features | 新功能</h3>
-<ul>
-<li>💊 修改自动化node版本 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fd72d0a" target="_blank" rel="noopener noreferrer">fd72d0a</a>)</li>
-<li>🚀 初始化提交 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7bc47ed" target="_blank" rel="noopener noreferrer">7bc47ed</a>)</li>
-<li>🚀 添加gitlab自动化 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3448543" target="_blank" rel="noopener noreferrer">3448543</a>)</li>
-<li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
-<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
-<li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
-<li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/da09f8c" target="_blank" rel="noopener noreferrer">da09f8c</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
-<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/de56e99" target="_blank" rel="noopener noreferrer">de56e99</a>)</li>
-</ul>
-<h3> 🎫 Chores | 其他更新</h3>
-<ul>
-<li>💊 修改changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/814be43" target="_blank" rel="noopener noreferrer">814be43</a>)</li>
-<li>💊 修改仓库地址 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c228a05" target="_blank" rel="noopener noreferrer">c228a05</a>)</li>
-<li>💊 修改自动化目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8bd11cc" target="_blank" rel="noopener noreferrer">8bd11cc</a>)</li>
-<li>💊 修改配置文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e6fa04b" target="_blank" rel="noopener noreferrer">e6fa04b</a>)</li>
-<li>修改生成changelog配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/65b617a" target="_blank" rel="noopener noreferrer">65b617a</a>)</li>
-<li>修改配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f6184a4" target="_blank" rel="noopener noreferrer">f6184a4</a>)</li>
-<li>删除初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1c8af15" target="_blank" rel="noopener noreferrer">1c8af15</a>)</li>
-<li>添加生成changelog配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc" target="_blank" rel="noopener noreferrer">e7cb2fc</a>)</li>
-</ul>
-<h3> 🐛 Bug Fixes | Bug 修复</h3>
-<ul>
-<li>💊 修复分支问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/970384d" target="_blank" rel="noopener noreferrer">970384d</a>)</li>
-<li>💊 修复自动部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760658a" target="_blank" rel="noopener noreferrer">760658a</a>)</li>
-<li>💊 修改存储仓库 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f3fa16" target="_blank" rel="noopener noreferrer">9f3fa16</a>)</li>
-<li>💊 修改目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/cbddc9f" target="_blank" rel="noopener noreferrer">cbddc9f</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/83af2dc" target="_blank" rel="noopener noreferrer">83af2dc</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
-<li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
-<li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
-<li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
-<li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
-<li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
-<li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
-</ul>
-<h3> 📝 Documentation | 文档</h3>
-<ul>
-<li>修改目录和标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0" target="_blank" rel="noopener noreferrer">1d5e5c0</a>)</li>
-<li>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</li>
-<li>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</li>
-<li>添加服务器页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6aa001d" target="_blank" rel="noopener noreferrer">6aa001d</a>)</li>
-<li>配置隐藏changelog文档在目录中显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6a506ae" target="_blank" rel="noopener noreferrer">6a506ae</a>)</li>
-</ul>
-]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">个人简介</title>
-    <id>https://brinishness.eu.org/intro.html</id>
-    <link href="https://brinishness.eu.org/intro.html"/>
-    <updated>2023-04-12T21:29:50.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 个人简介</h1>
-<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 个人简介</h1>
-<p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
-]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Slide page</title>
-    <id>https://brinishness.eu.org/slides.html</id>
-    <link href="https://brinishness.eu.org/slides.html"/>
-    <updated>2023-04-12T21:29:50.000Z</updated>
-    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></summary>
-    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">测试标题</title>
-    <id>https://brinishness.eu.org/backend/go/1.html</id>
-    <link href="https://brinishness.eu.org/backend/go/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>fmt<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
-    <content type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">测试标题</title>
-    <id>https://brinishness.eu.org/backend/java/1.html</id>
-    <link href="https://brinishness.eu.org/backend/java/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"hello world"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
-    <content type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">install nodejs</title>
-    <id>https://brinishness.eu.org/backend/node/1.html</id>
-    <link href="https://brinishness.eu.org/backend/node/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
-    <summary type="html"><![CDATA[<h1> install nodejs</h1>
-<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
-<h2> step2</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
-<h2> 测试内容</h2>]]></summary>
-    <content type="html"><![CDATA[<h1> install nodejs</h1>
-<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
-<h2> step2</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
-<h2> 测试内容</h2>
-<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">测试标题</title>
-    <id>https://brinishness.eu.org/backend/python/1.html</id>
-    <link href="https://brinishness.eu.org/backend/python/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
-    <content type="html"><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/css/1.html</id>
     <link href="https://brinishness.eu.org/frontend/css/1.html"/>
-    <updated>2023-04-13T02:56:35.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 🚀 测试内容</h2>
 <div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">body</span> <span class="token punctuation">{</span>
@@ -387,7 +166,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/html/1.html</id>
     <link href="https://brinishness.eu.org/frontend/html/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">doctype</span> <span class="token name">html</span><span class="token punctuation">&gt;</span></span>
@@ -408,13 +187,13 @@
 <h2> 测试内容</h2>
 <div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="Html"/>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <published>2023-04-15T02:33:58.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/javascript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/javascript/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'hello world'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -429,7 +208,7 @@
     <title type="text">react</title>
     <id>https://brinishness.eu.org/frontend/react/1.html</id>
     <link href="https://brinishness.eu.org/frontend/react/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> react</h1>
 
 ]]></summary>
@@ -437,25 +216,25 @@
 
 ]]></content>
     <category term="React"/>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <published>2023-04-15T02:33:58.000Z</published>
   </entry>
   <entry>
     <title type="text">react-demo</title>
     <id>https://brinishness.eu.org/frontend/react/2.html</id>
     <link href="https://brinishness.eu.org/frontend/react/2.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> react-demo</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> react-demo</h1>
 ]]></content>
     <category term="React"/>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <published>2023-04-15T02:33:58.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/typescript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/typescript/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token keyword">const</span> a<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> <span class="token string">'123'</span><span class="token punctuation">;</span>
@@ -465,13 +244,13 @@
 <div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
 ]]></content>
     <category term="Typescript"/>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <published>2023-04-15T02:33:58.000Z</published>
   </entry>
   <entry>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/vite/1.html</id>
     <link href="https://brinishness.eu.org/frontend/vite/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
@@ -494,7 +273,7 @@
     <title type="text">vue</title>
     <id>https://brinishness.eu.org/frontend/vue/1.html</id>
     <link href="https://brinishness.eu.org/frontend/vue/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> vue</h1>
 <details class="hint-container details"><summary>vue</summary>
 
@@ -512,7 +291,7 @@
     <title type="text">vuedemo</title>
     <id>https://brinishness.eu.org/frontend/vue/2.html</id>
     <link href="https://brinishness.eu.org/frontend/vue/2.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> vuedemo</h1>
 
 ]]></summary>
@@ -526,7 +305,7 @@
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/webpack/1.html</id>
     <link href="https://brinishness.eu.org/frontend/webpack/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
@@ -538,10 +317,62 @@
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">安装archlinux</title>
+    <id>https://brinishness.eu.org/os/arch/1.html</id>
+    <link href="https://brinishness.eu.org/os/arch/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装archlinux</h1>
+]]></content>
+    <category term="arch"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装centos7</title>
+    <id>https://brinishness.eu.org/os/centos/1.html</id>
+    <link href="https://brinishness.eu.org/os/centos/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装centos7</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装centos7</h1>
+]]></content>
+    <category term="centos"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装deepin</title>
+    <id>https://brinishness.eu.org/os/deepin/1.html</id>
+    <link href="https://brinishness.eu.org/os/deepin/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装deepin</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装deepin</h1>
+]]></content>
+    <category term="deepin"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装esxi</title>
+    <id>https://brinishness.eu.org/os/esxi/1.html</id>
+    <link href="https://brinishness.eu.org/os/esxi/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装esxi</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装esxi</h1>
+]]></content>
+    <category term="esxi"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">install ventoy</title>
     <id>https://brinishness.eu.org/os/images/1.html</id>
     <link href="https://brinishness.eu.org/os/images/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-15T02:33:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> install ventoy</h1>
 <blockquote>
 <p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
@@ -572,5 +403,116 @@
 ]]></content>
     <category term="images"/>
     <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装macos</title>
+    <id>https://brinishness.eu.org/os/macos/1.html</id>
+    <link href="https://brinishness.eu.org/os/macos/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装macos</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装macos</h1>
+]]></content>
+    <category term="macos"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装proxmox</title>
+    <id>https://brinishness.eu.org/os/proxmox/1.html</id>
+    <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装proxmox</h1>
+]]></content>
+    <category term="proxmox"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装ubuntu</title>
+    <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
+    <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
+]]></content>
+    <category term="ubuntu"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装windows10</title>
+    <id>https://brinishness.eu.org/os/windows/1.html</id>
+    <link href="https://brinishness.eu.org/os/windows/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装windows10</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装windows10</h1>
+]]></content>
+    <category term="windows10"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装windows11</title>
+    <id>https://brinishness.eu.org/os/windows/2.html</id>
+    <link href="https://brinishness.eu.org/os/windows/2.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装windows11</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装windows11</h1>
+]]></content>
+    <category term="windows11"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装docker</title>
+    <id>https://brinishness.eu.org/server/docker/1.html</id>
+    <link href="https://brinishness.eu.org/server/docker/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装docker</h1>
+
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装docker</h1>
+
+]]></content>
+    <category term="docker"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">verdaccio部署</title>
+    <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
+    <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
+    <updated>2023-04-15T02:33:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> verdaccio部署</h1>
+]]></content>
+    <category term="verdaccio"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://brinishness.eu.org/CHANGELOG.html</id>
+    <link href="https://brinishness.eu.org/CHANGELOG.html"/>
+    <updated>2023-04-15T02:36:31.953Z</updated>
+    <summary type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
+<h3> 🐛 Bug Fixes | Bug 修复</h3>
+<ul>
+<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<h2> 1.0.3 (2023-04-15)</h2>
+<h3> 🐛 Bug Fixes | Bug 修复</h3>
+<ul>
+<li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
+</ul>
+]]></content>
   </entry>
 </feed>
