@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-16T16:39:54.101Z</updated>
+  <updated>2023-04-16T22:39:43.552Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -104,7 +104,7 @@
     <title type="text">arch安装镜像制作</title>
     <id>https://brinishness.eu.org/os/images/5.html</id>
     <link href="https://brinishness.eu.org/os/images/5.html"/>
-    <updated>2023-04-16T15:55:20.000Z</updated>
+    <updated>2023-04-16T22:37:33.000Z</updated>
     <summary type="html"><![CDATA[<h1> arch安装镜像制作</h1>
 <h2> 1.下载arch镜像 <a href="https://www.archlinux.org/download" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
 <p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
@@ -311,7 +311,7 @@
     <title type="text">docker安装</title>
     <id>https://brinishness.eu.org/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-16T22:37:33.000Z</updated>
     <summary type="html"><![CDATA[<h1> docker安装</h1>
 
 ]]></summary>
@@ -460,7 +460,7 @@
     <title type="text">安装proxmox</title>
     <id>https://brinishness.eu.org/os/proxmox/1.html</id>
     <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-16T22:37:33.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
 <h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -713,6 +713,7 @@
 </ul>
 <h3> 📝 Documentation | 文档</h3>
 <ul>
+<li>修改proxmox安装 (<a href="https://github.com/brinishness/brinishness.github.io/commit/74dce6f" target="_blank" rel="noopener noreferrer">74dce6f</a>)</li>
 <li>修改目录和标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0" target="_blank" rel="noopener noreferrer">1d5e5c0</a>)</li>
 <li>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</li>
 <li>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</li>

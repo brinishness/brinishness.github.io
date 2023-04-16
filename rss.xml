@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Sun, 16 Apr 2023 16:39:54 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Apr 2023 16:39:54 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Apr 2023 22:39:43 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2023 22:39:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -563,6 +563,7 @@
 </ul>
 <h3> 📝 Documentation | 文档</h3>
 <ul>
+<li>修改proxmox安装 (<a href="https://github.com/brinishness/brinishness.github.io/commit/74dce6f" target="_blank" rel="noopener noreferrer">74dce6f</a>)</li>
 <li>修改目录和标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0" target="_blank" rel="noopener noreferrer">1d5e5c0</a>)</li>
 <li>新增中文初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/737df14" target="_blank" rel="noopener noreferrer">737df14</a>)</li>
 <li>新增初始页面 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ed1553" target="_blank" rel="noopener noreferrer">3ed1553</a>)</li>
