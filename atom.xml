@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-16T16:16:56.074Z</updated>
+  <updated>2023-04-16T16:39:54.101Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -34,17 +34,6 @@
   <category term="Vite"/>
   <category term="Vue"/>
   <category term="Webpack"/>
-  <entry>
-    <title type="text"></title>
-    <id>https://brinishness.eu.org/baidu_verify_codeva-8k5WmYI9FW.html</id>
-    <link href="https://brinishness.eu.org/baidu_verify_codeva-8k5WmYI9FW.html"/>
-    <updated>2023-04-16T16:15:03.000Z</updated>
-    <summary type="html"><![CDATA[<p>f8fa0b932a2efd4dc68e391b0eb923c0</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>f8fa0b932a2efd4dc68e391b0eb923c0</p>
-]]></content>
-    <published>2023-04-16T16:15:03.000Z</published>
-  </entry>
   <entry>
     <title type="text">windows安装镜像制作</title>
     <id>https://brinishness.eu.org/os/images/2.html</id>
@@ -649,6 +638,7 @@
 <li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
+<li>修改百度验证为标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/908131b" target="_blank" rel="noopener noreferrer">908131b</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/28b5a81" target="_blank" rel="noopener noreferrer">28b5a81</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
@@ -674,6 +664,7 @@
 <li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
+<li>修改百度验证为标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/908131b" target="_blank" rel="noopener noreferrer">908131b</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/28b5a81" target="_blank" rel="noopener noreferrer">28b5a81</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
