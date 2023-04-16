@@ -1,4 +1,9 @@
 ---
+head:
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-8k5WmYI9FW
+
 home: true
 layout: BlogHome
 icon: home
