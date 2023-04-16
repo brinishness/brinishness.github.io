@@ -8,6 +8,89 @@
   "favicon": "https://brinishness.eu.org/goutou.svg",
   "items": [
     {
+      "title": "windows安装镜像制作",
+      "url": "https://brinishness.eu.org/os/images/2.html",
+      "id": "https://brinishness.eu.org/os/images/2.html",
+      "summary": "windows安装镜像制作 1.下载windows11镜像 itellyou下载",
+      "content_html": "<h1> windows安装镜像制作</h1>\n<h2> 1.下载windows11镜像 <a href=\"https://next.itellyou.cn/Original/Index#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6\" target=\"_blank\" rel=\"noopener noreferrer\">itellyou下载</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png\" alt=\"下载windows11镜像\" loading=\"lazy\"></p>\n<h2> 2.下载windows11镜像制作工具 <a href=\"https://www.balena.io/etcher#download-etcher\" target=\"_blank\" rel=\"noopener noreferrer\">etcher</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png\" alt=\"下载etcher\" loading=\"lazy\"></p>\n<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png\" alt=\"制作镜像\" loading=\"lazy\"></p>\n<h2> 4.完成镜像制作</h2>\n",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "images"
+      ]
+    },
+    {
+      "title": "proxmox安装镜像制作",
+      "url": "https://brinishness.eu.org/os/images/3.html",
+      "id": "https://brinishness.eu.org/os/images/3.html",
+      "summary": "proxmox安装镜像制作 1.下载proxmox镜像 官网下载 2.下载proxmox镜像制作工具 etcher",
+      "content_html": "<h1> proxmox安装镜像制作</h1>\n<h2> 1.下载proxmox镜像 <a href=\"https://www.proxmox.com/en/downloads\" target=\"_blank\" rel=\"noopener noreferrer\">官网下载</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png\" alt=\"下载windows11镜像\" loading=\"lazy\"></p>\n<h2> 2.下载proxmox镜像制作工具 <a href=\"https://www.balena.io/etcher#download-etcher\" target=\"_blank\" rel=\"noopener noreferrer\">etcher</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png\" alt=\"下载etcher\" loading=\"lazy\"></p>\n<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png\" alt=\"制作镜像\" loading=\"lazy\"></p>\n<h2> 4.完成镜像制作</h2>\n",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "images"
+      ]
+    },
+    {
+      "title": "macos安装镜像制作",
+      "url": "https://brinishness.eu.org/os/images/4.html",
+      "id": "https://brinishness.eu.org/os/images/4.html",
+      "summary": "macos安装镜像制作 1.下载macos镜像 官网下载 2.格式化U盘 (U盘大小需大于16G)",
+      "content_html": "<h1> macos安装镜像制作</h1>\n<h2> 1.下载macos镜像 <a href=\"https://support.apple.com/zh-cn/HT211683\" target=\"_blank\" rel=\"noopener noreferrer\">官网下载</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png\" alt=\"下载macos镜像\" loading=\"lazy\"></p>\n<h2> 2.格式化U盘 (U盘大小需大于16G)</h2>\n\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png\" alt=\"格式化U盘\" loading=\"lazy\">\n<img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png\" alt=\"格式化U盘\" loading=\"lazy\"></p>\n<h2> 3.制作启动盘 (这里以macos ventura为例)</h2>\n\n\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png\" alt=\"制作启动盘\" loading=\"lazy\"></p>\n<h2> 4.完成镜像制作</h2>\n",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "images"
+      ]
+    },
+    {
+      "title": "arch安装镜像制作",
+      "url": "https://brinishness.eu.org/os/images/5.html",
+      "id": "https://brinishness.eu.org/os/images/5.html",
+      "summary": "arch安装镜像制作 1.下载arch镜像 官网下载 2.下载arch镜像制作工具 etcher",
+      "content_html": "<h1> arch安装镜像制作</h1>\n<h2> 1.下载arch镜像 <a href=\"https://www.archlinux.org/download\" target=\"_blank\" rel=\"noopener noreferrer\">官网下载</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png\" alt=\"下载arch镜像\" loading=\"lazy\"></p>\n<h2> 2.下载arch镜像制作工具 <a href=\"https://www.balena.io/etcher#download-etcher\" target=\"_blank\" rel=\"noopener noreferrer\">etcher</a></h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png\" alt=\"下载etcher\" loading=\"lazy\"></p>\n<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png\" alt=\"制作镜像\" loading=\"lazy\"></p>\n<h2> 4.完成镜像制作</h2>\n",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "images"
+      ]
+    },
+    {
+      "title": "macos简单配置",
+      "url": "https://brinishness.eu.org/os/macos/2.html",
+      "id": "https://brinishness.eu.org/os/macos/2.html",
+      "summary": "macos简单配置 1.解锁系统偏好设置 sudo spctl --master-disable 2.安装iterm2 (官网下载)",
+      "content_html": "<h1> macos简单配置</h1>\n<h2> 1.解锁系统偏好设置</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 2.安装iterm2 (<a href=\"https://iterm2.com/downloads.html\" target=\"_blank\" rel=\"noopener noreferrer\">官网下载</a>)</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png\" alt=\"下载iterm2\" loading=\"lazy\"></p>\n<h2> 3.安装brew</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 3.配置brew国内镜像加速</h2>\n\n<h2> 4.安装oh-my-zsh</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 5.安装zsh-autosuggestions</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 6.安装zsh-syntax-highlighting</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 7.安装zsh-completions</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 8.安装autojump</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 9.安装vim bat duf exa等工具</h2>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> 10.设置zsh (附本人配置文件)</h2>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "Macos"
+      ]
+    },
+    {
+      "title": "简单命令整理",
+      "url": "https://brinishness.eu.org/os/macos/3.html",
+      "id": "https://brinishness.eu.org/os/macos/3.html",
+      "summary": "简单命令整理 1.查看系统版本 sw_vers",
+      "content_html": "<h1> 简单命令整理</h1>\n<h2> 1.查看系统版本</h2>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "date_published": "2023-04-11T00:00:00.000Z",
+      "date_modified": "2023-04-16T15:55:20.000Z",
+      "authors": [],
+      "tags": [
+        "Macos"
+      ]
+    },
+    {
       "title": "jenkins部署",
       "url": "https://brinishness.eu.org/server/jenkins/1.html",
       "id": "https://brinishness.eu.org/server/jenkins/1.html",
@@ -73,13 +156,14 @@
       "tags": []
     },
     {
-      "title": "安装docker",
+      "title": "docker安装",
       "url": "https://brinishness.eu.org/server/docker/1.html",
       "id": "https://brinishness.eu.org/server/docker/1.html",
-      "summary": "安装docker",
-      "content_html": "<h1> 安装docker</h1>\n\n",
+      "summary": "docker安装",
+      "content_html": "<h1> docker安装</h1>\n\n",
+      "image": "http://img.brinish.eu.org:5205/images/2023/04/16/36d08530c0035d1d4c38741a57a26e47.png",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "docker",
@@ -90,10 +174,10 @@
       "title": "verdaccio部署",
       "url": "https://brinishness.eu.org/server/verdaccio/1.html",
       "id": "https://brinishness.eu.org/server/verdaccio/1.html",
-      "summary": "verdaccio部署",
-      "content_html": "<h1> verdaccio部署</h1>\n",
+      "summary": "verdaccio部署 使用docker-compose部署verdaccio 1.安装docker并配置docker-compose 查看使用方式 2.创建verdaccio目录 mkdir -p /data/env/verdaccio",
+      "content_html": "<h1> verdaccio部署</h1>\n<h2> 使用docker-compose部署verdaccio</h2>\n<h3> 1.安装docker并配置docker-compose <a href=\"/server/docker/1.html\" target=\"blank\">查看使用方式</a></h3>\n<h3> 2.创建verdaccio目录</h3>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 3.授权目录为777 (不配置会导致无法存储镜像)</h3>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>\n<div class=\"language-yaml line-numbers-mode\" data-ext=\"yml\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h3> 4.启动nexus</h3>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 5.访问nexus</h3>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 6.获取初始密码</h3>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 7.修改密码</h3>\n<h3> 8.完成nexus安装</h3>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "verdaccio",
@@ -104,10 +188,10 @@
       "title": "安装centos7",
       "url": "https://brinishness.eu.org/os/centos/1.html",
       "id": "https://brinishness.eu.org/os/centos/1.html",
-      "summary": "安装centos7",
-      "content_html": "<h1> 安装centos7</h1>\n",
+      "summary": "安装centos7 1.将已制作好的centos系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装centos7</h1>\n<h2> 1.将已制作好的centos系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "centos",
@@ -118,10 +202,10 @@
       "title": "安装deepin",
       "url": "https://brinishness.eu.org/os/deepin/1.html",
       "id": "https://brinishness.eu.org/os/deepin/1.html",
-      "summary": "安装deepin",
-      "content_html": "<h1> 安装deepin</h1>\n",
+      "summary": "安装deepin 1.将已制作好的deepin系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装deepin</h1>\n<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "deepin",
@@ -132,10 +216,10 @@
       "title": "安装esxi",
       "url": "https://brinishness.eu.org/os/esxi/1.html",
       "id": "https://brinishness.eu.org/os/esxi/1.html",
-      "summary": "安装esxi",
-      "content_html": "<h1> 安装esxi</h1>\n",
+      "summary": "安装esxi 1.将已制作好的esxi系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装esxi</h1>\n<h2> 1.将已制作好的esxi系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "esxi",
@@ -146,24 +230,23 @@
       "title": "安装macos",
       "url": "https://brinishness.eu.org/os/macos/1.html",
       "id": "https://brinishness.eu.org/os/macos/1.html",
-      "summary": "安装macos",
-      "content_html": "<h1> 安装macos</h1>\n",
+      "summary": "安装macos 1.将已制作好好的macos系统的U盘插入电脑 2.重启电脑 3.按住option键 4.选择U盘启动 5.安装macos 6.完成macos安装 7.完成配置",
+      "content_html": "<h1> 安装macos</h1>\n<h2> 1.将已制作好好的macos系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.按住option键</h2>\n<h2> 4.选择U盘启动</h2>\n<h2> 5.安装macos</h2>\n<h2> 6.完成macos安装</h2>\n<h2> 7.完成配置</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
-        "macos",
-        "install"
+        "Macos"
       ]
     },
     {
       "title": "安装proxmox",
       "url": "https://brinishness.eu.org/os/proxmox/1.html",
       "id": "https://brinishness.eu.org/os/proxmox/1.html",
-      "summary": "安装proxmox",
-      "content_html": "<h1> 安装proxmox</h1>\n",
+      "summary": "安装proxmox 1.将已制作好的proxmox系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装proxmox</h1>\n<h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "proxmox",
@@ -174,10 +257,10 @@
       "title": "安装ubuntu",
       "url": "https://brinishness.eu.org/os/ubuntu/1.html",
       "id": "https://brinishness.eu.org/os/ubuntu/1.html",
-      "summary": "安装ubuntu",
-      "content_html": "<h1> 安装ubuntu</h1>\n",
+      "summary": "安装ubuntu 1.将已制作好的ubuntu系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装ubuntu</h1>\n<h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "ubuntu",
@@ -188,10 +271,10 @@
       "title": "安装windows10",
       "url": "https://brinishness.eu.org/os/windows/1.html",
       "id": "https://brinishness.eu.org/os/windows/1.html",
-      "summary": "安装windows10",
-      "content_html": "<h1> 安装windows10</h1>\n",
+      "summary": "安装windows10 1.将已制作好的windows10系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装windows10</h1>\n<h2> 1.将已制作好的windows10系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "windows10",
@@ -202,10 +285,10 @@
       "title": "安装windows11",
       "url": "https://brinishness.eu.org/os/windows/2.html",
       "id": "https://brinishness.eu.org/os/windows/2.html",
-      "summary": "安装windows11",
-      "content_html": "<h1> 安装windows11</h1>\n",
+      "summary": "安装windows11 1.将已制作好的windows11系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装windows11</h1>\n<h2> 1.将已制作好的windows11系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "windows11",
@@ -230,10 +313,10 @@
       "title": "安装archlinux",
       "url": "https://brinishness.eu.org/os/arch/1.html",
       "id": "https://brinishness.eu.org/os/arch/1.html",
-      "summary": "安装archlinux",
-      "content_html": "<h1> 安装archlinux</h1>\n",
+      "summary": "安装archlinux 1.将已制作好的archlinux系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
+      "content_html": "<h1> 安装archlinux</h1>\n<h2> 1.将已制作好的archlinux系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": [
         "arch",
@@ -244,8 +327,8 @@
       "title": "",
       "url": "https://brinishness.eu.org/CHANGELOG.html",
       "id": "https://brinishness.eu.org/CHANGELOG.html",
-      "summary": "1.0.4 (2023-04-15) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加chrome图片显示问题 (c50634a) 添加钩子 (1ea0ea3) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 远程生成changelog (85440e2)",
-      "content_html": "<h2> 1.0.4 (2023-04-15)</h2>\n<ul>\n<li>Create CNAME (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2d32fcb\" target=\"_blank\" rel=\"noopener noreferrer\">2d32fcb</a>)</li>\n</ul>\n<h3> ✨ Features | 新功能</h3>\n<ul>\n<li>💊 修改自动化node版本 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/fd72d0a\" target=\"_blank\" rel=\"noopener noreferrer\">fd72d0a</a>)</li>\n<li>🚀 初始化提交 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/7bc47ed\" target=\"_blank\" rel=\"noopener noreferrer\">7bc47ed</a>)</li>\n<li>🚀 添加gitlab自动化 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3448543\" target=\"_blank\" rel=\"noopener noreferrer\">3448543</a>)</li>\n<li>🚀 添加生成更新日志 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760f2d6\" target=\"_blank\" rel=\"noopener noreferrer\">760f2d6</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/016b513\" target=\"_blank\" rel=\"noopener noreferrer\">016b513</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f096cd\" target=\"_blank\" rel=\"noopener noreferrer\">9f096cd</a>)</li>\n<li>本地提交changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/28b5a81\" target=\"_blank\" rel=\"noopener noreferrer\">28b5a81</a>)</li>\n<li>本地提交changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/0146308\" target=\"_blank\" rel=\"noopener noreferrer\">0146308</a>)</li>\n<li>添加chrome图片显示问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c50634a\" target=\"_blank\" rel=\"noopener noreferrer\">c50634a</a>)</li>\n<li>添加钩子 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3\" target=\"_blank\" rel=\"noopener noreferrer\">1ea0ea3</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/5e7dbd3\" target=\"_blank\" rel=\"noopener noreferrer\">5e7dbd3</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/da09f8c\" target=\"_blank\" rel=\"noopener noreferrer\">da09f8c</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/dfb6168\" target=\"_blank\" rel=\"noopener noreferrer\">dfb6168</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/de56e99\" target=\"_blank\" rel=\"noopener noreferrer\">de56e99</a>)</li>\n<li>远程生成changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/85440e2\" target=\"_blank\" rel=\"noopener noreferrer\">85440e2</a>)</li>\n</ul>\n<h3> 🎫 Chores | 其他更新</h3>\n<ul>\n<li>💊 修改changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/814be43\" target=\"_blank\" rel=\"noopener noreferrer\">814be43</a>)</li>\n<li>💊 修改仓库地址 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c228a05\" target=\"_blank\" rel=\"noopener noreferrer\">c228a05</a>)</li>\n<li>💊 修改自动化目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8bd11cc\" target=\"_blank\" rel=\"noopener noreferrer\">8bd11cc</a>)</li>\n<li>💊 修改配置文件 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e6fa04b\" target=\"_blank\" rel=\"noopener noreferrer\">e6fa04b</a>)</li>\n<li>修改生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/65b617a\" target=\"_blank\" rel=\"noopener noreferrer\">65b617a</a>)</li>\n<li>修改配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/f6184a4\" target=\"_blank\" rel=\"noopener noreferrer\">f6184a4</a>)</li>\n<li>删除初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1c8af15\" target=\"_blank\" rel=\"noopener noreferrer\">1c8af15</a>)</li>\n<li>添加生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc\" target=\"_blank\" rel=\"noopener noreferrer\">e7cb2fc</a>)</li>\n</ul>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>💊 修复分支问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/970384d\" target=\"_blank\" rel=\"noopener noreferrer\">970384d</a>)</li>\n<li>💊 修复自动部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760658a\" target=\"_blank\" rel=\"noopener noreferrer\">760658a</a>)</li>\n<li>💊 修改存储仓库 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f3fa16\" target=\"_blank\" rel=\"noopener noreferrer\">9f3fa16</a>)</li>\n<li>💊 修改目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/cbddc9f\" target=\"_blank\" rel=\"noopener noreferrer\">cbddc9f</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/83af2dc\" target=\"_blank\" rel=\"noopener noreferrer\">83af2dc</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/ed958f0\" target=\"_blank\" rel=\"noopener noreferrer\">ed958f0</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/174011a\" target=\"_blank\" rel=\"noopener noreferrer\">174011a</a>)</li>\n<li>💊 删除无用依赖 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/21ba0aa\" target=\"_blank\" rel=\"noopener noreferrer\">21ba0aa</a>)</li>\n<li>修复编辑页路径错误 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/0d02ae6\" target=\"_blank\" rel=\"noopener noreferrer\">0d02ae6</a>)</li>\n<li>修改changelog为本地生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2756fe9\" target=\"_blank\" rel=\"noopener noreferrer\">2756fe9</a>)</li>\n<li>修改changelog生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/42cc6c4\" target=\"_blank\" rel=\"noopener noreferrer\">42cc6c4</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/5f077b6\" target=\"_blank\" rel=\"noopener noreferrer\">5f077b6</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/127a05b\" target=\"_blank\" rel=\"noopener noreferrer\">127a05b</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/df5ad81\" target=\"_blank\" rel=\"noopener noreferrer\">df5ad81</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6bf63ef\" target=\"_blank\" rel=\"noopener noreferrer\">6bf63ef</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/d466f9d\" target=\"_blank\" rel=\"noopener noreferrer\">d466f9d</a>)</li>\n<li>修改目录排序配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/786cdad\" target=\"_blank\" rel=\"noopener noreferrer\">786cdad</a>)</li>\n<li>修改配置依赖缺失 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8814edf\" target=\"_blank\" rel=\"noopener noreferrer\">8814edf</a>)</li>\n<li>删除navbar和sidebar显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/235ed2a\" target=\"_blank\" rel=\"noopener noreferrer\">235ed2a</a>)</li>\n</ul>\n<h3> 📝 Documentation | 文档</h3>\n<ul>\n<li>修改目录和标签 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0\" target=\"_blank\" rel=\"noopener noreferrer\">1d5e5c0</a>)</li>\n<li>新增中文初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/737df14\" target=\"_blank\" rel=\"noopener noreferrer\">737df14</a>)</li>\n<li>新增初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3ed1553\" target=\"_blank\" rel=\"noopener noreferrer\">3ed1553</a>)</li>\n<li>添加docker部署nexus和jenkins (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e1cbb0d\" target=\"_blank\" rel=\"noopener noreferrer\">e1cbb0d</a>)</li>\n<li>添加服务器页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6aa001d\" target=\"_blank\" rel=\"noopener noreferrer\">6aa001d</a>)</li>\n<li>配置隐藏changelog文档在目录中显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6a506ae\" target=\"_blank\" rel=\"noopener noreferrer\">6a506ae</a>)</li>\n</ul>\n",
+      "summary": "1.0.4 (2023-04-16) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加chrome图片显示问题 (c50634a) 添加百度验证文件 (31b5e8c) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 远程生成changelog (85440e2)",
+      "content_html": "<h2> 1.0.4 (2023-04-16)</h2>\n<ul>\n<li>Create CNAME (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2d32fcb\" target=\"_blank\" rel=\"noopener noreferrer\">2d32fcb</a>)</li>\n</ul>\n<h3> ✨ Features | 新功能</h3>\n<ul>\n<li>💊 修改自动化node版本 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/fd72d0a\" target=\"_blank\" rel=\"noopener noreferrer\">fd72d0a</a>)</li>\n<li>🚀 初始化提交 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/7bc47ed\" target=\"_blank\" rel=\"noopener noreferrer\">7bc47ed</a>)</li>\n<li>🚀 添加gitlab自动化 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3448543\" target=\"_blank\" rel=\"noopener noreferrer\">3448543</a>)</li>\n<li>🚀 添加生成更新日志 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760f2d6\" target=\"_blank\" rel=\"noopener noreferrer\">760f2d6</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/016b513\" target=\"_blank\" rel=\"noopener noreferrer\">016b513</a>)</li>\n<li>🚀 添加自定义图标 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f096cd\" target=\"_blank\" rel=\"noopener noreferrer\">9f096cd</a>)</li>\n<li>本地提交changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/28b5a81\" target=\"_blank\" rel=\"noopener noreferrer\">28b5a81</a>)</li>\n<li>本地提交changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/0146308\" target=\"_blank\" rel=\"noopener noreferrer\">0146308</a>)</li>\n<li>添加chrome图片显示问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c50634a\" target=\"_blank\" rel=\"noopener noreferrer\">c50634a</a>)</li>\n<li>添加百度验证文件 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/31b5e8c\" target=\"_blank\" rel=\"noopener noreferrer\">31b5e8c</a>)</li>\n<li>添加钩子 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3\" target=\"_blank\" rel=\"noopener noreferrer\">1ea0ea3</a>)</li>\n<li>添加镜像制作 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/4b43e01\" target=\"_blank\" rel=\"noopener noreferrer\">4b43e01</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/5e7dbd3\" target=\"_blank\" rel=\"noopener noreferrer\">5e7dbd3</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/da09f8c\" target=\"_blank\" rel=\"noopener noreferrer\">da09f8c</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/dfb6168\" target=\"_blank\" rel=\"noopener noreferrer\">dfb6168</a>)</li>\n<li>版本升级 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/de56e99\" target=\"_blank\" rel=\"noopener noreferrer\">de56e99</a>)</li>\n<li>远程生成changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/85440e2\" target=\"_blank\" rel=\"noopener noreferrer\">85440e2</a>)</li>\n</ul>\n<h3> 🎫 Chores | 其他更新</h3>\n<ul>\n<li>💊 修改changelog (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/814be43\" target=\"_blank\" rel=\"noopener noreferrer\">814be43</a>)</li>\n<li>💊 修改仓库地址 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/c228a05\" target=\"_blank\" rel=\"noopener noreferrer\">c228a05</a>)</li>\n<li>💊 修改自动化目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8bd11cc\" target=\"_blank\" rel=\"noopener noreferrer\">8bd11cc</a>)</li>\n<li>💊 修改配置文件 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e6fa04b\" target=\"_blank\" rel=\"noopener noreferrer\">e6fa04b</a>)</li>\n<li>修改生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/65b617a\" target=\"_blank\" rel=\"noopener noreferrer\">65b617a</a>)</li>\n<li>修改配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/f6184a4\" target=\"_blank\" rel=\"noopener noreferrer\">f6184a4</a>)</li>\n<li>删除初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1c8af15\" target=\"_blank\" rel=\"noopener noreferrer\">1c8af15</a>)</li>\n<li>添加生成changelog配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e7cb2fc\" target=\"_blank\" rel=\"noopener noreferrer\">e7cb2fc</a>)</li>\n</ul>\n<h3> 🐛 Bug Fixes | Bug 修复</h3>\n<ul>\n<li>💊 修复分支问题 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/970384d\" target=\"_blank\" rel=\"noopener noreferrer\">970384d</a>)</li>\n<li>💊 修复自动部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/760658a\" target=\"_blank\" rel=\"noopener noreferrer\">760658a</a>)</li>\n<li>💊 修改存储仓库 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/9f3fa16\" target=\"_blank\" rel=\"noopener noreferrer\">9f3fa16</a>)</li>\n<li>💊 修改目录 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/cbddc9f\" target=\"_blank\" rel=\"noopener noreferrer\">cbddc9f</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/83af2dc\" target=\"_blank\" rel=\"noopener noreferrer\">83af2dc</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/ed958f0\" target=\"_blank\" rel=\"noopener noreferrer\">ed958f0</a>)</li>\n<li>💊 修改部署命令 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/174011a\" target=\"_blank\" rel=\"noopener noreferrer\">174011a</a>)</li>\n<li>💊 删除无用依赖 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/21ba0aa\" target=\"_blank\" rel=\"noopener noreferrer\">21ba0aa</a>)</li>\n<li>修复编辑页路径错误 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/0d02ae6\" target=\"_blank\" rel=\"noopener noreferrer\">0d02ae6</a>)</li>\n<li>修改changelog为本地生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/2756fe9\" target=\"_blank\" rel=\"noopener noreferrer\">2756fe9</a>)</li>\n<li>修改changelog生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/42cc6c4\" target=\"_blank\" rel=\"noopener noreferrer\">42cc6c4</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/5f077b6\" target=\"_blank\" rel=\"noopener noreferrer\">5f077b6</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/127a05b\" target=\"_blank\" rel=\"noopener noreferrer\">127a05b</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/df5ad81\" target=\"_blank\" rel=\"noopener noreferrer\">df5ad81</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6bf63ef\" target=\"_blank\" rel=\"noopener noreferrer\">6bf63ef</a>)</li>\n<li>修改文档生成 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/d466f9d\" target=\"_blank\" rel=\"noopener noreferrer\">d466f9d</a>)</li>\n<li>修改目录排序配置 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/786cdad\" target=\"_blank\" rel=\"noopener noreferrer\">786cdad</a>)</li>\n<li>修改配置依赖缺失 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/8814edf\" target=\"_blank\" rel=\"noopener noreferrer\">8814edf</a>)</li>\n<li>删除navbar和sidebar显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/235ed2a\" target=\"_blank\" rel=\"noopener noreferrer\">235ed2a</a>)</li>\n</ul>\n<h3> 📝 Documentation | 文档</h3>\n<ul>\n<li>修改目录和标签 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/1d5e5c0\" target=\"_blank\" rel=\"noopener noreferrer\">1d5e5c0</a>)</li>\n<li>新增中文初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/737df14\" target=\"_blank\" rel=\"noopener noreferrer\">737df14</a>)</li>\n<li>新增初始页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/3ed1553\" target=\"_blank\" rel=\"noopener noreferrer\">3ed1553</a>)</li>\n<li>添加docker部署nexus和jenkins (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/e1cbb0d\" target=\"_blank\" rel=\"noopener noreferrer\">e1cbb0d</a>)</li>\n<li>添加服务器页面 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6aa001d\" target=\"_blank\" rel=\"noopener noreferrer\">6aa001d</a>)</li>\n<li>配置隐藏changelog文档在目录中显示 (<a href=\"https://github.com/brinishness/brinishness.github.io/commit/6a506ae\" target=\"_blank\" rel=\"noopener noreferrer\">6a506ae</a>)</li>\n</ul>\n",
       "date_published": "2023-04-12T21:29:50.000Z",
       "date_modified": "2023-04-15T20:17:31.000Z",
       "authors": [],
@@ -275,47 +358,46 @@
       "tags": []
     },
     {
-      "title": "测试标题",
+      "title": "安装go",
       "url": "https://brinishness.eu.org/backend/go/1.html",
       "id": "https://brinishness.eu.org/backend/go/1.html",
-      "summary": "测试标题 测试内容 fmt.println(\"Hello World\");",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-go line-numbers-mode\" data-ext=\"go\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "summary": "安装go 安装go语言环境",
+      "content_html": "<h1> 安装go</h1>\n<h2> 安装go语言环境</h2>\n\n",
       "date_published": "2023-04-12T21:29:50.000Z",
-      "date_modified": "2023-04-13T16:11:13.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": []
     },
     {
-      "title": "测试标题",
+      "title": "安装java",
       "url": "https://brinishness.eu.org/backend/java/1.html",
       "id": "https://brinishness.eu.org/backend/java/1.html",
-      "summary": "测试标题 测试内容 System.out.println(\"hello world\");",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-java line-numbers-mode\" data-ext=\"java\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "summary": "安装java 安装java语言环境",
+      "content_html": "<h1> 安装java</h1>\n<h2> 安装java语言环境</h2>\n\n",
       "date_published": "2023-04-12T21:29:50.000Z",
-      "date_modified": "2023-04-13T16:11:13.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": []
     },
     {
-      "title": "install nodejs",
+      "title": "安装nodejs",
       "url": "https://brinishness.eu.org/backend/node/1.html",
       "id": "https://brinishness.eu.org/backend/node/1.html",
-      "summary": "install nodejs step1 download step2 测试内容",
-      "content_html": "<h1> install nodejs</h1>\n<h2> step1 <a href=\"https://nodejs.org/en/download\" target=\"_blank\" rel=\"noopener noreferrer\">download</a></h2>\n<h2> step2</h2>\n<p><img src=\"http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png\" alt=\"choose system\" loading=\"lazy\"></p>\n<h2> 测试内容</h2>\n<div class=\"language-typescript line-numbers-mode\" data-ext=\"ts\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
-      "image": "http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png",
+      "summary": "安装nodejs 安装go语言环境",
+      "content_html": "<h1> 安装nodejs</h1>\n<h2> 安装go语言环境</h2>\n\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-13T16:11:13.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": []
     },
     {
-      "title": "测试标题",
+      "title": "安装python",
       "url": "https://brinishness.eu.org/backend/python/1.html",
       "id": "https://brinishness.eu.org/backend/python/1.html",
-      "summary": "测试标题 测试内容 print(\"Hello World\");",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-python line-numbers-mode\" data-ext=\"py\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "summary": "安装python 安装python语言环境",
+      "content_html": "<h1> 安装python</h1>\n<h2> 安装python语言环境</h2>\n\n",
       "date_published": "2023-04-12T21:29:50.000Z",
-      "date_modified": "2023-04-13T16:11:13.000Z",
+      "date_modified": "2023-04-16T15:54:17.000Z",
       "authors": [],
       "tags": []
     },

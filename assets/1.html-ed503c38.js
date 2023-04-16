@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as n,Z as e,$ as c}from"./framework-c8dc88ca.js";const r={},s=e("h1",{id:"安装deepin",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装deepin","aria-hidden":"true"},"#"),c(" 安装deepin")],-1),o=[s];function _(d,i){return a(),n("div",null,o)}const l=t(r,[["render",_],["__file","1.html.vue"]]);export{l as default};
