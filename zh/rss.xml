@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/zh/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Apr 2023 22:39:43 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Apr 2023 22:39:43 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2023 02:31:56 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2023 02:31:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,16 +15,21 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/zh/</link>
     </image>
+    <category>images</category>
+    <category>Macos</category>
+    <category>docker</category>
+    <category>install</category>
+    <category>Jenkins</category>
+    <category>Docker</category>
+    <category>Nexus</category>
+    <category>verdaccio</category>
     <category>Chrome</category>
     <category>React</category>
     <category>Vue</category>
     <category>arch</category>
-    <category>install</category>
     <category>centos</category>
     <category>deepin</category>
     <category>esxi</category>
-    <category>images</category>
-    <category>macos</category>
     <category>proxmox</category>
     <category>ubuntu</category>
     <category>windows10</category>
@@ -36,19 +41,278 @@
     <category>Vite</category>
     <category>Webpack</category>
     <item>
-      <title>install nodejs</title>
+      <title>windows安装镜像制作</title>
+      <link>https://brinishness.eu.org/zh/os/images/2.html</link>
+      <guid>https://brinishness.eu.org/zh/os/images/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">windows安装镜像制作</source>
+      <description>windows安装镜像制作 1.下载windows11镜像 itellyou下载</description>
+      <category>images</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> windows安装镜像制作</h1>
+<h2> 1.下载windows11镜像 <a href="https://next.itellyou.cn/Original/Index#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6" target="_blank" rel="noopener noreferrer">itellyou下载</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>
+<h2> 2.下载windows11镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<h2> 4.完成镜像制作</h2>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" type="image/png"/>
+    </item>
+    <item>
+      <title>proxmox安装镜像制作</title>
+      <link>https://brinishness.eu.org/zh/os/images/3.html</link>
+      <guid>https://brinishness.eu.org/zh/os/images/3.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">proxmox安装镜像制作</source>
+      <description>proxmox安装镜像制作 1.下载proxmox镜像 官网下载 2.下载proxmox镜像制作工具 etcher</description>
+      <category>images</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> proxmox安装镜像制作</h1>
+<h2> 1.下载proxmox镜像 <a href="https://www.proxmox.com/en/downloads" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
+<h2> 2.下载proxmox镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<h2> 4.完成镜像制作</h2>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" type="image/png"/>
+    </item>
+    <item>
+      <title>macos安装镜像制作</title>
+      <link>https://brinishness.eu.org/zh/os/images/4.html</link>
+      <guid>https://brinishness.eu.org/zh/os/images/4.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">macos安装镜像制作</source>
+      <description>macos安装镜像制作 1.下载macos镜像 官网下载 2.格式化U盘 (U盘大小需大于16G)</description>
+      <category>images</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> macos安装镜像制作</h1>
+<h2> 1.下载macos镜像 <a href="https://support.apple.com/zh-cn/HT211683" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
+<h2> 2.格式化U盘 (U盘大小需大于16G)</h2>
+
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png" alt="格式化U盘" loading="lazy">
+<img src="http://img.brinish.eu.org:5205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png" alt="格式化U盘" loading="lazy"></p>
+<h2> 3.制作启动盘 (这里以macos ventura为例)</h2>
+
+
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png" alt="制作启动盘" loading="lazy"></p>
+<h2> 4.完成镜像制作</h2>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" type="image/png"/>
+    </item>
+    <item>
+      <title>arch安装镜像制作</title>
+      <link>https://brinishness.eu.org/zh/os/images/5.html</link>
+      <guid>https://brinishness.eu.org/zh/os/images/5.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">arch安装镜像制作</source>
+      <description>arch安装镜像制作 1.下载arch镜像 官网下载 2.下载arch镜像制作工具 etcher</description>
+      <category>images</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> arch安装镜像制作</h1>
+<h2> 1.下载arch镜像 <a href="https://www.archlinux.org/download" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
+<h2> 2.下载arch镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<h2> 4.完成镜像制作</h2>
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" type="image/png"/>
+    </item>
+    <item>
+      <title>macos简单配置</title>
+      <link>https://brinishness.eu.org/zh/os/macos/2.html</link>
+      <guid>https://brinishness.eu.org/zh/os/macos/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">macos简单配置</source>
+      <description>macos简单配置 1.解锁系统偏好设置 sudo spctl --master-disable 2.安装iterm2 (官网下载)</description>
+      <category>Macos</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> macos简单配置</h1>
+<h2> 1.解锁系统偏好设置</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 2.安装iterm2 (<a href="https://iterm2.com/downloads.html" target="_blank" rel="noopener noreferrer">官网下载</a>)</h2>
+<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" alt="下载iterm2" loading="lazy"></p>
+<h2> 3.安装brew</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 3.配置brew国内镜像加速</h2>
+
+<h2> 4.安装oh-my-zsh</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 5.安装zsh-autosuggestions</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 6.安装zsh-syntax-highlighting</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 7.安装zsh-completions</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 8.安装autojump</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 9.安装vim bat duf exa等工具</h2>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 10.设置zsh (附本人配置文件)</h2>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" type="image/png"/>
+    </item>
+    <item>
+      <title>简单命令整理</title>
+      <link>https://brinishness.eu.org/zh/os/macos/3.html</link>
+      <guid>https://brinishness.eu.org/zh/os/macos/3.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">简单命令整理</source>
+      <description>简单命令整理 1.查看系统版本 sw_vers</description>
+      <category>Macos</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 简单命令整理</h1>
+<h2> 1.查看系统版本</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>docker安装</title>
+      <link>https://brinishness.eu.org/zh/server/docker/1.html</link>
+      <guid>https://brinishness.eu.org/zh/server/docker/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">docker安装</source>
+      <description>docker安装</description>
+      <category>docker</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> docker安装</h1>
+
+]]></content:encoded>
+      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/36d08530c0035d1d4c38741a57a26e47.png" type="image/png"/>
+    </item>
+    <item>
+      <title>jenkins部署</title>
+      <link>https://brinishness.eu.org/zh/server/jenkins/1.html</link>
+      <guid>https://brinishness.eu.org/zh/server/jenkins/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">jenkins部署</source>
+      <description>jenkins部署 使用docker-compose部署jenkins 1.安装docker并配置docker-compose 查看使用方式 2.创建jenkins目录 mkdir -p /data/env/jenkins/data</description>
+      <category>Jenkins</category>
+      <category>Docker</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> jenkins部署</h1>
+<h2> 使用docker-compose部署jenkins</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建jenkins目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动jenkins</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问jenkins</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.安装插件</h3>
+<h3> 8.创建管理员账号</h3>
+<h3> 9.完成jenkins安装</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>jenkins推荐插件安装</title>
+      <link>https://brinishness.eu.org/zh/server/jenkins/2.html</link>
+      <guid>https://brinishness.eu.org/zh/server/jenkins/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">jenkins推荐插件安装</source>
+      <description>jenkins推荐插件安装 推荐插件 插件名称 插件介绍 docker docker-pipeline</description>
+      <category>Jenkins</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> jenkins推荐插件安装</h1>
+<h2> 推荐插件</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">插件名称</th>
+<th>插件介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">docker</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left">docker-pipeline</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3> 1. <a href="https://plugins.jenkins.io/docker-plugin" target="_blank" rel="noopener noreferrer">Docker</a></h3>
+<h3> 2. <a href="https://plugins.jenkins.io/docker-workflow" target="_blank" rel="noopener noreferrer">Docker Pipeline</a></h3>
+<h3> 3. <a href="https://plugins.jenkins.io/docker-commons" target="_blank" rel="noopener noreferrer">Docker Commons</a></h3>
+<h3> 4. <a href="https://plugins.jenkins.io/docker-build-publish" target="_blank" rel="noopener noreferrer">Docker Build and Publish</a></h3>
+<h3> 5. <a href="https://plugins.jenkins.io/nexus-artifact-uploader" target="_blank" rel="noopener noreferrer">Nexus Artifact Uploader</a></h3>
+<h3> 6. <a href="https://plugins.jenkins.io/role-strategy" target="_blank" rel="noopener noreferrer">Role-based Authorization Strategy</a></h3>
+<h3> 7. <a href="https://plugins.jenkins.io/wxwork-notification" target="_blank" rel="noopener noreferrer">WXWork Notification</a></h3>
+<h3> 8. <a href="https://plugins.jenkins.io/publish-over-ssh" target="_blank" rel="noopener noreferrer">Publish Over SSH</a></h3>
+<h3> 9. <a href="https://plugins.jenkins.io/email-ext" target="_blank" rel="noopener noreferrer">Email Extension</a></h3>
+<h3> 10. <a href="https://plugins.jenkins.io/emailext-template" target="_blank" rel="noopener noreferrer">Email Extension Template</a></h3>
+<h3> 11. <a href="https://plugins.jenkins.io/build-user-vars-plugin" target="_blank" rel="noopener noreferrer">Build User Vars</a></h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>推荐插件配置</title>
+      <link>https://brinishness.eu.org/zh/server/jenkins/3.html</link>
+      <guid>https://brinishness.eu.org/zh/server/jenkins/3.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">推荐插件配置</source>
+      <description>推荐插件配置</description>
+      <category>Jenkins</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 推荐插件配置</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>nexus部署</title>
+      <link>https://brinishness.eu.org/zh/server/nexus/1.html</link>
+      <guid>https://brinishness.eu.org/zh/server/nexus/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">nexus部署</source>
+      <description>nexus部署 使用docker-compose部署nexus 1.安装docker并配置docker-compose 查看使用方式 2.创建nexus目录 mkdir -p /data/env/nexus/data</description>
+      <category>Nexus</category>
+      <category>Docker</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> nexus部署</h1>
+<h2> 使用docker-compose部署nexus</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建nexus目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.修改密码</h3>
+<h3> 8.完成nexus安装</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>nexus配置</title>
+      <link>https://brinishness.eu.org/zh/server/nexus/2.html</link>
+      <guid>https://brinishness.eu.org/zh/server/nexus/2.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">nexus配置</source>
+      <description>nexus配置</description>
+      <pubDate>Mon, 17 Apr 2023 02:29:39 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> nexus配置</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>verdaccio部署</title>
+      <link>https://brinishness.eu.org/zh/server/verdaccio/1.html</link>
+      <guid>https://brinishness.eu.org/zh/server/verdaccio/1.html</guid>
+      <source url="https://brinishness.eu.org/zh/rss.xml">verdaccio部署</source>
+      <description>verdaccio部署 使用docker-compose部署verdaccio 1.安装docker并配置docker-compose 查看使用方式 2.创建verdaccio目录 mkdir -p /data/env/verdaccio</description>
+      <category>verdaccio</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> verdaccio部署</h1>
+<h2> 使用docker-compose部署verdaccio</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建verdaccio目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.授权目录为777 (不配置会导致无法存储镜像)</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问nexus</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.修改密码</h3>
+<h3> 8.完成nexus安装</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装nodejs</title>
       <link>https://brinishness.eu.org/zh/backend/node/1.html</link>
       <guid>https://brinishness.eu.org/zh/backend/node/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">install nodejs</source>
-      <description>install nodejs step1 download step2 测试内容</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装nodejs</source>
+      <description>安装nodejs 安装go语言环境</description>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> install nodejs</h1>
-<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
-<h2> step2</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="choose system" loading="lazy"></p>
-<h2> 测试内容</h2>
-<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" type="image/png"/>
+      <content:encoded><![CDATA[<h1> 安装nodejs</h1>
+<h2> 安装go语言环境</h2>
+
+]]></content:encoded>
     </item>
     <item>
       <title>Chrome http to https</title>
@@ -127,11 +391,18 @@
       <link>https://brinishness.eu.org/zh/os/arch/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/arch/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装archlinux</source>
-      <description>安装archlinux</description>
+      <description>安装archlinux 1.将已制作好的archlinux系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>arch</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装archlinux</h1>
+<h2> 1.将已制作好的archlinux系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -139,11 +410,18 @@
       <link>https://brinishness.eu.org/zh/os/centos/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/centos/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装centos7</source>
-      <description>安装centos7</description>
+      <description>安装centos7 1.将已制作好的centos系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>centos</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装centos7</h1>
+<h2> 1.将已制作好的centos系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -151,11 +429,18 @@
       <link>https://brinishness.eu.org/zh/os/deepin/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/deepin/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装deepin</source>
-      <description>安装deepin</description>
+      <description>安装deepin 1.将已制作好的deepin系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>deepin</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装deepin</h1>
+<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -163,11 +448,18 @@
       <link>https://brinishness.eu.org/zh/os/esxi/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/esxi/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装esxi</source>
-      <description>安装esxi</description>
+      <description>安装esxi 1.将已制作好的esxi系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>esxi</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装esxi</h1>
+<h2> 1.将已制作好的esxi系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -209,11 +501,17 @@
       <link>https://brinishness.eu.org/zh/os/macos/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/macos/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装macos</source>
-      <description>安装macos</description>
-      <category>macos</category>
-      <category>install</category>
+      <description>安装macos 1.将已制作好好的macos系统的U盘插入电脑 2.重启电脑 3.按住option键 4.选择U盘启动 5.安装macos 6.完成macos安装 7.完成配置</description>
+      <category>Macos</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装macos</h1>
+<h2> 1.将已制作好好的macos系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.按住option键</h2>
+<h2> 4.选择U盘启动</h2>
+<h2> 5.安装macos</h2>
+<h2> 6.完成macos安装</h2>
+<h2> 7.完成配置</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -221,11 +519,18 @@
       <link>https://brinishness.eu.org/zh/os/proxmox/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/proxmox/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装proxmox</source>
-      <description>安装proxmox</description>
+      <description>安装proxmox 1.将已制作好的proxmox系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>proxmox</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装proxmox</h1>
+<h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -233,11 +538,18 @@
       <link>https://brinishness.eu.org/zh/os/ubuntu/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/ubuntu/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装ubuntu</source>
-      <description>安装ubuntu</description>
+      <description>安装ubuntu 1.将已制作好的ubuntu系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>ubuntu</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装ubuntu</h1>
+<h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -245,11 +557,18 @@
       <link>https://brinishness.eu.org/zh/os/windows/1.html</link>
       <guid>https://brinishness.eu.org/zh/os/windows/1.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装windows10</source>
-      <description>安装windows10</description>
+      <description>安装windows10 1.将已制作好的windows10系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>windows10</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装windows10</h1>
+<h2> 1.将已制作好的windows10系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -257,11 +576,18 @@
       <link>https://brinishness.eu.org/zh/os/windows/2.html</link>
       <guid>https://brinishness.eu.org/zh/os/windows/2.html</guid>
       <source url="https://brinishness.eu.org/zh/rss.xml">安装windows11</source>
-      <description>安装windows11</description>
+      <description>安装windows11 1.将已制作好的windows11系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
       <category>windows11</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装windows11</h1>
+<h2> 1.将已制作好的windows11系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -287,37 +613,40 @@
       <enclosure url="https://brinishness.eu.org/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>测试标题</title>
+      <title>安装go</title>
       <link>https://brinishness.eu.org/zh/backend/go/1.html</link>
       <guid>https://brinishness.eu.org/zh/backend/go/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
-      <description>测试标题 测试内容 fmt.println(&amp;quot;Hello World&amp;quot;);</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装go</source>
+      <description>安装go 安装go语言环境</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-go line-numbers-mode" data-ext="go"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<h1> 安装go</h1>
+<h2> 安装go语言环境</h2>
+
+]]></content:encoded>
     </item>
     <item>
-      <title>测试标题</title>
+      <title>安装java</title>
       <link>https://brinishness.eu.org/zh/backend/java/1.html</link>
       <guid>https://brinishness.eu.org/zh/backend/java/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
-      <description>测试标题 测试内容 System.out.println(&amp;quot;hello world&amp;quot;);</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装java</source>
+      <description>安装java 安装java语言环境</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<h1> 安装java</h1>
+<h2> 安装java语言环境</h2>
+
+]]></content:encoded>
     </item>
     <item>
-      <title>测试标题</title>
+      <title>安装python</title>
       <link>https://brinishness.eu.org/zh/backend/python/1.html</link>
       <guid>https://brinishness.eu.org/zh/backend/python/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">测试标题</source>
-      <description>测试标题 测试内容 print(&amp;quot;Hello World&amp;quot;);</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">安装python</source>
+      <description>安装python 安装python语言环境</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 测试标题</h1>
-<h2> 测试内容</h2>
-<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<h1> 安装python</h1>
+<h2> 安装python语言环境</h2>
+
+]]></content:encoded>
     </item>
     <item>
       <title>测试标题</title>
@@ -354,21 +683,6 @@
       <content:encoded><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>install nodejs</title>
-      <link>https://brinishness.eu.org/zh/frontend/node/1.html</link>
-      <guid>https://brinishness.eu.org/zh/frontend/node/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">install nodejs</source>
-      <description>install nodejs step1 download step2 测试内容</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> install nodejs</h1>
-<h2> step1 <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer">download</a></h2>
-<h2> step2</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" alt="alt choose system" loading="lazy"></p>
-<h2> 测试内容</h2>
-<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/11/a21a3cd996bf10e6a5c6e94ea5500889.png" type="image/png"/>
     </item>
     <item>
       <title>测试标题</title>

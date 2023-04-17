@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-16T22:39:43.552Z</updated>
+  <updated>2023-04-17T02:31:56.045Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -626,7 +626,7 @@
     <id>https://brinishness.eu.org/CHANGELOG.html</id>
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
     <updated>2023-04-15T20:17:31.000Z</updated>
-    <summary type="html"><![CDATA[<h2> 1.0.4 (2023-04-16)</h2>
+    <summary type="html"><![CDATA[<h2> 1.0.4 (2023-04-17)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -652,7 +652,7 @@
 <li>解决html文件不生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9197d9d" target="_blank" rel="noopener noreferrer">9197d9d</a>)</li>
 <li>远程生成changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/85440e2" target="_blank" rel="noopener noreferrer">85440e2</a>)</li>
 </ul>]]></summary>
-    <content type="html"><![CDATA[<h2> 1.0.4 (2023-04-16)</h2>
+    <content type="html"><![CDATA[<h2> 1.0.4 (2023-04-17)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -702,6 +702,7 @@
 <li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
 <li>修改changelog为本地生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2756fe9" target="_blank" rel="noopener noreferrer">2756fe9</a>)</li>
 <li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
+<li>修改中文目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e0b99d8" target="_blank" rel="noopener noreferrer">e0b99d8</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5f077b6" target="_blank" rel="noopener noreferrer">5f077b6</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/127a05b" target="_blank" rel="noopener noreferrer">127a05b</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
