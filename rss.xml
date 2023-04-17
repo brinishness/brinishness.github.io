@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Mon, 17 Apr 2023 02:31:56 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2023 02:31:56 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2023 16:18:20 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2023 16:18:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -549,6 +549,7 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+<li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
 <li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
 <li>修改changelog为本地生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2756fe9" target="_blank" rel="noopener noreferrer">2756fe9</a>)</li>
 <li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
