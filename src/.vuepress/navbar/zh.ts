@@ -54,8 +54,13 @@ export const zhNavbar = navbar([
         children: [
             {
                 text: "镜像",
-                icon: "edit",
+                icon: "jingxiang",
                 link: "images"
+            },
+            {
+                text: "macos",
+                icon: "macos",
+                link: "macos"
             }
         ],
     },

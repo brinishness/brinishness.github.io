@@ -70,7 +70,7 @@ export default hopeTheme({
         },
     },
 
-    sidebarSorter: ["filename", "order", "title"],
+    // sidebarSorter: ["filename", "order", "title"],
 
     locales: {
         "/": {
@@ -173,6 +173,14 @@ export default hopeTheme({
 
         autoCatalog: {
             index: true,
+            locales: {
+                "/": {
+                    title: "Catalog",
+                },
+                "/zh/": {
+                    title: "目录"
+                }
+            },
             exclude: ['/changelog.html']
         },
 
