@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-19T16:58:43.744Z</updated>
+  <updated>2023-04-19T17:54:37.416Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -18,8 +18,8 @@
   <category term="install"/>
   <category term="verdaccio"/>
   <category term="centos"/>
-  <category term="deepin"/>
   <category term="esxi"/>
+  <category term="deepin"/>
   <category term="proxmox"/>
   <category term="ubuntu"/>
   <category term="windows10"/>
@@ -377,33 +377,6 @@
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">安装deepin</title>
-    <id>https://brinishness.eu.org/os/deepin/1.html</id>
-    <link href="https://brinishness.eu.org/os/deepin/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 安装deepin</h1>
-<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
-<h2> 2.重启电脑</h2>
-<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
-<h2> 4.进入BIOS后选择启动项</h2>
-<h2> 5.选择U盘为第一启动项</h2>
-<h2> 6.保存并退出</h2>
-<h2> 7.重启电脑</h2>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 安装deepin</h1>
-<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
-<h2> 2.重启电脑</h2>
-<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
-<h2> 4.进入BIOS后选择启动项</h2>
-<h2> 5.选择U盘为第一启动项</h2>
-<h2> 6.保存并退出</h2>
-<h2> 7.重启电脑</h2>
-]]></content>
-    <category term="deepin"/>
-    <category term="install"/>
-    <published>2023-04-11T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">安装esxi</title>
     <id>https://brinishness.eu.org/os/esxi/1.html</id>
     <link href="https://brinishness.eu.org/os/esxi/1.html"/>
@@ -427,6 +400,33 @@
 <h2> 7.重启电脑</h2>
 ]]></content>
     <category term="esxi"/>
+    <category term="install"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">安装deepin</title>
+    <id>https://brinishness.eu.org/os/deepin/1.html</id>
+    <link href="https://brinishness.eu.org/os/deepin/1.html"/>
+    <updated>2023-04-16T15:54:17.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 安装deepin</h1>
+<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 安装deepin</h1>
+<h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
+]]></content>
+    <category term="deepin"/>
     <category term="install"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
@@ -643,6 +643,7 @@
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
+<li>添加百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4871158" target="_blank" rel="noopener noreferrer">4871158</a>)</li>
 <li>添加百度验证文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/31b5e8c" target="_blank" rel="noopener noreferrer">31b5e8c</a>)</li>
 <li>添加钩子 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3" target="_blank" rel="noopener noreferrer">1ea0ea3</a>)</li>
 <li>添加镜像制作 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4b43e01" target="_blank" rel="noopener noreferrer">4b43e01</a>)</li>
@@ -670,6 +671,7 @@
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
+<li>添加百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4871158" target="_blank" rel="noopener noreferrer">4871158</a>)</li>
 <li>添加百度验证文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/31b5e8c" target="_blank" rel="noopener noreferrer">31b5e8c</a>)</li>
 <li>添加钩子 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3" target="_blank" rel="noopener noreferrer">1ea0ea3</a>)</li>
 <li>添加镜像制作 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4b43e01" target="_blank" rel="noopener noreferrer">4b43e01</a>)</li>
