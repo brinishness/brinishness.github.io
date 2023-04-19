@@ -16,8 +16,7 @@ export default defineUserConfig({
           hm.src = "https://hm.baidu.com/hm.js?265d55555532340fa9a3fa5325768561";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
-        })();
-        </script>        
+        })();    
         `
         ]
     ],
