@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Wed, 19 Apr 2023 17:54:37 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2023 17:54:37 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2023 17:59:30 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2023 17:59:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -24,8 +24,8 @@
     <category>install</category>
     <category>verdaccio</category>
     <category>centos</category>
-    <category>esxi</category>
     <category>deepin</category>
+    <category>esxi</category>
     <category>proxmox</category>
     <category>ubuntu</category>
     <category>windows10</category>
@@ -322,25 +322,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>安装esxi</title>
-      <link>https://brinishness.eu.org/os/esxi/1.html</link>
-      <guid>https://brinishness.eu.org/os/esxi/1.html</guid>
-      <source url="https://brinishness.eu.org/rss.xml">安装esxi</source>
-      <description>安装esxi 1.将已制作好的esxi系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
-      <category>esxi</category>
-      <category>install</category>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 安装esxi</h1>
-<h2> 1.将已制作好的esxi系统的U盘插入电脑</h2>
-<h2> 2.重启电脑</h2>
-<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
-<h2> 4.进入BIOS后选择启动项</h2>
-<h2> 5.选择U盘为第一启动项</h2>
-<h2> 6.保存并退出</h2>
-<h2> 7.重启电脑</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>安装deepin</title>
       <link>https://brinishness.eu.org/os/deepin/1.html</link>
       <guid>https://brinishness.eu.org/os/deepin/1.html</guid>
@@ -351,6 +332,25 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装deepin</h1>
 <h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
+<h2> 2.重启电脑</h2>
+<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
+<h2> 4.进入BIOS后选择启动项</h2>
+<h2> 5.选择U盘为第一启动项</h2>
+<h2> 6.保存并退出</h2>
+<h2> 7.重启电脑</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>安装esxi</title>
+      <link>https://brinishness.eu.org/os/esxi/1.html</link>
+      <guid>https://brinishness.eu.org/os/esxi/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">安装esxi</source>
+      <description>安装esxi 1.将已制作好的esxi系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
+      <category>esxi</category>
+      <category>install</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 安装esxi</h1>
+<h2> 1.将已制作好的esxi系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
 <h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>
 <h2> 4.进入BIOS后选择启动项</h2>
@@ -500,7 +500,7 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-19) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加chrome图片显示问题 (c50634a) 添加google分析 (82db1d8) 添加百度统计 (4871158) 添加百度验证文件 (31b5e8c) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-19) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加chrome图片显示问题 (c50634a) 添加google分析 (82db1d8) 添加百度统计 (4871158) 添加百度验证文件 (31b5e8c) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-19)</h2>
 <ul>
@@ -514,6 +514,7 @@
 <li>🚀 添加生成更新日志 (<a href="https://github.com/brinishness/brinishness.github.io/commit/760f2d6" target="_blank" rel="noopener noreferrer">760f2d6</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/016b513" target="_blank" rel="noopener noreferrer">016b513</a>)</li>
 <li>🚀 添加自定义图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9f096cd" target="_blank" rel="noopener noreferrer">9f096cd</a>)</li>
+<li>修改百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/a5b693b" target="_blank" rel="noopener noreferrer">a5b693b</a>)</li>
 <li>修改百度验证为标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/908131b" target="_blank" rel="noopener noreferrer">908131b</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/28b5a81" target="_blank" rel="noopener noreferrer">28b5a81</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
