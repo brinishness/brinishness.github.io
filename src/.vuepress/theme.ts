@@ -181,7 +181,7 @@ export default hopeTheme({
                     title: "目录"
                 }
             },
-            exclude: ['/changelog.html']
+            exclude: ['/CHANGELOG.html', '/changelog.html']
         },
 
         // all features are enabled for demo, only preserve features you need here
