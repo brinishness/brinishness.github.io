@@ -2,12 +2,25 @@ import {defineUserConfig} from "vuepress";
 import {searchProPlugin} from "vuepress-plugin-search-pro";
 // import {autoCatalogPlugin} from "vuepress-plugin-auto-catalog";
 // import {pwaPlugin} from "vuepress-plugin-pwa2";
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import {googleAnalyticsPlugin} from '@vuepress/plugin-google-analytics'
 import theme from "./theme.js";
 
 export default defineUserConfig({
     base: "/",
-
+    head: [
+        [
+            'script', {}, `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?265d55555532340fa9a3fa5325768561";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>        
+        `
+        ]
+    ],
     locales: {
         "/": {
             lang: "en-US",
