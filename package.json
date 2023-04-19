@@ -60,6 +60,7 @@
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
     "@vuepress/client": "2.0.0-beta.61",
+    "@vuepress/plugin-google-analytics": "2.0.0-beta.61",
     "compare-func": "^2.0.0",
     "conventional-changelog-cli": "^2.2.2",
     "conventional-changelog-custom-config": "^0.3.1",

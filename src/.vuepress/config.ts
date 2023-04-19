@@ -2,7 +2,7 @@ import {defineUserConfig} from "vuepress";
 import {searchProPlugin} from "vuepress-plugin-search-pro";
 // import {autoCatalogPlugin} from "vuepress-plugin-auto-catalog";
 // import {pwaPlugin} from "vuepress-plugin-pwa2";
-
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -46,6 +46,9 @@ export default defineUserConfig({
                 },
             ],
         }),
+        googleAnalyticsPlugin({
+            id: "G-0J6B2RLZVN",
+        })
     ],
     // Enable it with pwa
     // shouldPrefetch: false,
