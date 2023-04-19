@@ -10,7 +10,7 @@ icon: home
 title: home
 heroAlt: background-image
 heroImage: /goutou.svg
-bgImage: http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg
+bgImage: https://img.brinish.eu.org:6205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg
 heroText: brinishness
 tagline: Summary of development experience
 heroFullScreen: true
@@ -28,12 +28,12 @@ projects:
   - icon: link
     name: pan
     desc: cloudreve
-    link: http://pan.brinish.eu.org:5206
+    link: https://pan.brinish.eu.org:6206
 
   - icon: link
     name: img
     desc: chereveto
-    link: http://img.brinish.eu.org:5205
+    link: https://img.brinish.eu.org:6205
 
   - icon: link
     name: obs

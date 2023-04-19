@@ -21,6 +21,8 @@ export default defineUserConfig({
         },
     },
 
+    lang: "zh-CN",
+
     shouldPrefetch: false,
 
     theme,
