@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/zh/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Apr 2023 06:49:59 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2023 06:49:59 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2023 10:12:25 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2023 10:12:25 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -50,14 +50,14 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> windows安装镜像制作</h1>
 <h2> 1.下载windows11镜像 <a href="https://next.itellyou.cn/Original/Index#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6" target="_blank" rel="noopener noreferrer">itellyou下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>
 <h2> 2.下载windows11镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" type="image/png"/>
     </item>
     <item>
       <title>proxmox安装镜像制作</title>
@@ -69,14 +69,14 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> proxmox安装镜像制作</h1>
 <h2> 1.下载proxmox镜像 <a href="https://www.proxmox.com/en/downloads" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
 <h2> 2.下载proxmox镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" type="image/png"/>
     </item>
     <item>
       <title>macos安装镜像制作</title>
@@ -88,18 +88,18 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> macos安装镜像制作</h1>
 <h2> 1.下载macos镜像 <a href="https://support.apple.com/zh-cn/HT211683" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
 <h2> 2.格式化U盘 (U盘大小需大于16G)</h2>
 
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png" alt="格式化U盘" loading="lazy">
-<img src="http://img.brinish.eu.org:5205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png" alt="格式化U盘" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png" alt="格式化U盘" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png" alt="格式化U盘" loading="lazy"></p>
 <h2> 3.制作启动盘 (这里以macos ventura为例)</h2>
 
 
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png" alt="制作启动盘" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png" alt="制作启动盘" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" type="image/png"/>
     </item>
     <item>
       <title>arch安装镜像制作</title>
@@ -111,14 +111,14 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> arch安装镜像制作</h1>
 <h2> 1.下载arch镜像 <a href="https://www.archlinux.org/download" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
 <h2> 2.下载arch镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" type="image/png"/>
     </item>
     <item>
       <title>macos简单配置</title>
@@ -131,7 +131,7 @@
       <content:encoded><![CDATA[<h1> macos简单配置</h1>
 <h2> 1.解锁系统偏好设置</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 2.安装iterm2 (<a href="https://iterm2.com/downloads.html" target="_blank" rel="noopener noreferrer">官网下载</a>)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" alt="下载iterm2" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" alt="下载iterm2" loading="lazy"></p>
 <h2> 3.安装brew</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 3.配置brew国内镜像加速</h2>
 
@@ -143,7 +143,7 @@
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 9.安装vim bat duf exa等工具</h2>
 <div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 10.设置zsh (附本人配置文件)</h2>
 <div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" type="image/png"/>
     </item>
     <item>
       <title>简单命令整理</title>
@@ -169,7 +169,7 @@
       <content:encoded><![CDATA[<h1> docker安装</h1>
 
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/16/36d08530c0035d1d4c38741a57a26e47.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/16/36d08530c0035d1d4c38741a57a26e47.png" type="image/png"/>
     </item>
     <item>
       <title>jenkins部署</title>
@@ -329,13 +329,13 @@
 </blockquote>
 <h2> 解决方案</h2>
 <h3> 1. 点击访问链接的小锁图标</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
 <h3> 2. 点击网站设置</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png" alt="第二步" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png" alt="第二步" loading="lazy"></p>
 <h3> 3. 修改图中设置为允许</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png" alt="第三部" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png" alt="第三部" loading="lazy"></p>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" type="image/png"/>
     </item>
     <item>
       <title>react</title>
@@ -476,25 +476,25 @@
 </blockquote>
 <h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
 <h2> step2 choose system</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
 <h2> step3 unzip</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
 <h2> step4 start(double click)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
 <h2> step5 choose disk and click install</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
 <h2> step6 finish</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
 <h2> step7 put iso to ventoy disk</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>modify the first startup entry of the bios</p>
 </div>
 <h2> step8 boot then you can see link this</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
 ]]></content:encoded>
-      <enclosure url="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" type="image/png"/>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" type="image/png"/>
     </item>
     <item>
       <title>安装macos</title>

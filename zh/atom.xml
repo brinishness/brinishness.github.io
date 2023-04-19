@@ -5,7 +5,7 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-19T06:49:59.754Z</updated>
+  <updated>2023-04-19T10:12:25.686Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/zh/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/zh/"/>
@@ -38,17 +38,17 @@
     <title type="text">windows安装镜像制作</title>
     <id>https://brinishness.eu.org/zh/os/images/2.html</id>
     <link href="https://brinishness.eu.org/zh/os/images/2.html"/>
-    <updated>2023-04-17T16:16:08.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> windows安装镜像制作</h1>
 <h2> 1.下载windows11镜像 <a href="https://next.itellyou.cn/Original/Index#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6" target="_blank" rel="noopener noreferrer">itellyou下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>]]></summary>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>]]></summary>
     <content type="html"><![CDATA[<h1> windows安装镜像制作</h1>
 <h2> 1.下载windows11镜像 <a href="https://next.itellyou.cn/Original/Index#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6" target="_blank" rel="noopener noreferrer">itellyou下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/03c4f214f5e7cf4b331444d3b4e30708.png" alt="下载windows11镜像" loading="lazy"></p>
 <h2> 2.下载windows11镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content>
     <category term="images"/>
@@ -58,18 +58,18 @@
     <title type="text">proxmox安装镜像制作</title>
     <id>https://brinishness.eu.org/zh/os/images/3.html</id>
     <link href="https://brinishness.eu.org/zh/os/images/3.html"/>
-    <updated>2023-04-17T16:16:08.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> proxmox安装镜像制作</h1>
 <h2> 1.下载proxmox镜像 <a href="https://www.proxmox.com/en/downloads" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
 <h2> 2.下载proxmox镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>]]></summary>
     <content type="html"><![CDATA[<h1> proxmox安装镜像制作</h1>
 <h2> 1.下载proxmox镜像 <a href="https://www.proxmox.com/en/downloads" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/b07a4b72b522d106c703a23242f50f24.png" alt="下载windows11镜像" loading="lazy"></p>
 <h2> 2.下载proxmox镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content>
     <category term="images"/>
@@ -79,22 +79,22 @@
     <title type="text">macos安装镜像制作</title>
     <id>https://brinishness.eu.org/zh/os/images/4.html</id>
     <link href="https://brinishness.eu.org/zh/os/images/4.html"/>
-    <updated>2023-04-17T16:16:08.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> macos安装镜像制作</h1>
 <h2> 1.下载macos镜像 <a href="https://support.apple.com/zh-cn/HT211683" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
 <h2> 2.格式化U盘 (U盘大小需大于16G)</h2>]]></summary>
     <content type="html"><![CDATA[<h1> macos安装镜像制作</h1>
 <h2> 1.下载macos镜像 <a href="https://support.apple.com/zh-cn/HT211683" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/2583e0160381b6c6d485fe1d25a9def5.png" alt="下载macos镜像" loading="lazy"></p>
 <h2> 2.格式化U盘 (U盘大小需大于16G)</h2>
 
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png" alt="格式化U盘" loading="lazy">
-<img src="http://img.brinish.eu.org:5205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png" alt="格式化U盘" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/bb51fb946e490d966a60c05049d8a017.png" alt="格式化U盘" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/16/c25ae92af49518d217880f142114efd9.png" alt="格式化U盘" loading="lazy"></p>
 <h2> 3.制作启动盘 (这里以macos ventura为例)</h2>
 
 
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png" alt="制作启动盘" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/ffeb145e805ddd366553849ab1f119e9.png" alt="制作启动盘" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content>
     <category term="images"/>
@@ -104,18 +104,18 @@
     <title type="text">arch安装镜像制作</title>
     <id>https://brinishness.eu.org/zh/os/images/5.html</id>
     <link href="https://brinishness.eu.org/zh/os/images/5.html"/>
-    <updated>2023-04-17T16:16:08.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> arch安装镜像制作</h1>
 <h2> 1.下载arch镜像 <a href="https://www.archlinux.org/download" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
 <h2> 2.下载arch镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>]]></summary>
     <content type="html"><![CDATA[<h1> arch安装镜像制作</h1>
 <h2> 1.下载arch镜像 <a href="https://www.archlinux.org/download" target="_blank" rel="noopener noreferrer">官网下载</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/151dbd49a1c2fee5c630f7694293b5b4.png" alt="下载arch镜像" loading="lazy"></p>
 <h2> 2.下载arch镜像制作工具 <a href="https://www.balena.io/etcher#download-etcher" target="_blank" rel="noopener noreferrer">etcher</a></h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
 <h2> 3.制作镜像 (选择镜像  选择U盘  点击刷写)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/eee2a9f549e7dc6a20da6ff68465d55d.png" alt="制作镜像" loading="lazy"></p>
 <h2> 4.完成镜像制作</h2>
 ]]></content>
     <category term="images"/>
@@ -125,7 +125,7 @@
     <title type="text">macos简单配置</title>
     <id>https://brinishness.eu.org/zh/os/macos/2.html</id>
     <link href="https://brinishness.eu.org/zh/os/macos/2.html"/>
-    <updated>2023-04-18T20:48:41.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> macos简单配置</h1>
 <h2> 1.解锁系统偏好设置</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">sudo</span> spctl --master-disable
@@ -133,7 +133,7 @@
     <content type="html"><![CDATA[<h1> macos简单配置</h1>
 <h2> 1.解锁系统偏好设置</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 2.安装iterm2 (<a href="https://iterm2.com/downloads.html" target="_blank" rel="noopener noreferrer">官网下载</a>)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" alt="下载iterm2" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/aa859c809e85a064491349e5ed4491e6.png" alt="下载iterm2" loading="lazy"></p>
 <h2> 3.安装brew</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 3.配置brew国内镜像加速</h2>
 
@@ -167,7 +167,7 @@
     <title type="text">docker安装</title>
     <id>https://brinishness.eu.org/zh/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/zh/server/docker/1.html"/>
-    <updated>2023-04-19T05:44:03.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> docker安装</h1>
 
 ]]></summary>
@@ -368,7 +368,7 @@
     <title type="text">Chrome http to https</title>
     <id>https://brinishness.eu.org/zh/brower/chrome/1.html</id>
     <link href="https://brinishness.eu.org/zh/brower/chrome/1.html"/>
-    <updated>2023-04-14T04:52:33.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> Chrome http to https</h1>
 <h2> 问题描述</h2>
 <blockquote>
@@ -376,7 +376,7 @@
 </blockquote>
 <h2> 解决方案</h2>
 <h3> 1. 点击访问链接的小锁图标</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
 <h3> 2. 点击网站设置</h3>]]></summary>
     <content type="html"><![CDATA[<h1> Chrome http to https</h1>
 <h2> 问题描述</h2>
@@ -385,11 +385,11 @@
 </blockquote>
 <h2> 解决方案</h2>
 <h3> 1. 点击访问链接的小锁图标</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/c5188989c2eb0c9e765251016930884e.png" alt="第一步" loading="lazy"></p>
 <h3> 2. 点击网站设置</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png" alt="第二步" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/94571dc85600d5c3296335d36eb25283.png" alt="第二步" loading="lazy"></p>
 <h3> 3. 修改图中设置为允许</h3>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png" alt="第三部" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/14/a5c9a7f1b1c8508c28ad57569319ec91.png" alt="第三部" loading="lazy"></p>
 ]]></content>
     <category term="Chrome"/>
     <published>2023-04-14T00:00:00.000Z</published>
@@ -483,7 +483,7 @@
     <title type="text">安装centos7</title>
     <id>https://brinishness.eu.org/zh/os/centos/1.html</id>
     <link href="https://brinishness.eu.org/zh/os/centos/1.html"/>
-    <updated>2023-04-19T06:47:35.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装centos7</h1>
 <h2> 1.将已制作好的centos系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -564,7 +564,7 @@
     <title type="text">install ventoy</title>
     <id>https://brinishness.eu.org/zh/os/images/1.html</id>
     <link href="https://brinishness.eu.org/zh/os/images/1.html"/>
-    <updated>2023-04-17T16:16:08.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> install ventoy</h1>
 <blockquote>
 <p>Ventoy is an open-source tool for creating bootable USB drives, and its main function is to assist us in installing the system. Advantages: The software is compact, with a Windows version of less than 15MB and a Linux version of 18MB, which is much smaller than the traditional WINPE with hundreds of MB. Compared to traditional PE, deployment is faster,. Installing the system is simple and effortless. Copy the Windows or Linux image directly to the USB drive in advance, and then boot from the USB drive to provide you with a selectable system list option. Click on which system you want to install.</p>
@@ -575,23 +575,23 @@
 </blockquote>
 <h2> step1 <a href="https://www.ventoy.net/cn/download.html" target="_blank" rel="noopener noreferrer">download</a></h2>
 <h2> step2 choose system</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/80cd23b9a5a91956ea5ac9eee931d0f7.png" alt="choose system" loading="lazy"></p>
 <h2> step3 unzip</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="unzip" loading="lazy"></p>
 <h2> step4 start(double click)</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/99153d7e2a0ddc8fc7de33a2b80a8124.png" alt="start" loading="lazy"></p>
 <h2> step5 choose disk and click install</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/7ffa3e4ffb6070bc9f21b0ab46e9c009.png" alt="choose disk" loading="lazy"></p>
 <h2> step6 finish</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/fc5db841706291e52f209f84f52488ae.png" alt="finish" loading="lazy"></p>
 <h2> step7 put iso to ventoy disk</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>modify the first startup entry of the bios</p>
 </div>
 <h2> step8 boot then you can see link this</h2>
-<p><img src="http://img.brinish.eu.org:5205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/3b679d32b7eb6c321d0c88f83961e132.png" alt="boot" loading="lazy"></p>
 ]]></content>
     <category term="images"/>
     <published>2023-04-11T00:00:00.000Z</published>
@@ -626,7 +626,7 @@
     <title type="text">安装proxmox</title>
     <id>https://brinishness.eu.org/zh/os/proxmox/1.html</id>
     <link href="https://brinishness.eu.org/zh/os/proxmox/1.html"/>
-    <updated>2023-04-17T02:29:39.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
 <h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -707,7 +707,7 @@
     <title type="text">安装windows11</title>
     <id>https://brinishness.eu.org/zh/os/windows/2.html</id>
     <link href="https://brinishness.eu.org/zh/os/windows/2.html"/>
-    <updated>2023-04-18T21:06:17.000Z</updated>
+    <updated>2023-04-19T10:10:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows11</h1>
 <h2> 1.将已制作好的windows11系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
