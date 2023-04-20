@@ -213,10 +213,10 @@
       "title": "react",
       "url": "https://brinishness.eu.org/zh/frontend/react/1.html",
       "id": "https://brinishness.eu.org/zh/frontend/react/1.html",
-      "summary": "react",
-      "content_html": "<h1> react</h1>\n\n",
-      "date_published": "2023-04-14T04:52:33.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "summary": "react React简介 React是一个用于构建用户界面的JAVASCRIPT库。 React主要用于构建UI，很多人认为React是MVC中的V（视图）。 React最早由Facebook的软件工程师Jordan Walke创建，于2013年5月开源。 React以组件的方式进行构建，可以灵活的组合各种组件来构建复杂的UI界面。",
+      "content_html": "<h1> react</h1>\n<h2> React简介</h2>\n<blockquote>\n<p>React是一个用于构建用户界面的JAVASCRIPT库。</p>\n</blockquote>\n<blockquote>\n<p>React主要用于构建UI，很多人认为React是MVC中的V（视图）。</p>\n</blockquote>\n<blockquote>\n<p>React最早由Facebook的软件工程师Jordan Walke创建，于2013年5月开源。</p>\n</blockquote>\n<blockquote>\n<p>React以组件的方式进行构建，可以灵活的组合各种组件来构建复杂的UI界面。</p>\n</blockquote>\n<blockquote>\n<p>React的核心思想是：将页面拆分成一个个组件，然后通过组合这些组件来构建页面。</p>\n</blockquote>\n<blockquote>\n<p>React的语法是jsx，通过使用这种语法，可以在react代码中直接混合使用js和html来编写代码，这样代码的逻辑就非常清晰，当然也意味着，需要将jsx代码编译成普通的javascript代码，才能在浏览器中运行，这个过程根据实际项目情况，可以选择多种不同的思路，或者在服务器端通过webpack进行编译。</p>\n</blockquote>\n<h2> React特点</h2>\n<blockquote>\n<p>1、声明式设计：React采用声明范式，可以轻松描述应用。</p>\n</blockquote>\n<blockquote>\n<p>2、高效：React通过对DOM的模拟，最大限度地减少与DOM的交互。</p>\n</blockquote>\n<blockquote>\n<p>3、灵活：React可以与已知的库或框架很好地配合。</p>\n</blockquote>\n<blockquote>\n<p>4、JSX：JSX是JavaScript的语法扩展，React开发不一定使用JSX，但我们建议使用它。</p>\n</blockquote>\n<blockquote>\n<p>5、组件：通过组件构建无处不在的UI。</p>\n</blockquote>\n<blockquote>\n<p>6、单向响应的数据流：React实现了一个单向响应的数据流，使得数据的变化更容易跟踪。</p>\n</blockquote>\n<blockquote>\n<p>7、虚拟DOM：React使用虚拟DOM来提高性能。</p>\n</blockquote>\n<blockquote>\n<p>8、服务器端渲染：React可以在服务器端渲染，也可以在客户端渲染。</p>\n</blockquote>\n<blockquote>\n<p>9、社区活跃：React有一个活跃的社区，有很多成熟的第三方库。</p>\n</blockquote>\n<blockquote>\n<p>10、工具：React有很多成熟的工具链，可以让你的开发更加高效。</p>\n</blockquote>\n<blockquote>\n<p>11、React Native：React Native可以让你用React的开发方式来编写原生移动应用。</p>\n</blockquote>\n<blockquote>\n<p>12、React VR：React VR可以让你用React的开发方式来编写VR应用。</p>\n</blockquote>\n<blockquote>\n<p>13、React Fiber：React Fiber是React的新核心算法，它可以让React的性能更加出色。</p>\n</blockquote>\n<blockquote>\n<p>14、React Hooks：React Hooks是React 16.8版本新增的特性，它可以让你在不编写class的情况下使用state以及其他的React特性。</p>\n</blockquote>\n<blockquote>\n<p>15、React Concurrent Mode：React Concurrent Mode是React 16.9版本新增的特性，它可以让React的性能更加出色。</p>\n</blockquote>\n<blockquote>\n<p>16、React Suspense：React Suspense是React 16.6版本新增的特性，它可以让你在数据获取的过程中展示loading状态，提升用户体验。</p>\n</blockquote>\n<blockquote>\n<p>17、React DevTools：React DevTools是React官方提供的一款浏览器插件，可以让你在浏览器中调试React应用。</p>\n</blockquote>\n<blockquote>\n<p>18、React Developer Tools：React Developer Tools是React社区提供的一款浏览器插件，可以让你在浏览器中调试React应用。</p>\n</blockquote>\n<blockquote>\n<p>19、React Redux：React Redux是React社区提供的一个状态管理库，可以让你更加方便地管理React应用的状态。</p>\n</blockquote>\n<blockquote>\n<p>20、React Router：React Router是React社区提供的一个路由库，可以让你更加方便地管理React应用的路由。</p>\n</blockquote>\n<h2> React优缺点</h2>\n<blockquote>\n<p>优点</p>\n<ul>\n<li>虚拟DOM</li>\n<li>组件化</li>\n<li>单向数据流</li>\n<li>服务端渲染</li>\n<li>轻量级</li>\n<li>高效</li>\n<li>灵活\n缺点</li>\n<li>学习成本高</li>\n<li>体积大</li>\n<li>代码复杂</li>\n<li>不利于SEO</li>\n<li>不利于移动端</li>\n</ul>\n</blockquote>\n",
+      "date_published": "2023-04-12T00:00:00.000Z",
+      "date_modified": "2023-04-20T22:49:30.000Z",
       "authors": [],
       "tags": [
         "React"
@@ -227,9 +227,9 @@
       "url": "https://brinishness.eu.org/zh/frontend/react/2.html",
       "id": "https://brinishness.eu.org/zh/frontend/react/2.html",
       "summary": "react-demo",
-      "content_html": "<h1> react-demo</h1>\n",
+      "content_html": "<h1> react-demo</h1>\n\n\n",
       "date_published": "2023-04-14T04:52:33.000Z",
-      "date_modified": "2023-04-15T00:35:40.000Z",
+      "date_modified": "2023-04-20T22:49:30.000Z",
       "authors": [],
       "tags": [
         "React"
@@ -458,39 +458,39 @@
       "tags": []
     },
     {
-      "title": "测试标题",
+      "title": "css简介",
       "url": "https://brinishness.eu.org/zh/frontend/css/1.html",
       "id": "https://brinishness.eu.org/zh/frontend/css/1.html",
-      "summary": "测试标题 🚀 测试内容 body { background: red; }",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 🚀 测试内容</h2>\n<div class=\"language-css line-numbers-mode\" data-ext=\"css\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "summary": "css简介 CSS（即级联样式表）为网页设计和开发提供了一个全新的方法。通过 CSS，您可以将使用 HTML（即超文本标记语言）创建的网页上显示的文本与用于描述如何显示和表示该文本（使用 CSS 进行定义）的信息完全分隔开。 CSS 旨在解决问题并帮助您节省时间，同时它还使您能够以更多的方式设计网页外观。虽然这可能是您第一次听说 CSS，但之前您已经多次看到它的操作。下面是一个典型的示例：某些网页以特定的方式突出显示其链接。它们的颜色不同于该页上其他文本的颜色，并且将鼠标移动到这些链接上方时，它们的颜色会发生变化或者出现下划线。此操作就是通过 CSS 样式定义而不改动 HTML 代码来实现的。我们会在本指南中介绍此类示例。",
+      "content_html": "<h1> css简介</h1>\n<blockquote>\n<p>CSS（即级联样式表）为网页设计和开发提供了一个全新的方法。通过 CSS，您可以将使用 HTML（即超文本标记语言）创建的网页上显示的文本与用于描述如何显示和表示该文本（使用 CSS 进行定义）的信息完全分隔开。</p>\n</blockquote>\n<blockquote>\n<p>CSS 旨在解决问题并帮助您节省时间，同时它还使您能够以更多的方式设计网页外观。虽然这可能是您第一次听说 CSS，但之前您已经多次看到它的操作。下面是一个典型的示例：某些网页以特定的方式突出显示其链接。它们的颜色不同于该页上其他文本的颜色，并且将鼠标移动到这些链接上方时，它们的颜色会发生变化或者出现下划线。此操作就是通过 CSS 样式定义而不改动 HTML 代码来实现的。我们会在本指南中介绍此类示例。</p>\n</blockquote>\n<blockquote>\n<p>为了能够看懂本指南，您需要事先了解一些有关 HTML 的知识。我们将 HTML 作为基础并在此基础上进行构建，以向您介绍显示和展现网页内容时可以使用的其他功能。</p>\n</blockquote>\n\n",
       "date_published": "2023-04-10T00:00:00.000Z",
-      "date_modified": "2023-04-14T04:52:33.000Z",
+      "date_modified": "2023-04-20T22:49:30.000Z",
       "authors": [],
       "tags": [
         "Css"
       ]
     },
     {
-      "title": "测试标题",
+      "title": "html简介",
       "url": "https://brinishness.eu.org/zh/frontend/html/1.html",
       "id": "https://brinishness.eu.org/zh/frontend/html/1.html",
-      "summary": "测试标题 测试内容 &lt;!doctype html&gt; &lt;html lang=\"en\"&gt; &lt;head&gt; &lt;meta charset=\"UTF-8\"&gt; &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\"&gt; &lt;meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\"&gt; &lt;title&gt;Document&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-html line-numbers-mode\" data-ext=\"html\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
-      "date_published": "2023-04-12T21:29:50.000Z",
-      "date_modified": "2023-04-14T04:52:33.000Z",
+      "summary": "html简介 HTML的全称为超文本标记语言，是一种标记语言。它包括一系列标签，通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明文字，图形、动画、声音、表格、链接等。 超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。",
+      "content_html": "<h1> html简介</h1>\n<blockquote>\n<p>HTML的全称为超文本标记语言，是一种标记语言。它包括一系列标签，通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明文字，图形、动画、声音、表格、链接等。</p>\n</blockquote>\n<blockquote>\n<p>超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。</p>\n</blockquote>\n<h2> 由来</h2>\n<blockquote>\n<p>HTML的英文全称是 Hyper Text Markup Language，即超文本标记语言。HTML是由Web的发明者 Tim Berners-Lee和同事 Daniel W. Connolly于1990年创立的一种标记语言，它是标准通用化标记语言SGML的应用。用HTML编写的超文本文档称为HTML文档，它能独立于各种操作系统平台(如UNIX， Windows等) 。使用HTML，将所需要表达的信息按某种规则写成HTML文件，通过专用的浏览器来识别，并将这些HTML文件“翻译”成可以识别的信息，即我们所见到的网页。</p>\n</blockquote>\n<blockquote>\n<p>自1990年以来，HTML就一直被用作万维网的信息表示语言，使用HTML描述的文件需要通过web浏览器显示出效果。HTML是一种建立网页文件的语言，通过标记式的指令(Tag)，将文字，图形、动画、声音、表格、链接、影像等内容显示出来。事实上，每一个HTML文档都是一种静态的网页文件，这个文件里面包含了HTML指令代码，这些指令代码并不是一种程序语言，只是一种排版网页中资料显示位置的标记结构语言，易学易懂，非常简单。HTML的普遍应用就是带来了超文本的技术―通过单击鼠标从一个主题跳转到另一个主题，从一个页面跳转到另一个页面，与世界各地主机的文件链接超文本传输协议规定了浏览器在运行HTML文档时所遵循的规则和进行的操作。HTTP的制定使浏览器在运行超文本时有了统一的规则和标准。</p>\n</blockquote>\n<blockquote>\n<p>万维网（world wide web，简称www）上的一个超媒体文档称之为一个页面（外语：page）。作为一个组织或者个人在万维网上放置开始点的页面称为主页（外语：Homepage）或首页，主页中通常包括有指向其他相关页面或其他节点的指针（超级链接），所谓超级链接，就是一种统一资源定位器（Uniform Resource Locator，外语缩写：URL）指针，通过激活（点击）它，可使浏览器方便地获取新的网页。这也是HTML获得广泛应用的最重要的原因之一。在逻辑上将视为一个整体的一系列页面的有机集合称为网站（Website或Site）。超文本标记语言（英文缩写：HTML）是为“网页创建和其它可在网页浏览器中看到的信息”设计的一种标记语言。</p>\n</blockquote>\n<blockquote>\n<p>网页的本质就是超文本标记语言，通过结合使用其他的Web技术（如：脚本语言、公共网关接口、组件等），可以创造出功能强大的网页。因而，超文本标记语言是万维网（Web）编程的基础，也就是说万维网是建立在超文本基础之上的。超文本标记语言之所以称为超文本标记语言，是因为文本中包含了所谓“超级链接”点。</p>\n</blockquote>\n<h2> 定义</h2>\n<blockquote>\n<p>超文本标记语言是标准通用标记语言下的一个应用，也是一种规范，一种标准，它通过标记符号来标记要显示的网页中的各个部分。网页文件本身是一种文本文件，通过在文本文件中添加标记符，可以告诉浏览器如何显示其中的内容（如：文字如何处理，画面如何安排，图片如何显示等）。浏览器按顺序阅读网页文件，然后根据标记符解释和显示其标记的内容，对书写出错的标记将不指出其错误，且不停止其解释执行过程，编制者只能通过显示效果来分析出错原因和出错部位。但需要注意的是，对于不同的浏览器，对同一标记符可能会有不完全相同的解释，因而可能会有不同的显示效果。</p>\n</blockquote>\n<h2> HTML开发代码构成</h2>\n<blockquote>\n<p>html开发，本质上就是编写一个.html格式的文档，最终通过浏览器执行该文档，一个html文档中包含三部分：</p>\n</blockquote>\n<blockquote>\n<ul>\n<li>HTML部分 HTML：</li>\n<li>hyper text markup language\nhyper text：超文本，是指写在html文档中，并在网络上传输的 文字、图片、视频、音频\nmarkup language：标记语言 。所谓标记：就是指由一对尖括号扩起来，当中具有特定英文单词的标识。标记的其他叫法：标签 元素\nelement。</li>\n<li>html文档中只有两种类型的标记\n- 单标记 ：不能存放内容，多是一些功能性的标记\n- 双标记 ： 有开始有结束，主要功能是存放内容，可以是超文本， 也可以是其他标记</li>\n</ul>\n</blockquote>\n<blockquote>\n<ul>\n<li>CSS部分 CSS：cascading style sheet 层叠样式表，\n用来对文档中的标签设置样式，从而改变超文本在浏览器上的渲染效果</li>\n</ul>\n</blockquote>\n<blockquote>\n<ul>\n<li>JS部分 JS：javaScript，\n运行在浏览器端的脚本语言。平时我们看到网页，除了可以看以外，还可以处理一些用 户的交互行为，例如：鼠标的点击，键盘的控制等等。这些功能需要通过JS来完成</li>\n</ul>\n</blockquote>\n<h2> HTML文件结构</h2>\n<blockquote>\n<p>文档类型声明</p>\n<ul>\n<li>写在html文档的第一行是文档中唯一个非标签字符，起文档说明作用，用来告知浏览器，当前文档是一 个支持html5标准的文档，不可省略，其中最重要的就是当前HTML文档遵循的语法标准。</li>\n</ul>\n</blockquote>\n<ul>\n<li>\n<p>html5文档声明</p>\n<div class=\"language-html line-numbers-mode\" data-ext=\"html\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div></li>\n<li>\n<p>html4.01文档声明</p>\n<div class=\"language-html line-numbers-mode\" data-ext=\"html\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div></li>\n</ul>\n<blockquote>\n<p>根标签</p>\n<ul>\n<li>html标签，是html文档的根标签，所有的html文档都必须以html标签作为根标签，html标签中包含了 head标签和body标签\n头部</li>\n<li>head标签，是html文档的头部，用来存放文档的元信息，例如：文档的标题，文档的关键字，文档的描述，文档的作者，文档的样式表，文档的脚本等等\n主体</li>\n<li>body标签，是html文档的主体，用来存放文档的主要内容，例如：文档的标题，文档的段落，文档的图片，文档的表格，文档的链接等等\n注释</li>\n<li>注释是一种特殊的标记，用来对文档中的内容进行说明，注释不会被浏览器解析，注释的内容不会被显示在浏览器中</li>\n</ul>\n</blockquote>\n<h2> HTML语法基本规则</h2>\n<blockquote>\n<ul>\n<li>根标签有且只能有一个</li>\n<li>标签可以嵌套但不能交叉嵌套</li>\n<li>注释不能嵌套</li>\n<li>属性必须有值，值必须加引号，单引号或双引号均可</li>\n<li>标签名不区分大小写但建议使用小写</li>\n</ul>\n</blockquote>\n\n",
+      "date_published": "2023-04-09T00:00:00.000Z",
+      "date_modified": "2023-04-20T22:49:30.000Z",
       "authors": [],
       "tags": [
         "Html"
       ]
     },
     {
-      "title": "测试标题",
+      "title": "js简介",
       "url": "https://brinishness.eu.org/zh/frontend/javascript/1.html",
       "id": "https://brinishness.eu.org/zh/frontend/javascript/1.html",
-      "summary": "测试标题 测试内容 console.log('hello world');",
-      "content_html": "<h1> 测试标题</h1>\n<h2> 测试内容</h2>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "summary": "js简介 JavaScript（简称“JS”）是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名，但是它也被用到了很多非浏览器环境中，JavaScript基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式、声明式、函数式编程范式。 JavaScript在1995年由Netscape公司的Brendan Eich，在网景导航者浏览器上首次设计实现而成。因为Netscape与Sun合作，Netscape管理层希望它外观看起来像Java，因此取名为JavaScript。但实际上它的语法风格与Self及Scheme较为接近。",
+      "content_html": "<h1> js简介</h1>\n<blockquote>\n<p>JavaScript（简称“JS”）是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名，但是它也被用到了很多非浏览器环境中，JavaScript基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式、声明式、函数式编程范式。</p>\n</blockquote>\n<blockquote>\n<p>JavaScript在1995年由Netscape公司的Brendan Eich，在网景导航者浏览器上首次设计实现而成。因为Netscape与Sun合作，Netscape管理层希望它外观看起来像Java，因此取名为JavaScript。但实际上它的语法风格与Self及Scheme较为接近。</p>\n</blockquote>\n<blockquote>\n<p>JavaScript的标准是ECMAScript。截至2012年，所有浏览器都完整的支持ECMAScript 5.1，旧版本的浏览器至少支持ECMAScript 3标准。2015年6月17日，ECMA国际组织发布了ECMAScript的第六版，该版本正式名称为ECMAScript 2015，但通常被称为ECMAScript 6或者ES2015。</p>\n</blockquote>\n\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-14T04:52:33.000Z",
+      "date_modified": "2023-04-20T22:49:30.000Z",
       "authors": [],
       "tags": [
         "Javascript"
