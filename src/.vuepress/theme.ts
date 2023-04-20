@@ -14,6 +14,10 @@ export default hopeTheme({
         orange: "#fb9b5f",
     },
 
+    backToTop: {
+        progress: true,
+    },
+
     print: false,
 
     author: {
