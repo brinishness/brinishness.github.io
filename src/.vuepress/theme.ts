@@ -176,18 +176,36 @@ export default hopeTheme({
             meta: ['nick', 'mail'],
             reaction: true,
             // copyright: false,
-            locale: {
-                level0: '炼气',
-                level1: '筑基',
-                level2: '金丹',
-                level3: '元婴',
-                level4: '化神',
-                level5: '婴变',
-                level6: '问鼎',
-                level7: '阴虚',
-                level8: '阳实',
-                level9: '踏天',
-            },
+            locales: {
+                "/": {
+                    locale: {
+                        level0: 'lianqi',
+                        level1: 'zhuji',
+                        level2: 'jindan',
+                        level3: 'yuanyin',
+                        level4: 'huashen',
+                        level5: 'yingbian',
+                        level6: 'wending',
+                        level7: 'yinxu',
+                        level8: 'yangshi',
+                        level9: 'tatian',
+                    },
+                },
+                "/zh": {
+                    locale: {
+                        level0: '炼气',
+                        level1: '筑基',
+                        level2: '金丹',
+                        level3: '元婴',
+                        level4: '化神',
+                        level5: '婴变',
+                        level6: '问鼎',
+                        level7: '阴虚',
+                        level8: '阳实',
+                        level9: '踏天',
+                    },
+                }
+            }
         },
 
         autoCatalog: {
