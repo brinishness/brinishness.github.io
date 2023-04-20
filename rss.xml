@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Thu, 20 Apr 2023 00:50:18 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2023 00:50:18 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2023 05:22:14 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2023 05:22:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -307,7 +307,7 @@
       <link>https://brinishness.eu.org/os/centos/1.html</link>
       <guid>https://brinishness.eu.org/os/centos/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装centos7</source>
-      <description>安装centos7 1.将已制作好的centos系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑</description>
+      <description>安装centos7 1.将已制作好的centos系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑 8.选择Install CentOS 7</description>
       <category>centos</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
@@ -319,7 +319,29 @@
 <h2> 5.选择U盘为第一启动项</h2>
 <h2> 6.保存并退出</h2>
 <h2> 7.重启电脑</h2>
+<h2> 8.选择Install CentOS 7</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/beced2e70ccad47f2cb269bdd91ef628.png" alt="Install CentOS 7" loading="lazy"></p>
+<h2> 9.选择安装语言</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/af8fd871433059f2cf0b318ee4523862.png" alt="选择安装语言" loading="lazy"></p>
+<h2> 10.选择安装位置</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/97a04ab4221014c3bce022f4c3e868d1.png" alt="选择安装位置" loading="lazy"></p>
+<h2> 11.选择网络配置</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/8a70b2e0fe6a4e61881348efe41d8618.png" alt="选择网络配置" loading="lazy"></p>
+<h2> 12.开始安装</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/84cabd5a95eda768207e8edc0b70e9a3.png" alt="开始安装" loading="lazy"></p>
+<h2> 13.设置root密码</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/2a2224f9acf04c69c31f5cfb94fa3dd0.png" alt="设置root密码" loading="lazy"></p>
+<h2> 14.等待安装完成</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/7b0300882da104c651aaa45eed428535.png" alt="等待安装完成" loading="lazy"></p>
+<h2> 15.完成centos安装</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/4c7c1f14a00528b8f9a0d40be3f8fd8d.png" alt="完成centos安装" loading="lazy"></p>
+<h2> 16.拔掉U盘并重启电脑</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<p>第一启动项需改为安装的硬盘</p>
+</div>
 ]]></content:encoded>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/20/beced2e70ccad47f2cb269bdd91ef628.png" type="image/png"/>
     </item>
     <item>
       <title>安装deepin</title>
@@ -401,7 +423,7 @@
       <link>https://brinishness.eu.org/os/ubuntu/1.html</link>
       <guid>https://brinishness.eu.org/os/ubuntu/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装ubuntu</source>
-      <description>安装ubuntu 1.将已制作好的ubuntu系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑 9.选择try or install ubuntu</description>
+      <description>安装ubuntu 1.将已制作好的ubuntu系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑 8.选择try or install ubuntu</description>
       <category>ubuntu</category>
       <category>install</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
@@ -413,25 +435,25 @@
 <h2> 5.选择U盘为第一启动项</h2>
 <h2> 6.保存并退出</h2>
 <h2> 7.重启电脑</h2>
-<h2> 9.选择try or install ubuntu</h2>
+<h2> 8.选择try or install ubuntu</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/62ac2d784d741f720826a594c779d3b3.png" alt="try or install Ubuntu" loading="lazy"></p>
-<h2> 10.选择安装语言</h2>
+<h2> 9.选择安装语言</h2>
 <p>![选择安装语言]<a href="https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png" target="_blank" rel="noopener noreferrer">https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png</a></p>
-<h2> 11.选择键盘布局</h2>
+<h2> 10.选择键盘布局</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/11ea3af18a9c0ca15e1c934d8954829c.png" alt="选择键盘布局" loading="lazy"></p>
-<h2> 12.选择安装类型</h2>
+<h2> 11.选择安装类型</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/0505ed1330c079a115e8d55f4ecb1727.png" alt="选择安装类型" loading="lazy"></p>
-<h2> 13.选择安装位置</h2>
+<h2> 12.选择安装位置</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/f488cc2f59a72dc66db63493dffe6e31.png" alt="选择安装位置" loading="lazy"></p>
-<h2> 14.选择时区</h2>
+<h2> 13.选择时区</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/d27f1628191fbe86582419bdbea631d9.png" alt="选择时区" loading="lazy"></p>
-<h2> 15.选择用户信息</h2>
+<h2> 14.选择用户信息</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/36465895b31f6f36624e46ea61effb68.png" alt="选择用户信息" loading="lazy"></p>
-<h2> 16.等待安装完成</h2>
+<h2> 15.等待安装完成</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/4bdebc5030e94f438acffdd9204cc404.png" alt="等待安装完成" loading="lazy"></p>
-<h2> 17.完成ubuntu安装</h2>
+<h2> 16.完成ubuntu安装</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/700c14b6f8b02769bbe815a1c4faf52d.png" alt="完成ubuntu安装" loading="lazy"></p>
-<h2> 18.拔掉U盘并重启电脑</h2>
+<h2> 17.拔掉U盘并重启电脑</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">Tips</p>
 <p>第一启动项需改为安装的硬盘</p>
@@ -524,7 +546,7 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-20) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加chrome图片显示问题 (c50634a) 添加google分析 (82db1d8) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-20) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加google分析 (82db1d8) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-20)</h2>
 <ul>
@@ -542,6 +564,7 @@
 <li>修改百度验证为标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/908131b" target="_blank" rel="noopener noreferrer">908131b</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/28b5a81" target="_blank" rel="noopener noreferrer">28b5a81</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
+<li>添加centos安装截图 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fdff827" target="_blank" rel="noopener noreferrer">fdff827</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
 <li>添加ubuntu安装视频 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3bba88e" target="_blank" rel="noopener noreferrer">3bba88e</a>)</li>
