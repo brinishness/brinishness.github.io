@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-20T05:22:14.455Z</updated>
+  <updated>2023-04-20T12:48:35.590Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -509,7 +509,7 @@
     <title type="text">安装ubuntu</title>
     <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
     <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
-    <updated>2023-04-20T05:19:49.000Z</updated>
+    <updated>2023-04-20T12:46:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
 <h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -531,7 +531,7 @@
 <h2> 8.选择try or install ubuntu</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/62ac2d784d741f720826a594c779d3b3.png" alt="try or install Ubuntu" loading="lazy"></p>
 <h2> 9.选择安装语言</h2>
-<p>![选择安装语言]<a href="https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png" target="_blank" rel="noopener noreferrer">https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png</a></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png" alt="选择安装语言" loading="lazy"></p>
 <h2> 10.选择键盘布局</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/11ea3af18a9c0ca15e1c934d8954829c.png" alt="选择键盘布局" loading="lazy"></p>
 <h2> 11.选择安装类型</h2>
@@ -553,7 +553,6 @@
 </div>
 ]]></content>
     <category term="ubuntu"/>
-    <category term="install"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -759,6 +758,7 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+<li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
 <li>修复视频类型问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/205b9ce" target="_blank" rel="noopener noreferrer">205b9ce</a>)</li>
 <li>修复视频路径无法预览问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/54e3e22" target="_blank" rel="noopener noreferrer">54e3e22</a>)</li>
