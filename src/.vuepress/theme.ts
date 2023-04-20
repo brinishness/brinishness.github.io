@@ -161,14 +161,30 @@ export default hopeTheme({
         },
         comment: {
             // @typescript-expect-error: You should generate and use your own comment service
-            provider: "Giscus",
-            repo: "brinishness/brinishness.github.io",
-            repoId: "R_kgDOH97_hA",
-            category: "Q&A",
-            categoryId: "DIC_kwDOH97_hM4CVreP",
-            mapping: "url",
-            strict: true,
-            lazyLoading: false
+            // provider: "Giscus",
+            // repo: "brinishness/brinishness.github.io",
+            // repoId: "R_kgDOH97_hA",
+            // category: "Q&A",
+            // categoryId: "DIC_kwDOH97_hM4CVreP",
+            // mapping: "url",
+            // strict: true,
+            // lazyLoading: false
+            provider: "Waline",
+            serverURL: "https://waline.brinishness.eu.org",
+            site: "https://brinishness.eu.org",
+            dart: "body.theme-dark",
+            meta: ['nick', 'mail'],
+            reaction: true,
+            level: 6,
+            // copyright: false,
+            locale: {
+                level0: '炼体',
+                level1: '炼气',
+                level2: '筑基',
+                level3: '金丹',
+                level4: '元婴',
+                level5: '化神',
+            },
         },
 
         autoCatalog: {
