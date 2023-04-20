@@ -5,7 +5,7 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-19T23:27:35.283Z</updated>
+  <updated>2023-04-20T00:50:18.134Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/zh/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/zh/"/>
@@ -653,7 +653,7 @@
     <title type="text">安装ubuntu</title>
     <id>https://brinishness.eu.org/zh/os/ubuntu/1.html</id>
     <link href="https://brinishness.eu.org/zh/os/ubuntu/1.html"/>
-    <updated>2023-04-17T02:29:39.000Z</updated>
+    <updated>2023-04-20T00:48:09.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
 <h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -662,7 +662,8 @@
 <h2> 5.选择U盘为第一启动项</h2>
 <h2> 6.保存并退出</h2>
 <h2> 7.重启电脑</h2>
-]]></summary>
+<h2> 9.选择try or install ubuntu</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/62ac2d784d741f720826a594c779d3b3.png" alt="try or install Ubuntu" loading="lazy"></p>]]></summary>
     <content type="html"><![CDATA[<h1> 安装ubuntu</h1>
 <h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -671,6 +672,29 @@
 <h2> 5.选择U盘为第一启动项</h2>
 <h2> 6.保存并退出</h2>
 <h2> 7.重启电脑</h2>
+<h2> 9.选择try or install ubuntu</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/62ac2d784d741f720826a594c779d3b3.png" alt="try or install Ubuntu" loading="lazy"></p>
+<h2> 10.选择安装语言</h2>
+<p>![选择安装语言]<a href="https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png" target="_blank" rel="noopener noreferrer">https://img.brinish.eu.org:6205/images/2023/04/20/7265b4cd7427a919faa13a82e3212001.png</a></p>
+<h2> 11.选择键盘布局</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/11ea3af18a9c0ca15e1c934d8954829c.png" alt="选择键盘布局" loading="lazy"></p>
+<h2> 12.选择安装类型</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/0505ed1330c079a115e8d55f4ecb1727.png" alt="选择安装类型" loading="lazy"></p>
+<h2> 13.选择安装位置</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/f488cc2f59a72dc66db63493dffe6e31.png" alt="选择安装位置" loading="lazy"></p>
+<h2> 14.选择时区</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/d27f1628191fbe86582419bdbea631d9.png" alt="选择时区" loading="lazy"></p>
+<h2> 15.选择用户信息</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/36465895b31f6f36624e46ea61effb68.png" alt="选择用户信息" loading="lazy"></p>
+<h2> 16.等待安装完成</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/4bdebc5030e94f438acffdd9204cc404.png" alt="等待安装完成" loading="lazy"></p>
+<h2> 17.完成ubuntu安装</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/700c14b6f8b02769bbe815a1c4faf52d.png" alt="完成ubuntu安装" loading="lazy"></p>
+<h2> 18.拔掉U盘并重启电脑</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>第一启动项需改为安装的硬盘</p>
+</div>
 ]]></content>
     <category term="ubuntu"/>
     <category term="install"/>
