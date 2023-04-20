@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-20T18:35:07.336Z</updated>
+  <updated>2023-04-20T19:52:13.272Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -697,6 +697,7 @@
 <li>添加过滤版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f1ce214" target="_blank" rel="noopener noreferrer">f1ce214</a>)</li>
 <li>添加钩子 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3" target="_blank" rel="noopener noreferrer">1ea0ea3</a>)</li>
 <li>添加镜像制作 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4b43e01" target="_blank" rel="noopener noreferrer">4b43e01</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/09e53bf" target="_blank" rel="noopener noreferrer">09e53bf</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5e7dbd3" target="_blank" rel="noopener noreferrer">5e7dbd3</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/da09f8c" target="_blank" rel="noopener noreferrer">da09f8c</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
@@ -730,6 +731,7 @@
 <li>添加过滤版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f1ce214" target="_blank" rel="noopener noreferrer">f1ce214</a>)</li>
 <li>添加钩子 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1ea0ea3" target="_blank" rel="noopener noreferrer">1ea0ea3</a>)</li>
 <li>添加镜像制作 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4b43e01" target="_blank" rel="noopener noreferrer">4b43e01</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/09e53bf" target="_blank" rel="noopener noreferrer">09e53bf</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5e7dbd3" target="_blank" rel="noopener noreferrer">5e7dbd3</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/da09f8c" target="_blank" rel="noopener noreferrer">da09f8c</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/dfb6168" target="_blank" rel="noopener noreferrer">dfb6168</a>)</li>
@@ -782,6 +784,7 @@
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 <li>完成虚拟化docker (<a href="https://github.com/brinishness/brinishness.github.io/commit/98ba6b7" target="_blank" rel="noopener noreferrer">98ba6b7</a>)</li>
+<li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f683caf" target="_blank" rel="noopener noreferrer">f683caf</a>)</li>
 </ul>
 <h3> 📝 Documentation | 文档</h3>
 <ul>
