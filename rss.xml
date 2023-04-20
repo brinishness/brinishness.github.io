@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Thu, 20 Apr 2023 18:11:33 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2023 18:11:33 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2023 18:16:10 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2023 18:16:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -617,6 +617,7 @@
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
 <li>修改目录排序配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/786cdad" target="_blank" rel="noopener noreferrer">786cdad</a>)</li>
 <li>修改评论系统为Waline (<a href="https://github.com/brinishness/brinishness.github.io/commit/7e49938" target="_blank" rel="noopener noreferrer">7e49938</a>)</li>
+<li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5862237" target="_blank" rel="noopener noreferrer">5862237</a>)</li>
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a56d48" target="_blank" rel="noopener noreferrer">1a56d48</a>)</li>
 <li>修改资源为https (<a href="https://github.com/brinishness/brinishness.github.io/commit/7050016" target="_blank" rel="noopener noreferrer">7050016</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
