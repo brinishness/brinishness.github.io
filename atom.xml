@@ -5,7 +5,7 @@
   <subtitle>Summary of development experience</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-20T12:48:35.590Z</updated>
+  <updated>2023-04-20T17:54:07.122Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -773,6 +773,7 @@
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6bf63ef" target="_blank" rel="noopener noreferrer">6bf63ef</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
 <li>修改目录排序配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/786cdad" target="_blank" rel="noopener noreferrer">786cdad</a>)</li>
+<li>修改评论系统为Waline (<a href="https://github.com/brinishness/brinishness.github.io/commit/7e49938" target="_blank" rel="noopener noreferrer">7e49938</a>)</li>
 <li>修改资源为https (<a href="https://github.com/brinishness/brinishness.github.io/commit/7050016" target="_blank" rel="noopener noreferrer">7050016</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
