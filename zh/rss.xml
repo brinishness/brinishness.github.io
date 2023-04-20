@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/zh/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Apr 2023 22:51:51 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2023 22:51:51 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2023 23:01:57 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2023 23:01:57 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -436,8 +436,12 @@
 <li>服务端渲染</li>
 <li>轻量级</li>
 <li>高效</li>
-<li>灵活
-缺点</li>
+<li>灵活</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>缺点</p>
+<ul>
 <li>学习成本高</li>
 <li>体积大</li>
 <li>代码复杂</li>
@@ -794,14 +798,15 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>css简介</title>
+      <title>css</title>
       <link>https://brinishness.eu.org/zh/frontend/css/1.html</link>
       <guid>https://brinishness.eu.org/zh/frontend/css/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">css简介</source>
-      <description>css简介 CSS（即级联样式表）为网页设计和开发提供了一个全新的方法。通过 CSS，您可以将使用 HTML（即超文本标记语言）创建的网页上显示的文本与用于描述如何显示和表示该文本（使用 CSS 进行定义）的信息完全分隔开。 CSS 旨在解决问题并帮助您节省时间，同时它还使您能够以更多的方式设计网页外观。虽然这可能是您第一次听说 CSS，但之前您已经多次看到它的操作。下面是一个典型的示例：某些网页以特定的方式突出显示其链接。它们的颜色不同于该页上其他文本的颜色，并且将鼠标移动到这些链接上方时，它们的颜色会发生变化或者出现下划线。此操作就是通过 CSS 样式定义而不改动 HTML 代码来实现的。我们会在本指南中介绍此类示例。</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">css</source>
+      <description>css 简介 CSS（即级联样式表）为网页设计和开发提供了一个全新的方法。通过 CSS，您可以将使用 HTML（即超文本标记语言）创建的网页上显示的文本与用于描述如何显示和表示该文本（使用 CSS 进行定义）的信息完全分隔开。 CSS 旨在解决问题并帮助您节省时间，同时它还使您能够以更多的方式设计网页外观。虽然这可能是您第一次听说 CSS，但之前您已经多次看到它的操作。下面是一个典型的示例：某些网页以特定的方式突出显示其链接。它们的颜色不同于该页上其他文本的颜色，并且将鼠标移动到这些链接上方时，它们的颜色会发生变化或者出现下划线。此操作就是通过 CSS 样式定义而不改动 HTML 代码来实现的。我们会在本指南中介绍此类示例。</description>
       <category>Css</category>
       <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> css简介</h1>
+      <content:encoded><![CDATA[<h1> css</h1>
+<h2> 简介</h2>
 <blockquote>
 <p>CSS（即级联样式表）为网页设计和开发提供了一个全新的方法。通过 CSS，您可以将使用 HTML（即超文本标记语言）创建的网页上显示的文本与用于描述如何显示和表示该文本（使用 CSS 进行定义）的信息完全分隔开。</p>
 </blockquote>
@@ -815,14 +820,14 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>html简介</title>
+      <title>html</title>
       <link>https://brinishness.eu.org/zh/frontend/html/1.html</link>
       <guid>https://brinishness.eu.org/zh/frontend/html/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">html简介</source>
-      <description>html简介 HTML的全称为超文本标记语言，是一种标记语言。它包括一系列标签，通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明文字，图形、动画、声音、表格、链接等。 超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">html</source>
+      <description>html HTML的全称为超文本标记语言，是一种标记语言。它包括一系列标签，通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明文字，图形、动画、声音、表格、链接等。 超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。</description>
       <category>Html</category>
       <pubDate>Sun, 09 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> html简介</h1>
+      <content:encoded><![CDATA[<h1> html</h1>
 <blockquote>
 <p>HTML的全称为超文本标记语言，是一种标记语言。它包括一系列标签，通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明文字，图形、动画、声音、表格、链接等。</p>
 </blockquote>
@@ -915,14 +920,15 @@ element。</li>
 ]]></content:encoded>
     </item>
     <item>
-      <title>js简介</title>
+      <title>js</title>
       <link>https://brinishness.eu.org/zh/frontend/javascript/1.html</link>
       <guid>https://brinishness.eu.org/zh/frontend/javascript/1.html</guid>
-      <source url="https://brinishness.eu.org/zh/rss.xml">js简介</source>
-      <description>js简介 JavaScript（简称“JS”）是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名，但是它也被用到了很多非浏览器环境中，JavaScript基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式、声明式、函数式编程范式。 JavaScript在1995年由Netscape公司的Brendan Eich，在网景导航者浏览器上首次设计实现而成。因为Netscape与Sun合作，Netscape管理层希望它外观看起来像Java，因此取名为JavaScript。但实际上它的语法风格与Self及Scheme较为接近。</description>
+      <source url="https://brinishness.eu.org/zh/rss.xml">js</source>
+      <description>js 简介 JavaScript（简称“JS”）是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名，但是它也被用到了很多非浏览器环境中，JavaScript基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式、声明式、函数式编程范式。 JavaScript在1995年由Netscape公司的Brendan Eich，在网景导航者浏览器上首次设计实现而成。因为Netscape与Sun合作，Netscape管理层希望它外观看起来像Java，因此取名为JavaScript。但实际上它的语法风格与Self及Scheme较为接近。</description>
       <category>Javascript</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> js简介</h1>
+      <content:encoded><![CDATA[<h1> js</h1>
+<h2> 简介</h2>
 <blockquote>
 <p>JavaScript（简称“JS”）是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名，但是它也被用到了很多非浏览器环境中，JavaScript基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式、声明式、函数式编程范式。</p>
 </blockquote>
