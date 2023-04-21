@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Fri, 21 Apr 2023 04:58:42 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2023 04:58:42 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2023 05:09:07 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2023 05:09:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -633,6 +633,7 @@
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/ed958f0" target="_blank" rel="noopener noreferrer">ed958f0</a>)</li>
 <li>💊 修改部署命令 (<a href="https://github.com/brinishness/brinishness.github.io/commit/174011a" target="_blank" rel="noopener noreferrer">174011a</a>)</li>
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
+<li>修复proxmox视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4e10578" target="_blank" rel="noopener noreferrer">4e10578</a>)</li>
 <li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
 <li>修复显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5571c20" target="_blank" rel="noopener noreferrer">5571c20</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
