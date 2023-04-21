@@ -123,8 +123,7 @@ export default hopeTheme({
     },
 
     encrypt: {
-        config: {
-        },
+        config: {},
     },
 
     plugins: {
@@ -163,32 +162,26 @@ export default hopeTheme({
             // strict: true,
             // lazyLoading: false
             provider: "Waline",
-            serverURL: "http://waline.brinishness.eu.org:8980",
+            // serverURL: "https://waline-gilt-three.vercel.app",
+            serverURL: "https://waline.brinishness.eu.org",
             site: "https://brinishness.eu.org",
-            pageview: false,
             dart: "body.theme-dark",
             meta: ['nick', 'mail'],
             // copyright: false,
             // "el" | "comment" | "locale" | "search" | "imageUploader" | "texRenderer"
             comment: true,
-            locale: "zh-CN",
-            el: "root",
             search: true,
-            textRenderer: true,
-            imageUploader: false,
-            locales: {
-                "/": {
-                    level0: '炼气',
-                    level1: '筑基',
-                    level2: '金丹',
-                    level3: '元婴',
-                    level4: '化神',
-                    level5: '婴变',
-                    level6: '问鼎',
-                    level7: '阴虚',
-                    level8: '阳实',
-                    level9: '踏天',
-                }
+            locale: {
+                level0: '炼气',
+                level1: '筑基',
+                level2: '金丹',
+                level3: '元婴',
+                level4: '化神',
+                level5: '婴变',
+                level6: '问鼎',
+                level7: '阴虚',
+                level8: '阳实',
+                level9: '踏天',
             }
         },
 
