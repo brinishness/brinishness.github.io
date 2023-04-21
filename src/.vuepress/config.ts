@@ -22,15 +22,15 @@ export default defineUserConfig({
     ],
     locales: {
         "/": {
-            lang: "en-US",
-            title: "brinishness",
-            description: "Summary of development experience",
-        },
-        "/zh/": {
             lang: "zh-CN",
             title: "brinishness",
             description: "开发经验总结",
         },
+        // "/zh/": {
+        //     lang: "zh-CN",
+        //     title: "brinishness",
+        //     description: "开发经验总结",
+        // },
     },
 
     lang: "zh-CN",
@@ -45,15 +45,15 @@ export default defineUserConfig({
                 {
                     getter: (page) => "page.frontmatter.category",
                     formatter: {
-                        "/": "Category: $content",
-                        "/zh/": "分类：$content",
+                        "/": "分类: $content",
+                        // "/zh/": "分类：$content",
                     },
                 },
                 {
                     getter: (page) => "page.frontmatter.tag",
                     formatter: {
-                        "/": "Tag: $content",
-                        "/zh/": "标签：$content",
+                        "/": "标签: $content",
+                        // "/zh/": "标签：$content",
                     },
                 },
             ],

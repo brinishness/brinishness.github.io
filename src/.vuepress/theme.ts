@@ -73,32 +73,32 @@ export default hopeTheme({
     // sidebarSorter: ["filename", "order", "title"],
 
     locales: {
-        "/": {
-            // navbar
-            navbar: enNavbar,
-
-            // sidebar
-            sidebar: enSidebar,
-
-            // footer: "Default footer",
-            footer: "",
-
-            displayFooter: true,
-
-            blog: {
-                description: "A FrontEnd programmer",
-                intro: "/intro.html",
-            },
-
-            metaLocales: {
-                editLink: "Edit this page on GitHub",
-            },
-        },
+        // "/": {
+        //     // navbar
+        //     navbar: zhNavbar,
+        //
+        //     // sidebar
+        //     sidebar: zhSidebar,
+        //
+        //     // footer: "Default footer",
+        //     footer: "",
+        //
+        //     displayFooter: true,
+        //
+        //     blog: {
+        //         description: "A FrontEnd programmer",
+        //         intro: "/intro.html",
+        //     },
+        //
+        //     metaLocales: {
+        //         editLink: "Edit this page on GitHub",
+        //     },
+        // },
 
         /**
          * Chinese locale config
          */
-        "/zh/": {
+        "/": {
             // navbar
             navbar: zhNavbar,
 
@@ -124,8 +124,6 @@ export default hopeTheme({
 
     encrypt: {
         config: {
-            "/demo/encrypt.html": ["1234"],
-            "/zh/demo/encrypt.html": ["1234"],
         },
     },
 
@@ -140,12 +138,7 @@ export default hopeTheme({
             locales: {
                 "/": {
                     // 覆盖链接文字
-                    link: "Original text published on :link",
-                },
-
-                "/zh/": {
                     link: "原文发表于 :link",
-                    // 在这里完整设置 `mm-NN` 的多语言配置
                 },
             },
         },
@@ -170,26 +163,21 @@ export default hopeTheme({
             // strict: true,
             // lazyLoading: false
             provider: "Waline",
-            serverURL: "https://waline.brinishness.eu.org",
+            serverURL: "http://waline.brinishness.eu.org:8980",
             site: "https://brinishness.eu.org",
+            pageview: false,
             dart: "body.theme-dark",
             meta: ['nick', 'mail'],
-            reaction: true,
             // copyright: false,
+            // "el" | "comment" | "locale" | "search" | "imageUploader" | "texRenderer"
+            comment: true,
+            locale: "zh-CN",
+            el: "root",
+            search: true,
+            textRenderer: true,
+            imageUploader: false,
             locales: {
                 "/": {
-                    level0: 'lianqi',
-                    level1: 'zhuji',
-                    level2: 'jindan',
-                    level3: 'yuanying',
-                    level4: 'huashen',
-                    level5: 'yingbian',
-                    level6: 'wending',
-                    level7: 'yinxu',
-                    level8: 'yangshi',
-                    level9: 'tatian',
-                },
-                "/zh/": {
                     level0: '炼气',
                     level1: '筑基',
                     level2: '金丹',
@@ -208,9 +196,6 @@ export default hopeTheme({
             index: true,
             locales: {
                 "/": {
-                    title: "Catalog",
-                },
-                "/zh/": {
                     title: "目录"
                 }
             },

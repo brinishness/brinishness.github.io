@@ -1,11 +1,11 @@
 import {navbar} from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-    "/zh/",
+    "/",
     {
         icon: "front-end",
         text: "前端",
-        prefix: "/zh/frontend/",
+        prefix: "/frontend/",
         children: [
             {
                 text: "html",
@@ -28,7 +28,7 @@ export const zhNavbar = navbar([
     {
         icon: "back-end",
         text: "后端",
-        prefix: "/zh/backend/",
+        prefix: "/backend/",
         children: [
             {
                 text: "go",
@@ -50,7 +50,7 @@ export const zhNavbar = navbar([
     {
         icon: "jingxiang",
         text: "系统",
-        prefix: "/zh/os/",
+        prefix: "/os/",
         children: [
             {
                 text: "镜像",
