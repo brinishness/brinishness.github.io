@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Apr 2023 20:58:17 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2023 20:58:17 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2023 21:15:31 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2023 21:15:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -664,6 +664,7 @@
 <li>删除多语言文件夹 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3b01e23" target="_blank" rel="noopener noreferrer">3b01e23</a>)</li>
 <li>删除多语言模式 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3d4b4b8" target="_blank" rel="noopener noreferrer">3d4b4b8</a>)</li>
 <li>完成虚拟化docker (<a href="https://github.com/brinishness/brinishness.github.io/commit/98ba6b7" target="_blank" rel="noopener noreferrer">98ba6b7</a>)</li>
+<li>新版本图标bug降版本解决 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f72775c" target="_blank" rel="noopener noreferrer">f72775c</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f683caf" target="_blank" rel="noopener noreferrer">f683caf</a>)</li>
 </ul>
 <h3> 📝 Documentation | 文档</h3>
