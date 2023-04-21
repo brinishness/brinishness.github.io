@@ -5,7 +5,7 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-21T21:15:31.308Z</updated>
+  <updated>2023-04-21T23:34:23.665Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -799,6 +799,7 @@
 <li>修复proxmox视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4e10578" target="_blank" rel="noopener noreferrer">4e10578</a>)</li>
 <li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
 <li>修复显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5571c20" target="_blank" rel="noopener noreferrer">5571c20</a>)</li>
+<li>修复本地服务无法使用 (<a href="https://github.com/brinishness/brinishness.github.io/commit/17e1360" target="_blank" rel="noopener noreferrer">17e1360</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
 <li>修复视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/bdf2264" target="_blank" rel="noopener noreferrer">bdf2264</a>)</li>
 <li>修复视频类型问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/205b9ce" target="_blank" rel="noopener noreferrer">205b9ce</a>)</li>
