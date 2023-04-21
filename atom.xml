@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://brinishness.eu.org/atom.xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://brinishness.eu.org/</id>
   <title>brinishness</title>
-  <subtitle>Summary of development experience</subtitle>
+  <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-21T05:09:07.861Z</updated>
+  <updated>2023-04-21T20:58:17.629Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -420,7 +420,7 @@
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/4c7c1f14a00528b8f9a0d40be3f8fd8d.png" alt="完成centos安装" loading="lazy"></p>
 <h2> 16.拔掉U盘并重启电脑</h2>
 <div class="hint-container tip">
-<p class="hint-container-title">Tips</p>
+<p class="hint-container-title">提示</p>
 <p>第一启动项需改为安装的硬盘</p>
 </div>
 ]]></content>
@@ -578,7 +578,7 @@
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/20/700c14b6f8b02769bbe815a1c4faf52d.png" alt="完成ubuntu安装" loading="lazy"></p>
 <h2> 17.拔掉U盘并重启电脑</h2>
 <div class="hint-container tip">
-<p class="hint-container-title">Tips</p>
+<p class="hint-container-title">提示</p>
 <p>第一启动项需改为安装的硬盘</p>
 </div>
 ]]></content>
@@ -823,6 +823,9 @@
 <li>修改资源为https (<a href="https://github.com/brinishness/brinishness.github.io/commit/7050016" target="_blank" rel="noopener noreferrer">7050016</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
+<li>删除多语言文件夹 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9043030" target="_blank" rel="noopener noreferrer">9043030</a>)</li>
+<li>删除多语言文件夹 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3b01e23" target="_blank" rel="noopener noreferrer">3b01e23</a>)</li>
+<li>删除多语言模式 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3d4b4b8" target="_blank" rel="noopener noreferrer">3d4b4b8</a>)</li>
 <li>完成虚拟化docker (<a href="https://github.com/brinishness/brinishness.github.io/commit/98ba6b7" target="_blank" rel="noopener noreferrer">98ba6b7</a>)</li>
 <li>版本升级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/f683caf" target="_blank" rel="noopener noreferrer">f683caf</a>)</li>
 </ul>
@@ -1259,7 +1262,7 @@ element。</li>
     <content type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>
-<details class="hint-container details"><summary>Details</summary>
+<details class="hint-container details"><summary>详情</summary>
 
 </details>
 <p>安装 VuePress Theme Hope:</p>
@@ -1386,7 +1389,7 @@ vue的目标是通过尽可能简单的API实现响应的数据绑定和组合�
 <h2> step7 put iso to ventoy disk</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/12/64c774a8bf1dce182bc6fb3317668afd.png" alt="put" loading="lazy"></p>
 <div class="hint-container tip">
-<p class="hint-container-title">Tips</p>
+<p class="hint-container-title">提示</p>
 <p>modify the first startup entry of the bios</p>
 </div>
 <h2> step8 boot then you can see link this</h2>
