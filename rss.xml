@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Thu, 20 Apr 2023 23:01:57 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2023 23:01:57 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2023 04:40:45 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2023 04:40:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,6 +15,7 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
+    <category>nas</category>
     <category>images</category>
     <category>Macos</category>
     <category>Jenkins</category>
@@ -40,6 +41,33 @@
     <category>Vite</category>
     <category>Vue</category>
     <category>Webpack</category>
+    <item>
+      <title>使用arpl安装synology</title>
+      <link>https://brinishness.eu.org/nas/1.html</link>
+      <guid>https://brinishness.eu.org/nas/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">使用arpl安装synology</source>
+      <description>使用arpl安装synology 1. 下载arpl(可以使用最新版) 下载 2.下载etcher(用于写入arpl到U盘) 下载</description>
+      <category>nas</category>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 使用arpl安装synology</h1>
+<h2> 1. 下载arpl(可以使用最新版) <a href="https://github.com/fbelavenuto/arpl/releases" target="_blank" rel="noopener noreferrer">下载</a></h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" alt="下载arpl" loading="lazy"></p>
+<h2> 2.下载etcher(用于写入arpl到U盘) <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">下载</a></h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<h2> 2. 写入arpl到U盘</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/aa9c1cb772b0b8ece224755fe6e4196f.png" alt="选择镜像" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/21/a2e06636929a612421e624a63273cee0.png" alt="选择U盘" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/21/eee3b9aa453ec1e171d82e0cd21ea973.png" alt="写入" loading="lazy"></p>
+<h2> 3.进入bios (不同主板快捷键不同 请自行百度)</h2>
+<h2> 4.选择U盘(arpl)为第一启动项</h2>
+<h2> 5.启动系统</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/03a58f3bcfc127441bd9ede4c495ef65.png" alt="启动系统" loading="lazy"></p>
+<h2> 6. 使用arpl安装synology (打开图中对应地址)</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/551055ee7dc8d6d7dcdf5d13eaa00596.png" alt="使用arpl安装synology" loading="lazy"></p>
+<h2> 7. 安装完成</h2>
+]]></content:encoded>
+      <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" type="image/png"/>
+    </item>
     <item>
       <title>windows安装镜像制作</title>
       <link>https://brinishness.eu.org/os/images/2.html</link>
@@ -545,9 +573,9 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-20) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-21) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-20)</h2>
+      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-21)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -563,6 +591,7 @@
 <li>修改百度验证为标签 (<a href="https://github.com/brinishness/brinishness.github.io/commit/908131b" target="_blank" rel="noopener noreferrer">908131b</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/28b5a81" target="_blank" rel="noopener noreferrer">28b5a81</a>)</li>
 <li>本地提交changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/0146308" target="_blank" rel="noopener noreferrer">0146308</a>)</li>
+<li>添加arpl引导黑群晖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7fe88cf" target="_blank" rel="noopener noreferrer">7fe88cf</a>)</li>
 <li>添加centos安装截图 (<a href="https://github.com/brinishness/brinishness.github.io/commit/fdff827" target="_blank" rel="noopener noreferrer">fdff827</a>)</li>
 <li>添加chrome图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c50634a" target="_blank" rel="noopener noreferrer">c50634a</a>)</li>
 <li>添加css简介以及js简介 (<a href="https://github.com/brinishness/brinishness.github.io/commit/b79a05d" target="_blank" rel="noopener noreferrer">b79a05d</a>)</li>
@@ -612,6 +641,7 @@
 <li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
 <li>修改changelog为本地生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2756fe9" target="_blank" rel="noopener noreferrer">2756fe9</a>)</li>
 <li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
+<li>修改vue内容 (<a href="https://github.com/brinishness/brinishness.github.io/commit/78c9409" target="_blank" rel="noopener noreferrer">78c9409</a>)</li>
 <li>修改一些隐藏的配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7195bcb" target="_blank" rel="noopener noreferrer">7195bcb</a>)</li>
 <li>修改中文目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e0b99d8" target="_blank" rel="noopener noreferrer">e0b99d8</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5f077b6" target="_blank" rel="noopener noreferrer">5f077b6</a>)</li>
@@ -1023,10 +1053,33 @@ element。</li>
       <link>https://brinishness.eu.org/frontend/vue/1.html</link>
       <guid>https://brinishness.eu.org/frontend/vue/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">vue</source>
-      <description>vue vue</description>
+      <description>vue vue简介 vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。 vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。 vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。 vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。 vue优缺点 优点： 渐进式框架，可以逐步引入 可以与第三方库或既有项目整合 轻量级，只关注视图层 双向数据绑定 虚拟DOM 组件化开发 指令系统 模板语法 路由系统 状态管理</description>
       <category>Vue</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> vue</h1>
+<h2> vue简介</h2>
+<blockquote>
+<p>vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。
+vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。</p>
+</blockquote>
+<h2> vue优缺点</h2>
+<blockquote>
+<p>优点：</p>
+<ol>
+<li>渐进式框架，可以逐步引入</li>
+<li>可以与第三方库或既有项目整合</li>
+<li>轻量级，只关注视图层</li>
+<li>双向数据绑定</li>
+<li>虚拟DOM</li>
+<li>组件化开发</li>
+<li>指令系统</li>
+<li>模板语法</li>
+<li>路由系统</li>
+<li>状态管理</li>
+</ol>
+</blockquote>
 <details class="hint-container details"><summary>vue</summary>
 
 </details>

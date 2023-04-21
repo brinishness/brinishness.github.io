@@ -8,6 +8,20 @@
   "favicon": "https://brinishness.eu.org/goutou.svg",
   "items": [
     {
+      "title": "使用arpl安装synology",
+      "url": "https://brinishness.eu.org/zh/nas/1.html",
+      "id": "https://brinishness.eu.org/zh/nas/1.html",
+      "summary": "使用arpl安装synology 1. 下载arpl(可以使用最新版) 下载 2.下载etcher(用于写入arpl到U盘) 下载",
+      "content_html": "<h1> 使用arpl安装synology</h1>\n<h2> 1. 下载arpl(可以使用最新版) <a href=\"https://github.com/fbelavenuto/arpl/releases\" target=\"_blank\" rel=\"noopener noreferrer\">下载</a></h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png\" alt=\"下载arpl\" loading=\"lazy\"></p>\n<h2> 2.下载etcher(用于写入arpl到U盘) <a href=\"https://www.balena.io/etcher/\" target=\"_blank\" rel=\"noopener noreferrer\">下载</a></h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png\" alt=\"下载etcher\" loading=\"lazy\"></p>\n<h2> 2. 写入arpl到U盘</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/aa9c1cb772b0b8ece224755fe6e4196f.png\" alt=\"选择镜像\" loading=\"lazy\">\n<img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/a2e06636929a612421e624a63273cee0.png\" alt=\"选择U盘\" loading=\"lazy\">\n<img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/eee3b9aa453ec1e171d82e0cd21ea973.png\" alt=\"写入\" loading=\"lazy\"></p>\n<h2> 3.进入bios (不同主板快捷键不同 请自行百度)</h2>\n<h2> 4.选择U盘(arpl)为第一启动项</h2>\n<h2> 5.启动系统</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/03a58f3bcfc127441bd9ede4c495ef65.png\" alt=\"启动系统\" loading=\"lazy\"></p>\n<h2> 6. 使用arpl安装synology (打开图中对应地址)</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/551055ee7dc8d6d7dcdf5d13eaa00596.png\" alt=\"使用arpl安装synology\" loading=\"lazy\"></p>\n<h2> 7. 安装完成</h2>\n",
+      "image": "https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png",
+      "date_published": "2023-04-15T00:00:00.000Z",
+      "date_modified": "2023-04-21T04:38:32.000Z",
+      "authors": [],
+      "tags": [
+        "nas"
+      ]
+    },
+    {
       "title": "windows安装镜像制作",
       "url": "https://brinishness.eu.org/zh/os/images/2.html",
       "id": "https://brinishness.eu.org/zh/os/images/2.html",
@@ -239,10 +253,10 @@
       "title": "vue",
       "url": "https://brinishness.eu.org/zh/frontend/vue/1.html",
       "id": "https://brinishness.eu.org/zh/frontend/vue/1.html",
-      "summary": "vue vue",
-      "content_html": "<h1> vue</h1>\n<details class=\"hint-container details\"><summary>vue</summary>\n\n</details>\n",
+      "summary": "vue vue简介 vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。 vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。 vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。 vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。 vue优缺点 优点： 渐进式框架，可以逐步引入 可以与第三方库或既有项目整合 轻量级，只关注视图层 双向数据绑定 虚拟DOM 组件化开发 指令系统 模板语法 路由系统 状态管理",
+      "content_html": "<h1> vue</h1>\n<h2> vue简介</h2>\n<blockquote>\n<p>vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。\nvue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。\nvue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。\nvue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。</p>\n</blockquote>\n<h2> vue优缺点</h2>\n<blockquote>\n<p>优点：</p>\n<ol>\n<li>渐进式框架，可以逐步引入</li>\n<li>可以与第三方库或既有项目整合</li>\n<li>轻量级，只关注视图层</li>\n<li>双向数据绑定</li>\n<li>虚拟DOM</li>\n<li>组件化开发</li>\n<li>指令系统</li>\n<li>模板语法</li>\n<li>路由系统</li>\n<li>状态管理</li>\n</ol>\n</blockquote>\n<details class=\"hint-container details\"><summary>vue</summary>\n\n</details>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-14T04:52:33.000Z",
+      "date_modified": "2023-04-21T04:38:09.000Z",
       "authors": [],
       "tags": [
         "Vue"

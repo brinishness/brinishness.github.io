@@ -5,10 +5,11 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-20T23:01:57.214Z</updated>
+  <updated>2023-04-21T04:40:45.716Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/zh/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/zh/"/>
+  <category term="nas"/>
   <category term="images"/>
   <category term="Macos"/>
   <category term="docker"/>
@@ -34,6 +35,35 @@
   <category term="Typescript"/>
   <category term="Vite"/>
   <category term="Webpack"/>
+  <entry>
+    <title type="text">使用arpl安装synology</title>
+    <id>https://brinishness.eu.org/zh/nas/1.html</id>
+    <link href="https://brinishness.eu.org/zh/nas/1.html"/>
+    <updated>2023-04-21T04:38:32.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 使用arpl安装synology</h1>
+<h2> 1. 下载arpl(可以使用最新版) <a href="https://github.com/fbelavenuto/arpl/releases" target="_blank" rel="noopener noreferrer">下载</a></h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" alt="下载arpl" loading="lazy"></p>
+<h2> 2.下载etcher(用于写入arpl到U盘) <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">下载</a></h2>]]></summary>
+    <content type="html"><![CDATA[<h1> 使用arpl安装synology</h1>
+<h2> 1. 下载arpl(可以使用最新版) <a href="https://github.com/fbelavenuto/arpl/releases" target="_blank" rel="noopener noreferrer">下载</a></h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" alt="下载arpl" loading="lazy"></p>
+<h2> 2.下载etcher(用于写入arpl到U盘) <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">下载</a></h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png" alt="下载etcher" loading="lazy"></p>
+<h2> 2. 写入arpl到U盘</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/aa9c1cb772b0b8ece224755fe6e4196f.png" alt="选择镜像" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/21/a2e06636929a612421e624a63273cee0.png" alt="选择U盘" loading="lazy">
+<img src="https://img.brinish.eu.org:6205/images/2023/04/21/eee3b9aa453ec1e171d82e0cd21ea973.png" alt="写入" loading="lazy"></p>
+<h2> 3.进入bios (不同主板快捷键不同 请自行百度)</h2>
+<h2> 4.选择U盘(arpl)为第一启动项</h2>
+<h2> 5.启动系统</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/03a58f3bcfc127441bd9ede4c495ef65.png" alt="启动系统" loading="lazy"></p>
+<h2> 6. 使用arpl安装synology (打开图中对应地址)</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/551055ee7dc8d6d7dcdf5d13eaa00596.png" alt="使用arpl安装synology" loading="lazy"></p>
+<h2> 7. 安装完成</h2>
+]]></content>
+    <category term="nas"/>
+    <published>2023-04-15T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">windows安装镜像制作</title>
     <id>https://brinishness.eu.org/zh/os/images/2.html</id>
@@ -541,13 +571,55 @@
     <title type="text">vue</title>
     <id>https://brinishness.eu.org/zh/frontend/vue/1.html</id>
     <link href="https://brinishness.eu.org/zh/frontend/vue/1.html"/>
-    <updated>2023-04-14T04:52:33.000Z</updated>
+    <updated>2023-04-21T04:38:09.000Z</updated>
     <summary type="html"><![CDATA[<h1> vue</h1>
-<details class="hint-container details"><summary>vue</summary>
-
-</details>
-]]></summary>
+<h2> vue简介</h2>
+<blockquote>
+<p>vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。
+vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。</p>
+</blockquote>
+<h2> vue优缺点</h2>
+<blockquote>
+<p>优点：</p>
+<ol>
+<li>渐进式框架，可以逐步引入</li>
+<li>可以与第三方库或既有项目整合</li>
+<li>轻量级，只关注视图层</li>
+<li>双向数据绑定</li>
+<li>虚拟DOM</li>
+<li>组件化开发</li>
+<li>指令系统</li>
+<li>模板语法</li>
+<li>路由系统</li>
+<li>状态管理</li>
+</ol>
+</blockquote>]]></summary>
     <content type="html"><![CDATA[<h1> vue</h1>
+<h2> vue简介</h2>
+<blockquote>
+<p>vue是一套用于构建用户界面的渐进式框架。与其他重量级框架不同的是，vue是专注于视图层。vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。
+vue的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。
+vue的目标是通过尽可能简单的API实现响应的数据绑定和组合的视图组件。</p>
+</blockquote>
+<h2> vue优缺点</h2>
+<blockquote>
+<p>优点：</p>
+<ol>
+<li>渐进式框架，可以逐步引入</li>
+<li>可以与第三方库或既有项目整合</li>
+<li>轻量级，只关注视图层</li>
+<li>双向数据绑定</li>
+<li>虚拟DOM</li>
+<li>组件化开发</li>
+<li>指令系统</li>
+<li>模板语法</li>
+<li>路由系统</li>
+<li>状态管理</li>
+</ol>
+</blockquote>
 <details class="hint-container details"><summary>vue</summary>
 
 </details>
