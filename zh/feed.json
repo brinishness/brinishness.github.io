@@ -15,7 +15,7 @@
       "content_html": "<h1> 使用arpl安装synology</h1>\n<h2> 1. 下载arpl(可以使用最新版) <a href=\"https://github.com/fbelavenuto/arpl/releases\" target=\"_blank\" rel=\"noopener noreferrer\">下载</a></h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png\" alt=\"下载arpl\" loading=\"lazy\"></p>\n<h2> 2.下载etcher(用于写入arpl到U盘) <a href=\"https://www.balena.io/etcher/\" target=\"_blank\" rel=\"noopener noreferrer\">下载</a></h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/16/3bf3b4eb162ff7582d1394a6ba61bd3d.png\" alt=\"下载etcher\" loading=\"lazy\"></p>\n<h2> 2. 写入arpl到U盘</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/aa9c1cb772b0b8ece224755fe6e4196f.png\" alt=\"选择镜像\" loading=\"lazy\">\n<img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/a2e06636929a612421e624a63273cee0.png\" alt=\"选择U盘\" loading=\"lazy\">\n<img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/eee3b9aa453ec1e171d82e0cd21ea973.png\" alt=\"写入\" loading=\"lazy\"></p>\n<h2> 3.进入bios (不同主板快捷键不同 请自行百度)</h2>\n<h2> 4.选择U盘(arpl)为第一启动项</h2>\n<h2> 5.启动系统</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/03a58f3bcfc127441bd9ede4c495ef65.png\" alt=\"启动系统\" loading=\"lazy\"></p>\n<h2> 6. 使用arpl安装synology (打开图中对应地址)</h2>\n<p><img src=\"https://img.brinish.eu.org:6205/images/2023/04/21/551055ee7dc8d6d7dcdf5d13eaa00596.png\" alt=\"使用arpl安装synology\" loading=\"lazy\"></p>\n<h2> 7. 安装完成</h2>\n",
       "image": "https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png",
       "date_published": "2023-04-15T00:00:00.000Z",
-      "date_modified": "2023-04-21T04:38:32.000Z",
+      "date_modified": "2023-04-21T04:56:24.000Z",
       "authors": [],
       "tags": [
         "nas"
@@ -366,7 +366,7 @@
       "summary": "安装proxmox 1.将已制作好的proxmox系统的U盘插入电脑 2.重启电脑 3.使用F2进入BIOS (不同主板不通快捷键) 4.进入BIOS后选择启动项 5.选择U盘为第一启动项 6.保存并退出 7.重启电脑",
       "content_html": "<h1> 安装proxmox</h1>\n<h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>\n<h2> 2.重启电脑</h2>\n<h2> 3.使用F2进入BIOS (不同主板不通快捷键)</h2>\n<h2> 4.进入BIOS后选择启动项</h2>\n<h2> 5.选择U盘为第一启动项</h2>\n<h2> 6.保存并退出</h2>\n<h2> 7.重启电脑</h2>\n",
       "date_published": "2023-04-11T00:00:00.000Z",
-      "date_modified": "2023-04-19T10:10:14.000Z",
+      "date_modified": "2023-04-21T04:56:24.000Z",
       "authors": [],
       "tags": [
         "proxmox",

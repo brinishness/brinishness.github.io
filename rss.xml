@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>Summary of development experience</description>
     <language>en-US</language>
-    <pubDate>Fri, 21 Apr 2023 04:40:45 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2023 04:40:45 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2023 04:58:42 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2023 04:58:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -636,6 +636,7 @@
 <li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
 <li>修复显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5571c20" target="_blank" rel="noopener noreferrer">5571c20</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
+<li>修复视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/bdf2264" target="_blank" rel="noopener noreferrer">bdf2264</a>)</li>
 <li>修复视频类型问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/205b9ce" target="_blank" rel="noopener noreferrer">205b9ce</a>)</li>
 <li>修复视频路径无法预览问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/54e3e22" target="_blank" rel="noopener noreferrer">54e3e22</a>)</li>
 <li>修复编辑页路径错误 (<a href="https://github.com/brinishness/brinishness.github.io/commit/0d02ae6" target="_blank" rel="noopener noreferrer">0d02ae6</a>)</li>
