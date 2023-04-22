@@ -5,20 +5,19 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-21T23:34:23.665Z</updated>
+  <updated>2023-04-22T04:15:31.501Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
   <category term="nas"/>
+  <category term="Verdaccio"/>
   <category term="images"/>
   <category term="Macos"/>
   <category term="Jenkins"/>
   <category term="Docker"/>
   <category term="Nexus"/>
-  <category term="docker"/>
-  <category term="install"/>
-  <category term="verdaccio"/>
   <category term="centos"/>
+  <category term="install"/>
   <category term="deepin"/>
   <category term="esxi"/>
   <category term="proxmox"/>
@@ -39,7 +38,7 @@
     <title type="text">使用arpl安装synology</title>
     <id>https://brinishness.eu.org/nas/1.html</id>
     <link href="https://brinishness.eu.org/nas/1.html"/>
-    <updated>2023-04-21T04:56:24.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> 使用arpl安装synology</h1>
 <h2> 1. 下载arpl(可以使用最新版) <a href="https://github.com/fbelavenuto/arpl/releases" target="_blank" rel="noopener noreferrer">下载</a></h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" alt="下载arpl" loading="lazy"></p>
@@ -63,6 +62,18 @@
 ]]></content>
     <category term="nas"/>
     <published>2023-04-15T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">verdaccio配置</title>
+    <id>https://brinishness.eu.org/server/verdaccio/2.html</id>
+    <link href="https://brinishness.eu.org/server/verdaccio/2.html"/>
+    <updated>2023-04-22T04:13:23.000Z</updated>
+    <summary type="html"><![CDATA[<h1> verdaccio配置</h1>
+]]></summary>
+    <content type="html"><![CDATA[<h1> verdaccio配置</h1>
+]]></content>
+    <category term="Verdaccio"/>
+    <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">windows安装镜像制作</title>
@@ -197,7 +208,7 @@
     <title type="text">jenkins部署</title>
     <id>https://brinishness.eu.org/server/jenkins/1.html</id>
     <link href="https://brinishness.eu.org/server/jenkins/1.html"/>
-    <updated>2023-04-15T19:22:52.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> jenkins部署</h1>
 <h2> 使用docker-compose部署jenkins</h2>
 <h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
@@ -224,7 +235,7 @@
     <title type="text">jenkins推荐插件安装</title>
     <id>https://brinishness.eu.org/server/jenkins/2.html</id>
     <link href="https://brinishness.eu.org/server/jenkins/2.html"/>
-    <updated>2023-04-15T19:22:52.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> jenkins推荐插件安装</h1>
 <h2> 推荐插件</h2>
 <table>
@@ -292,7 +303,7 @@
     <title type="text">推荐插件配置</title>
     <id>https://brinishness.eu.org/server/jenkins/3.html</id>
     <link href="https://brinishness.eu.org/server/jenkins/3.html"/>
-    <updated>2023-04-15T19:22:52.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> 推荐插件配置</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 推荐插件配置</h1>
@@ -304,7 +315,7 @@
     <title type="text">nexus部署</title>
     <id>https://brinishness.eu.org/server/nexus/1.html</id>
     <link href="https://brinishness.eu.org/server/nexus/1.html"/>
-    <updated>2023-04-15T19:22:52.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> nexus部署</h1>
 <h2> 使用docker-compose部署nexus</h2>
 <h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
@@ -323,40 +334,39 @@
 <h3> 8.完成nexus安装</h3>
 ]]></content>
     <category term="Nexus"/>
-    <category term="Docker"/>
     <published>2023-04-14T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">nexus配置</title>
     <id>https://brinishness.eu.org/server/nexus/2.html</id>
     <link href="https://brinishness.eu.org/server/nexus/2.html"/>
-    <updated>2023-04-15T19:22:52.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> nexus配置</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> nexus配置</h1>
 ]]></content>
-    <published>2023-04-15T19:22:52.000Z</published>
+    <category term="Nexus"/>
+    <published>2023-04-14T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">docker安装</title>
     <id>https://brinishness.eu.org/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-19T10:10:14.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> docker安装</h1>
 
 ]]></summary>
     <content type="html"><![CDATA[<h1> docker安装</h1>
 
 ]]></content>
-    <category term="docker"/>
-    <category term="install"/>
+    <category term="Docker"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">verdaccio部署</title>
     <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
 <h2> 使用docker-compose部署verdaccio</h2>
 <h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
@@ -375,8 +385,7 @@
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.修改密码</h3>
 <h3> 8.完成nexus安装</h3>
 ]]></content>
-    <category term="verdaccio"/>
-    <category term="install"/>
+    <category term="Verdaccio"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -701,7 +710,7 @@
     <id>https://brinishness.eu.org/CHANGELOG.html</id>
     <link href="https://brinishness.eu.org/CHANGELOG.html"/>
     <updated>2023-04-15T20:17:31.000Z</updated>
-    <summary type="html"><![CDATA[<h2> 1.0.4 (2023-04-21)</h2>
+    <summary type="html"><![CDATA[<h2> 1.0.4 (2023-04-22)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -738,7 +747,7 @@
 <li>解决html文件不生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9197d9d" target="_blank" rel="noopener noreferrer">9197d9d</a>)</li>
 <li>远程生成changelog (<a href="https://github.com/brinishness/brinishness.github.io/commit/85440e2" target="_blank" rel="noopener noreferrer">85440e2</a>)</li>
 </ul>]]></summary>
-    <content type="html"><![CDATA[<h2> 1.0.4 (2023-04-21)</h2>
+    <content type="html"><![CDATA[<h2> 1.0.4 (2023-04-22)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -798,6 +807,7 @@
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
 <li>修复proxmox视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4e10578" target="_blank" rel="noopener noreferrer">4e10578</a>)</li>
 <li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
+<li>修复文章排序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c2e3fd1" target="_blank" rel="noopener noreferrer">c2e3fd1</a>)</li>
 <li>修复显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5571c20" target="_blank" rel="noopener noreferrer">5571c20</a>)</li>
 <li>修复本地服务无法使用 (<a href="https://github.com/brinishness/brinishness.github.io/commit/17e1360" target="_blank" rel="noopener noreferrer">17e1360</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
@@ -849,23 +859,16 @@
     <title type="text">个人简介</title>
     <id>https://brinishness.eu.org/intro.html</id>
     <link href="https://brinishness.eu.org/intro.html"/>
-    <updated>2023-04-12T21:29:50.000Z</updated>
+    <updated>2023-04-22T04:13:23.000Z</updated>
     <summary type="html"><![CDATA[<h1> 个人简介</h1>
+<blockquote>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
+</blockquote>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 个人简介</h1>
+<blockquote>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
-]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Slide page</title>
-    <id>https://brinishness.eu.org/slides.html</id>
-    <link href="https://brinishness.eu.org/slides.html"/>
-    <updated>2023-04-12T21:29:50.000Z</updated>
-    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></summary>
-    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
+</blockquote>
 ]]></content>
     <published>2023-04-12T21:29:50.000Z</published>
   </entry>

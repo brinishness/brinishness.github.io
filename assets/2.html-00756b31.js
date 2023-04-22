@@ -1,0 +1,1 @@
+import{_ as t,X as s,Y as a,Z as e,$ as n}from"./framework-fa0a4005.js";const c={},r=e("h1",{id:"nexus配置",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nexus配置","aria-hidden":"true"},"#"),n(" nexus配置")],-1),o=[r];function _(d,i){return s(),a("div",null,o)}const l=t(c,[["render",_],["__file","2.html.vue"]]);export{l as default};

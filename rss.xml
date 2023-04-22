@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Apr 2023 23:34:23 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2023 23:34:23 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 04:15:31 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 04:15:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -16,15 +16,14 @@
       <link>https://brinishness.eu.org/</link>
     </image>
     <category>nas</category>
+    <category>Verdaccio</category>
     <category>images</category>
     <category>Macos</category>
     <category>Jenkins</category>
     <category>Docker</category>
     <category>Nexus</category>
-    <category>docker</category>
-    <category>install</category>
-    <category>verdaccio</category>
     <category>centos</category>
+    <category>install</category>
     <category>deepin</category>
     <category>esxi</category>
     <category>proxmox</category>
@@ -67,6 +66,17 @@
 <h2> 7. 安装完成</h2>
 ]]></content:encoded>
       <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" type="image/png"/>
+    </item>
+    <item>
+      <title>verdaccio配置</title>
+      <link>https://brinishness.eu.org/server/verdaccio/2.html</link>
+      <guid>https://brinishness.eu.org/server/verdaccio/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">verdaccio配置</source>
+      <description>verdaccio配置</description>
+      <category>Verdaccio</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> verdaccio配置</h1>
+]]></content:encoded>
     </item>
     <item>
       <title>windows安装镜像制作</title>
@@ -270,7 +280,6 @@
       <source url="https://brinishness.eu.org/rss.xml">nexus部署</source>
       <description>nexus部署 使用docker-compose部署nexus 1.安装docker并配置docker-compose 查看使用方式 2.创建nexus目录 mkdir -p /data/env/nexus/data</description>
       <category>Nexus</category>
-      <category>Docker</category>
       <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> nexus部署</h1>
 <h2> 使用docker-compose部署nexus</h2>
@@ -290,7 +299,8 @@
       <guid>https://brinishness.eu.org/server/nexus/2.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">nexus配置</source>
       <description>nexus配置</description>
-      <pubDate>Sat, 15 Apr 2023 19:22:52 GMT</pubDate>
+      <category>Nexus</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> nexus配置</h1>
 ]]></content:encoded>
     </item>
@@ -300,8 +310,7 @@
       <guid>https://brinishness.eu.org/server/docker/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">docker安装</source>
       <description>docker安装</description>
-      <category>docker</category>
-      <category>install</category>
+      <category>Docker</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> docker安装</h1>
 
@@ -314,8 +323,7 @@
       <guid>https://brinishness.eu.org/server/verdaccio/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">verdaccio部署</source>
       <description>verdaccio部署 使用docker-compose部署verdaccio 1.安装docker并配置docker-compose 查看使用方式 2.创建verdaccio目录 mkdir -p /data/env/verdaccio</description>
-      <category>verdaccio</category>
-      <category>install</category>
+      <category>Verdaccio</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> verdaccio部署</h1>
 <h2> 使用docker-compose部署verdaccio</h2>
@@ -573,9 +581,9 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-21) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-22) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-21)</h2>
+      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-22)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -635,6 +643,7 @@
 <li>💊 删除无用依赖 (<a href="https://github.com/brinishness/brinishness.github.io/commit/21ba0aa" target="_blank" rel="noopener noreferrer">21ba0aa</a>)</li>
 <li>修复proxmox视频显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4e10578" target="_blank" rel="noopener noreferrer">4e10578</a>)</li>
 <li>修复图片显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a44d13" target="_blank" rel="noopener noreferrer">1a44d13</a>)</li>
+<li>修复文章排序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/c2e3fd1" target="_blank" rel="noopener noreferrer">c2e3fd1</a>)</li>
 <li>修复显示问题 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5571c20" target="_blank" rel="noopener noreferrer">5571c20</a>)</li>
 <li>修复本地服务无法使用 (<a href="https://github.com/brinishness/brinishness.github.io/commit/17e1360" target="_blank" rel="noopener noreferrer">17e1360</a>)</li>
 <li>修复目录显示顺序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1b2ac23" target="_blank" rel="noopener noreferrer">1b2ac23</a>)</li>
@@ -689,19 +698,10 @@
       <description>个人简介 一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 个人简介</h1>
+<blockquote>
 <p>一个工作了好几年的老鸟，现在在做一些自己感兴趣的事情，比如说写一些自己的博客，写一些自己的代码，写一些自己的文档，写一些自己的笔记，写一些自己的教程，写一些自己的文章，写一些自己的书籍，写一些自己的项目，写一些自己的产品，写一些自己的工具，写一些自己的软件，写一些自己的应用，写一些自己的插件，写一些自己的模块，写一些自己的库，写一些自己的框架，写一些自己的组件，写一些自己的模板，写一些自己的主题，写一些自己的样</p>
+</blockquote>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://brinishness.eu.org/slides.html</link>
-      <guid>https://brinishness.eu.org/slides.html</guid>
-      <source url="https://brinishness.eu.org/rss.xml">Slide page</source>
-      <description>slidestart Slide Demo A simple slide demo and useful hints. By Mr.Hope. Please scroll mouse wheel down to the next slide Marking Slides 👇 (#/1/1) -- Marking Slides Use --- to m...</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></content:encoded>
-      <enclosure url="https://brinishness.eu.org/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>安装go</title>
