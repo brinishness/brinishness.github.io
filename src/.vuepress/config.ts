@@ -23,8 +23,8 @@ export default defineUserConfig({
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "brinishness",
-            description: "开发经验总结",
+            title: "小明的个人博客",
+            description: "小明的个人博客",
         },
         // "/zh/": {
         //     lang: "zh-CN",

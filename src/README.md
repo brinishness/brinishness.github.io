@@ -12,7 +12,7 @@ heroAlt: background-image
 heroImage: /goutou.svg
 bgImage: https://img.brinish.eu.org:6205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg
 heroText: brinishness
-tagline: Summary of development experience
+tagline: 小明的个人博客
 heroFullScreen: true
 projects: 
   - icon: link
