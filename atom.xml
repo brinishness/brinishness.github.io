@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://brinishness.eu.org/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://brinishness.eu.org/</id>
-  <title>brinishness</title>
-  <subtitle>开发经验总结</subtitle>
+  <title>小明的个人博客</title>
+  <subtitle>小明的个人博客</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-22T06:22:10.719Z</updated>
+  <updated>2023-04-22T13:21:16.782Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -849,6 +849,7 @@
 <li>修改changelog为本地生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2756fe9" target="_blank" rel="noopener noreferrer">2756fe9</a>)</li>
 <li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
 <li>修改vue内容 (<a href="https://github.com/brinishness/brinishness.github.io/commit/78c9409" target="_blank" rel="noopener noreferrer">78c9409</a>)</li>
+<li>修改一些文字说明 (<a href="https://github.com/brinishness/brinishness.github.io/commit/346eff3" target="_blank" rel="noopener noreferrer">346eff3</a>)</li>
 <li>修改一些隐藏的配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7195bcb" target="_blank" rel="noopener noreferrer">7195bcb</a>)</li>
 <li>修改中文目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e0b99d8" target="_blank" rel="noopener noreferrer">e0b99d8</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5f077b6" target="_blank" rel="noopener noreferrer">5f077b6</a>)</li>

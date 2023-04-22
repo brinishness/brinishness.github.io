@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://brinishness.eu.org/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>brinishness</title>
+    <title>小明的个人博客</title>
     <link>https://brinishness.eu.org/</link>
-    <description>开发经验总结</description>
+    <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Apr 2023 06:22:10 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 06:22:10 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 13:21:16 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 13:21:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
-      <title>brinishness</title>
+      <title>小明的个人博客</title>
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
@@ -676,6 +676,7 @@
 <li>修改changelog为本地生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2756fe9" target="_blank" rel="noopener noreferrer">2756fe9</a>)</li>
 <li>修改changelog生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/42cc6c4" target="_blank" rel="noopener noreferrer">42cc6c4</a>)</li>
 <li>修改vue内容 (<a href="https://github.com/brinishness/brinishness.github.io/commit/78c9409" target="_blank" rel="noopener noreferrer">78c9409</a>)</li>
+<li>修改一些文字说明 (<a href="https://github.com/brinishness/brinishness.github.io/commit/346eff3" target="_blank" rel="noopener noreferrer">346eff3</a>)</li>
 <li>修改一些隐藏的配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7195bcb" target="_blank" rel="noopener noreferrer">7195bcb</a>)</li>
 <li>修改中文目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e0b99d8" target="_blank" rel="noopener noreferrer">e0b99d8</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5f077b6" target="_blank" rel="noopener noreferrer">5f077b6</a>)</li>
