@@ -24,6 +24,7 @@ export default hopeTheme({
     iconAssets: ["iconfont", "//at.alicdn.com/t/c/font_4012987_m3as7bcc7w.css"],
 
     iconPrefix: "iconfont icon-",
+
     logo: "/goutou.svg",
 
     repo: "brinishness/brinishness.github.io",
@@ -193,6 +194,10 @@ export default hopeTheme({
                 }
             },
             exclude: ['/CHANGELOG.html', '/changelog.html']
+        },
+
+        sitemap: {
+          excludeUrls: ['/CHANGELOG.html', '/changelog.html']
         },
 
         // all features are enabled for demo, only preserve features you need here
