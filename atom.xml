@@ -5,7 +5,7 @@
   <subtitle>小明的个人博客</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-22T13:21:16.782Z</updated>
+  <updated>2023-04-22T16:46:52.281Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -67,7 +67,7 @@
     <title type="text">使用arpl安装synology</title>
     <id>https://brinishness.eu.org/nas/1.html</id>
     <link href="https://brinishness.eu.org/nas/1.html"/>
-    <updated>2023-04-22T04:13:23.000Z</updated>
+    <updated>2023-04-22T16:44:45.000Z</updated>
     <summary type="html"><![CDATA[<h1> 使用arpl安装synology</h1>
 <h2> 1. 下载arpl(可以使用最新版) <a href="https://github.com/fbelavenuto/arpl/releases" target="_blank" rel="noopener noreferrer">下载</a></h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" alt="下载arpl" loading="lazy"></p>
@@ -858,6 +858,7 @@
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6bf63ef" target="_blank" rel="noopener noreferrer">6bf63ef</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
 <li>修改目录排序配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/786cdad" target="_blank" rel="noopener noreferrer">786cdad</a>)</li>
+<li>修改群晖引导视频地址 (<a href="https://github.com/brinishness/brinishness.github.io/commit/32a1cd2" target="_blank" rel="noopener noreferrer">32a1cd2</a>)</li>
 <li>修改评论系统为Waline (<a href="https://github.com/brinishness/brinishness.github.io/commit/7e49938" target="_blank" rel="noopener noreferrer">7e49938</a>)</li>
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/bda5d03" target="_blank" rel="noopener noreferrer">bda5d03</a>)</li>
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2452a0a" target="_blank" rel="noopener noreferrer">2452a0a</a>)</li>

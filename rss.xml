@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Apr 2023 13:21:16 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 13:21:16 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 16:46:52 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 16:46:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -685,6 +685,7 @@
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/6bf63ef" target="_blank" rel="noopener noreferrer">6bf63ef</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/d466f9d" target="_blank" rel="noopener noreferrer">d466f9d</a>)</li>
 <li>修改目录排序配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/786cdad" target="_blank" rel="noopener noreferrer">786cdad</a>)</li>
+<li>修改群晖引导视频地址 (<a href="https://github.com/brinishness/brinishness.github.io/commit/32a1cd2" target="_blank" rel="noopener noreferrer">32a1cd2</a>)</li>
 <li>修改评论系统为Waline (<a href="https://github.com/brinishness/brinishness.github.io/commit/7e49938" target="_blank" rel="noopener noreferrer">7e49938</a>)</li>
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/bda5d03" target="_blank" rel="noopener noreferrer">bda5d03</a>)</li>
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/2452a0a" target="_blank" rel="noopener noreferrer">2452a0a</a>)</li>
