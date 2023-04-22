@@ -5,16 +5,16 @@
   <subtitle>开发经验总结</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-22T04:15:31.501Z</updated>
+  <updated>2023-04-22T06:22:10.719Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
+  <category term="Docker"/>
   <category term="nas"/>
   <category term="Verdaccio"/>
   <category term="images"/>
   <category term="Macos"/>
   <category term="Jenkins"/>
-  <category term="Docker"/>
   <category term="Nexus"/>
   <category term="centos"/>
   <category term="install"/>
@@ -26,6 +26,9 @@
   <category term="windows11"/>
   <category term="Chrome"/>
   <category term="arch"/>
+  <category term="Go"/>
+  <category term="Node"/>
+  <category term="Python"/>
   <category term="Css"/>
   <category term="Html"/>
   <category term="Javascript"/>
@@ -34,6 +37,32 @@
   <category term="Vite"/>
   <category term="Vue"/>
   <category term="Webpack"/>
+  <entry>
+    <title type="text">docker构建多系统镜像</title>
+    <id>https://brinishness.eu.org/server/docker/2.html</id>
+    <link href="https://brinishness.eu.org/server/docker/2.html"/>
+    <updated>2023-04-22T06:19:17.000Z</updated>
+    <summary type="html"><![CDATA[<h1> docker构建多系统镜像</h1>
+<h2> 1.安装docker <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 2.安装docker-compose <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 3.安装qemu</h2>
+<h2> 4.安装buildx</h2>
+<h2> 5.创建builder</h2>
+<h2> 6.构建镜像</h2>
+<h2> 7.推送镜像</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h1> docker构建多系统镜像</h1>
+<h2> 1.安装docker <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 2.安装docker-compose <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 3.安装qemu</h2>
+<h2> 4.安装buildx</h2>
+<h2> 5.创建builder</h2>
+<h2> 6.构建镜像</h2>
+<h2> 7.推送镜像</h2>
+]]></content>
+    <category term="Docker"/>
+    <published>2023-04-11T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">使用arpl安装synology</title>
     <id>https://brinishness.eu.org/nas/1.html</id>
@@ -67,7 +96,7 @@
     <title type="text">verdaccio配置</title>
     <id>https://brinishness.eu.org/server/verdaccio/2.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/2.html"/>
-    <updated>2023-04-22T04:13:23.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio配置</h1>
 ]]></summary>
     <content type="html"><![CDATA[<h1> verdaccio配置</h1>
@@ -352,7 +381,7 @@
     <title type="text">docker安装</title>
     <id>https://brinishness.eu.org/server/docker/1.html</id>
     <link href="https://brinishness.eu.org/server/docker/1.html"/>
-    <updated>2023-04-22T04:13:23.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> docker安装</h1>
 
 ]]></summary>
@@ -366,7 +395,7 @@
     <title type="text">verdaccio部署</title>
     <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-22T04:13:23.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
 <h2> 使用docker-compose部署verdaccio</h2>
 <h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
@@ -392,7 +421,7 @@
     <title type="text">安装centos7</title>
     <id>https://brinishness.eu.org/os/centos/1.html</id>
     <link href="https://brinishness.eu.org/os/centos/1.html"/>
-    <updated>2023-04-20T05:19:49.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装centos7</h1>
 <h2> 1.将已制作好的centos系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -441,7 +470,7 @@
     <title type="text">安装deepin</title>
     <id>https://brinishness.eu.org/os/deepin/1.html</id>
     <link href="https://brinishness.eu.org/os/deepin/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装deepin</h1>
 <h2> 1.将已制作好的deepin系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -468,7 +497,7 @@
     <title type="text">安装esxi</title>
     <id>https://brinishness.eu.org/os/esxi/1.html</id>
     <link href="https://brinishness.eu.org/os/esxi/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装esxi</h1>
 <h2> 1.将已制作好的esxi系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -521,7 +550,7 @@
     <title type="text">安装proxmox</title>
     <id>https://brinishness.eu.org/os/proxmox/1.html</id>
     <link href="https://brinishness.eu.org/os/proxmox/1.html"/>
-    <updated>2023-04-21T05:05:30.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装proxmox</h1>
 <h2> 1.将已制作好的proxmox系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -548,7 +577,7 @@
     <title type="text">安装ubuntu</title>
     <id>https://brinishness.eu.org/os/ubuntu/1.html</id>
     <link href="https://brinishness.eu.org/os/ubuntu/1.html"/>
-    <updated>2023-04-20T12:46:16.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装ubuntu</h1>
 <h2> 1.将已制作好的ubuntu系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -598,7 +627,7 @@
     <title type="text">安装windows10</title>
     <id>https://brinishness.eu.org/os/windows/1.html</id>
     <link href="https://brinishness.eu.org/os/windows/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows10</h1>
 <h2> 1.将已制作好的windows10系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -625,7 +654,7 @@
     <title type="text">安装windows11</title>
     <id>https://brinishness.eu.org/os/windows/2.html</id>
     <link href="https://brinishness.eu.org/os/windows/2.html"/>
-    <updated>2023-04-19T10:10:14.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装windows11</h1>
 <h2> 1.将已制作好的windows11系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -652,7 +681,7 @@
     <title type="text">Chrome http to https</title>
     <id>https://brinishness.eu.org/brower/chrome/1.html</id>
     <link href="https://brinishness.eu.org/brower/chrome/1.html"/>
-    <updated>2023-04-19T10:10:14.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> Chrome http to https</h1>
 <h2> 问题描述</h2>
 <blockquote>
@@ -682,7 +711,7 @@
     <title type="text">安装archlinux</title>
     <id>https://brinishness.eu.org/os/arch/1.html</id>
     <link href="https://brinishness.eu.org/os/arch/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装archlinux</h1>
 <h2> 1.将已制作好的archlinux系统的U盘插入电脑</h2>
 <h2> 2.重启电脑</h2>
@@ -733,6 +762,7 @@
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
 <li>添加html简介 (<a href="https://github.com/brinishness/brinishness.github.io/commit/18d3303" target="_blank" rel="noopener noreferrer">18d3303</a>)</li>
 <li>添加ubuntu安装视频 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3bba88e" target="_blank" rel="noopener noreferrer">3bba88e</a>)</li>
+<li>添加排序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7426c84" target="_blank" rel="noopener noreferrer">7426c84</a>)</li>
 <li>添加百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4871158" target="_blank" rel="noopener noreferrer">4871158</a>)</li>
 <li>添加百度统计vue跳转上报 (<a href="https://github.com/brinishness/brinishness.github.io/commit/63424e3" target="_blank" rel="noopener noreferrer">63424e3</a>)</li>
 <li>添加百度验证文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/31b5e8c" target="_blank" rel="noopener noreferrer">31b5e8c</a>)</li>
@@ -770,6 +800,7 @@
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
 <li>添加html简介 (<a href="https://github.com/brinishness/brinishness.github.io/commit/18d3303" target="_blank" rel="noopener noreferrer">18d3303</a>)</li>
 <li>添加ubuntu安装视频 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3bba88e" target="_blank" rel="noopener noreferrer">3bba88e</a>)</li>
+<li>添加排序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7426c84" target="_blank" rel="noopener noreferrer">7426c84</a>)</li>
 <li>添加百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4871158" target="_blank" rel="noopener noreferrer">4871158</a>)</li>
 <li>添加百度统计vue跳转上报 (<a href="https://github.com/brinishness/brinishness.github.io/commit/63424e3" target="_blank" rel="noopener noreferrer">63424e3</a>)</li>
 <li>添加百度验证文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/31b5e8c" target="_blank" rel="noopener noreferrer">31b5e8c</a>)</li>
@@ -876,7 +907,7 @@
     <title type="text">安装go</title>
     <id>https://brinishness.eu.org/backend/go/1.html</id>
     <link href="https://brinishness.eu.org/backend/go/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装go</h1>
 <h2> 安装go语言环境</h2>
 
@@ -885,13 +916,14 @@
 <h2> 安装go语言环境</h2>
 
 ]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <category term="Go"/>
+    <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">安装java</title>
     <id>https://brinishness.eu.org/backend/java/1.html</id>
     <link href="https://brinishness.eu.org/backend/java/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装java</h1>
 <h2> 安装java语言环境</h2>
 
@@ -900,13 +932,13 @@
 <h2> 安装java语言环境</h2>
 
 ]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">安装nodejs</title>
     <id>https://brinishness.eu.org/backend/node/1.html</id>
     <link href="https://brinishness.eu.org/backend/node/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装nodejs</h1>
 <h2> 安装go语言环境</h2>
 
@@ -915,13 +947,14 @@
 <h2> 安装go语言环境</h2>
 
 ]]></content>
+    <category term="Node"/>
     <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">安装python</title>
     <id>https://brinishness.eu.org/backend/python/1.html</id>
     <link href="https://brinishness.eu.org/backend/python/1.html"/>
-    <updated>2023-04-16T15:54:17.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 安装python</h1>
 <h2> 安装python语言环境</h2>
 
@@ -930,13 +963,14 @@
 <h2> 安装python语言环境</h2>
 
 ]]></content>
-    <published>2023-04-12T21:29:50.000Z</published>
+    <category term="Python"/>
+    <published>2023-04-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">css</title>
     <id>https://brinishness.eu.org/frontend/css/1.html</id>
     <link href="https://brinishness.eu.org/frontend/css/1.html"/>
-    <updated>2023-04-20T22:59:41.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> css</h1>
 <h2> 简介</h2>
 <blockquote>
@@ -1071,7 +1105,7 @@ element。</li>
     <title type="text">js</title>
     <id>https://brinishness.eu.org/frontend/javascript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/javascript/1.html"/>
-    <updated>2023-04-20T22:59:41.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> js</h1>
 <h2> 简介</h2>
 <blockquote>
@@ -1100,7 +1134,7 @@ element。</li>
     <title type="text">react</title>
     <id>https://brinishness.eu.org/frontend/react/1.html</id>
     <link href="https://brinishness.eu.org/frontend/react/1.html"/>
-    <updated>2023-04-20T22:59:41.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> react</h1>
 <h2> React简介</h2>
 <blockquote>
@@ -1227,7 +1261,7 @@ element。</li>
     <title type="text">react-demo</title>
     <id>https://brinishness.eu.org/frontend/react/2.html</id>
     <link href="https://brinishness.eu.org/frontend/react/2.html"/>
-    <updated>2023-04-20T22:49:30.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> react-demo</h1>
 
 
@@ -1243,7 +1277,7 @@ element。</li>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/typescript/1.html</id>
     <link href="https://brinishness.eu.org/frontend/typescript/1.html"/>
-    <updated>2023-04-15T00:35:40.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token keyword">const</span> a<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> <span class="token string">'123'</span><span class="token punctuation">;</span>
@@ -1259,7 +1293,7 @@ element。</li>
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/vite/1.html</id>
     <link href="https://brinishness.eu.org/frontend/vite/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
@@ -1342,7 +1376,7 @@ vue的目标是通过尽可能简单的API实现响应的数据绑定和组合�
     <title type="text">vuedemo</title>
     <id>https://brinishness.eu.org/frontend/vue/2.html</id>
     <link href="https://brinishness.eu.org/frontend/vue/2.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> vuedemo</h1>
 
 ]]></summary>
@@ -1356,7 +1390,7 @@ vue的目标是通过尽可能简单的API实现响应的数据绑定和组合�
     <title type="text">测试标题</title>
     <id>https://brinishness.eu.org/frontend/webpack/1.html</id>
     <link href="https://brinishness.eu.org/frontend/webpack/1.html"/>
-    <updated>2023-04-13T16:11:13.000Z</updated>
+    <updated>2023-04-22T06:19:17.000Z</updated>
     <summary type="html"><![CDATA[<h1> 测试标题</h1>
 <h2> 测试内容</h2>
 <div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>

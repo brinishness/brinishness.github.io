@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>开发经验总结</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Apr 2023 04:15:31 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 04:15:31 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 06:22:10 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 06:22:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,12 +15,12 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
+    <category>Docker</category>
     <category>nas</category>
     <category>Verdaccio</category>
     <category>images</category>
     <category>Macos</category>
     <category>Jenkins</category>
-    <category>Docker</category>
     <category>Nexus</category>
     <category>centos</category>
     <category>install</category>
@@ -32,6 +32,9 @@
     <category>windows11</category>
     <category>Chrome</category>
     <category>arch</category>
+    <category>Go</category>
+    <category>Node</category>
+    <category>Python</category>
     <category>Css</category>
     <category>Html</category>
     <category>Javascript</category>
@@ -40,6 +43,24 @@
     <category>Vite</category>
     <category>Vue</category>
     <category>Webpack</category>
+    <item>
+      <title>docker构建多系统镜像</title>
+      <link>https://brinishness.eu.org/server/docker/2.html</link>
+      <guid>https://brinishness.eu.org/server/docker/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">docker构建多系统镜像</source>
+      <description>docker构建多系统镜像 1.安装docker 查看 2.安装docker-compose 查看 3.安装qemu 4.安装buildx 5.创建builder 6.构建镜像 7.推送镜像</description>
+      <category>Docker</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> docker构建多系统镜像</h1>
+<h2> 1.安装docker <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 2.安装docker-compose <a href="/server/docker/1.html" target="blank">查看</a></h2>
+<h2> 3.安装qemu</h2>
+<h2> 4.安装buildx</h2>
+<h2> 5.创建builder</h2>
+<h2> 6.构建镜像</h2>
+<h2> 7.推送镜像</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>使用arpl安装synology</title>
       <link>https://brinishness.eu.org/nas/1.html</link>
@@ -581,7 +602,7 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-22) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-22) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加排序 (7426c84) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-22)</h2>
 <ul>
@@ -606,6 +627,7 @@
 <li>添加google分析 (<a href="https://github.com/brinishness/brinishness.github.io/commit/82db1d8" target="_blank" rel="noopener noreferrer">82db1d8</a>)</li>
 <li>添加html简介 (<a href="https://github.com/brinishness/brinishness.github.io/commit/18d3303" target="_blank" rel="noopener noreferrer">18d3303</a>)</li>
 <li>添加ubuntu安装视频 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3bba88e" target="_blank" rel="noopener noreferrer">3bba88e</a>)</li>
+<li>添加排序 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7426c84" target="_blank" rel="noopener noreferrer">7426c84</a>)</li>
 <li>添加百度统计 (<a href="https://github.com/brinishness/brinishness.github.io/commit/4871158" target="_blank" rel="noopener noreferrer">4871158</a>)</li>
 <li>添加百度统计vue跳转上报 (<a href="https://github.com/brinishness/brinishness.github.io/commit/63424e3" target="_blank" rel="noopener noreferrer">63424e3</a>)</li>
 <li>添加百度验证文件 (<a href="https://github.com/brinishness/brinishness.github.io/commit/31b5e8c" target="_blank" rel="noopener noreferrer">31b5e8c</a>)</li>
@@ -709,7 +731,8 @@
       <guid>https://brinishness.eu.org/backend/go/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装go</source>
       <description>安装go 安装go语言环境</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <category>Go</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装go</h1>
 <h2> 安装go语言环境</h2>
 
@@ -721,7 +744,7 @@
       <guid>https://brinishness.eu.org/backend/java/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装java</source>
       <description>安装java 安装java语言环境</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装java</h1>
 <h2> 安装java语言环境</h2>
 
@@ -733,6 +756,7 @@
       <guid>https://brinishness.eu.org/backend/node/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装nodejs</source>
       <description>安装nodejs 安装go语言环境</description>
+      <category>Node</category>
       <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装nodejs</h1>
 <h2> 安装go语言环境</h2>
@@ -745,7 +769,8 @@
       <guid>https://brinishness.eu.org/backend/python/1.html</guid>
       <source url="https://brinishness.eu.org/rss.xml">安装python</source>
       <description>安装python 安装python语言环境</description>
-      <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
+      <category>Python</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 安装python</h1>
 <h2> 安装python语言环境</h2>
 
