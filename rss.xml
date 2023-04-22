@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Apr 2023 16:46:52 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 16:46:52 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 19:04:32 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 19:04:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -693,6 +693,7 @@
 <li>修改评论系统等级 (<a href="https://github.com/brinishness/brinishness.github.io/commit/1a56d48" target="_blank" rel="noopener noreferrer">1a56d48</a>)</li>
 <li>修改资源为https (<a href="https://github.com/brinishness/brinishness.github.io/commit/7050016" target="_blank" rel="noopener noreferrer">7050016</a>)</li>
 <li>修改配置依赖缺失 (<a href="https://github.com/brinishness/brinishness.github.io/commit/8814edf" target="_blank" rel="noopener noreferrer">8814edf</a>)</li>
+<li>修改首页配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3ce5dc4" target="_blank" rel="noopener noreferrer">3ce5dc4</a>)</li>
 <li>删除navbar和sidebar显示 (<a href="https://github.com/brinishness/brinishness.github.io/commit/235ed2a" target="_blank" rel="noopener noreferrer">235ed2a</a>)</li>
 <li>删除多语言文件夹 (<a href="https://github.com/brinishness/brinishness.github.io/commit/9043030" target="_blank" rel="noopener noreferrer">9043030</a>)</li>
 <li>删除多语言文件夹 (<a href="https://github.com/brinishness/brinishness.github.io/commit/3b01e23" target="_blank" rel="noopener noreferrer">3b01e23</a>)</li>
