@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Apr 2023 08:22:47 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Apr 2023 08:22:47 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2023 09:08:50 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 09:08:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,6 +15,7 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
+    <category>Mysql</category>
     <category>Macos</category>
     <category>Gitlab</category>
     <category>Docker</category>
@@ -44,6 +45,24 @@
     <category>Vite</category>
     <category>Vue</category>
     <category>Webpack</category>
+    <item>
+      <title>mysql配置</title>
+      <link>https://brinishness.eu.org/database/mysql/2.html</link>
+      <guid>https://brinishness.eu.org/database/mysql/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">mysql配置</source>
+      <description>mysql配置 1.修改mysql配置文件 vim /etc/my.cnf 2.添加配置</description>
+      <category>Mysql</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> mysql配置</h1>
+<h2> 1.修改mysql配置文件</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 2.添加配置</h2>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 3.重启mysql</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 4.查看mysql配置</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 5.查看mysql字符集</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 6.查看mysql版本</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 7.查看mysql编码</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
     <item>
       <title>mac安装dnsmasq</title>
       <link>https://brinishness.eu.org/os/macos/4.html</link>
@@ -142,6 +161,22 @@
 <h2> 7. 安装完成</h2>
 ]]></content:encoded>
       <enclosure url="https://img.brinish.eu.org:6205/images/2023/04/21/f2c4ffcb25da673a340d2ecadcbb8b02.png" type="image/png"/>
+    </item>
+    <item>
+      <title>centos7安装mysql5.7</title>
+      <link>https://brinishness.eu.org/database/mysql/1.html</link>
+      <guid>https://brinishness.eu.org/database/mysql/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">centos7安装mysql5.7</source>
+      <description>centos7安装mysql5.7 1.下载mysql的yum仓库文件包 yum -y install wget wget http://repo.mysql.com/yum/mysql-5.7-community/el/7/x86_64/mysql57-community-release-el7-10.noarch.rpm rpm -Uvh mysql57-community-release-el7-10.noarch.rpm</description>
+      <category>Mysql</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> centos7安装mysql5.7</h1>
+<h2> 1.下载mysql的yum仓库文件包</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 2.yum安装mysql</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 3.启动mysql</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 4.查看mysql密码</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 5.修改root密码</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
     </item>
     <item>
       <title>verdaccio配置</title>
