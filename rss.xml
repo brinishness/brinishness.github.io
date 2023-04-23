@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Apr 2023 19:04:32 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 19:04:32 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2023 02:45:16 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 02:45:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -602,9 +602,9 @@
       <link>https://brinishness.eu.org/CHANGELOG.html</link>
       <guid>https://brinishness.eu.org/CHANGELOG.html</guid>
       <source url="https://brinishness.eu.org/rss.xml"></source>
-      <description>1.0.4 (2023-04-22) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加排序 (7426c84) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
+      <description>1.0.4 (2023-04-23) Create CNAME (2d32fcb) ✨ Features | 新功能 💊 修改自动化node版本 (fd72d0a) 🚀 初始化提交 (7bc47ed) 🚀 添加gitlab自动化 (3448543) 🚀 添加生成更新日志 (760f2d6) 🚀 添加自定义图标 (016b513) 🚀 添加自定义图标 (9f096cd) 修改百度统计 (a5b693b) 修改百度验证为标签 (908131b) 本地提交changelog (28b5a81) 本地提交changelog (0146308) 添加arpl引导黑群晖 (7fe88cf) 添加centos安装截图 (fdff827) 添加chrome图片显示问题 (c50634a) 添加css简介以及js简介 (b79a05d) 添加google分析 (82db1d8) 添加html简介 (18d3303) 添加ubuntu安装视频 (3bba88e) 添加排序 (7426c84) 添加百度统计 (4871158) 添加百度统计vue跳转上报 (63424e3) 添加百度验证文件 (31b5e8c) 添加过滤版本升级 (f1ce214) 添加钩子 (1ea0ea3) 添加镜像制作 (4b43e01) 版本升级 (09e53bf) 版本升级 (5e7dbd3) 版本升级 (da09f8c) 版本升级 (dfb6168) 版本升级 (de56e99) 解决html文件不生成 (9197d9d) 远程生成changelog (85440e2)</description>
       <pubDate>Wed, 12 Apr 2023 21:29:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-22)</h2>
+      <content:encoded><![CDATA[<h2> 1.0.4 (2023-04-23)</h2>
 <ul>
 <li>Create CNAME (<a href="https://github.com/brinishness/brinishness.github.io/commit/2d32fcb" target="_blank" rel="noopener noreferrer">2d32fcb</a>)</li>
 </ul>
@@ -679,6 +679,7 @@
 <li>修改一些文字说明 (<a href="https://github.com/brinishness/brinishness.github.io/commit/346eff3" target="_blank" rel="noopener noreferrer">346eff3</a>)</li>
 <li>修改一些隐藏的配置 (<a href="https://github.com/brinishness/brinishness.github.io/commit/7195bcb" target="_blank" rel="noopener noreferrer">7195bcb</a>)</li>
 <li>修改中文目录 (<a href="https://github.com/brinishness/brinishness.github.io/commit/e0b99d8" target="_blank" rel="noopener noreferrer">e0b99d8</a>)</li>
+<li>修改图标 (<a href="https://github.com/brinishness/brinishness.github.io/commit/287367f" target="_blank" rel="noopener noreferrer">287367f</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/5f077b6" target="_blank" rel="noopener noreferrer">5f077b6</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/127a05b" target="_blank" rel="noopener noreferrer">127a05b</a>)</li>
 <li>修改文档生成 (<a href="https://github.com/brinishness/brinishness.github.io/commit/df5ad81" target="_blank" rel="noopener noreferrer">df5ad81</a>)</li>
