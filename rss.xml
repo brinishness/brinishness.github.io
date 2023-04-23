@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Apr 2023 06:48:38 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Apr 2023 06:48:38 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2023 08:22:47 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 08:22:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,11 +15,12 @@
       <url>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</url>
       <link>https://brinishness.eu.org/</link>
     </image>
+    <category>Macos</category>
+    <category>Gitlab</category>
     <category>Docker</category>
     <category>nas</category>
     <category>Verdaccio</category>
     <category>images</category>
-    <category>Macos</category>
     <category>Jenkins</category>
     <category>Nexus</category>
     <category>centos</category>
@@ -43,6 +44,60 @@
     <category>Vite</category>
     <category>Vue</category>
     <category>Webpack</category>
+    <item>
+      <title>mac安装dnsmasq</title>
+      <link>https://brinishness.eu.org/os/macos/4.html</link>
+      <guid>https://brinishness.eu.org/os/macos/4.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">mac安装dnsmasq</source>
+      <description>mac安装dnsmasq 1.安装dnsmasq brew install dnsmasq 2.备份配置文件</description>
+      <category>Macos</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> mac安装dnsmasq</h1>
+<h2> 1.安装dnsmasq</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 2.备份配置文件</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 3.修改配置文件</h2>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 4.新建dns文档</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 5.重启dnsmasq服务</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 6.清dns缓存</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 7.测试dnsmasq服务是否正常</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>gitlab部署</title>
+      <link>https://brinishness.eu.org/server/gitlab/1.html</link>
+      <guid>https://brinishness.eu.org/server/gitlab/1.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">gitlab部署</source>
+      <description>gitlab部署 使用docker-compose部署gitlab 1.安装docker并配置docker-compose 查看使用方式 2.创建gitlab目录 mkdir -p /data/env/gitlab</description>
+      <category>Gitlab</category>
+      <category>Docker</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> gitlab部署</h1>
+<h2> 使用docker-compose部署gitlab</h2>
+<h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
+<h3> 2.创建gitlab目录</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 3.创建gitlab配置目录</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动gitlab</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问gitlab</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>centos7安装gitlab((默认所有操作基于root权限用户))</title>
+      <link>https://brinishness.eu.org/server/gitlab/2.html</link>
+      <guid>https://brinishness.eu.org/server/gitlab/2.html</guid>
+      <source url="https://brinishness.eu.org/rss.xml">centos7安装gitlab((默认所有操作基于root权限用户))</source>
+      <description>centos7安装gitlab((默认所有操作基于root权限用户)) 1. 快速安装 curl -s https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.rpm.sh | sudo bash yum list --showduplicates | grep gitlab | sort -nr -k 2 # 查看所有gitlab版本 yum -y install gitlab-ce-15.3.3-ce.0.el7.x86_64 # 例 gitlab-ce(名称)-15.3.3-ce.0.el7(版本).x86_64(架构)</description>
+      <category>Gitlab</category>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> centos7安装gitlab((默认所有操作基于root权限用户))</h1>
+<h2> 1. 快速安装</h2>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 2. 使用安装包安装</h2>
+<h3> gitlab下载: gitlab-ce-15.3.3-ce.0.el7.x86_64<a href="https://packages.gitlab.com/gitlab/gitlab-ce/packages/el/7/gitlab-ce-15.3.3-ce.0.el7.x86_64.rpm/download.rpm" target="_blank" rel="noopener noreferrer">点击下载</a> (注: ce表示开源 el表示centos el7对应CentOS 7) 或者通过wget下载</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> gitlab安装 (等待gitlab下载完成)</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> gitlab配置</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>现在可以使用<a href="http://172.16.151.xn--128gitlab-ec7nm105c3sza" target="_blank" rel="noopener noreferrer">http://172.16.151.128访问gitlab了</a> 用户名root 密码在initial_root_password中</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>docker构建多系统镜像</title>
       <link>https://brinishness.eu.org/server/docker/2.html</link>
