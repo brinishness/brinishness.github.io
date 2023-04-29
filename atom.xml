@@ -5,7 +5,7 @@
   <subtitle>小明的个人博客</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-29T18:10:43.840Z</updated>
+  <updated>2023-04-29T18:39:47.292Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -40,14 +40,27 @@
   <category term="Vue"/>
   <category term="Webpack"/>
   <entry>
-    <title type="text">使用github actions构建docker镜像并推送ghcr.io和dockerhub 查看例子</title>
+    <title type="text">github构建docker镜像并推送</title>
     <id>https://brinishness.eu.org/server/docker/3.html</id>
     <link href="https://brinishness.eu.org/server/docker/3.html"/>
-    <updated>2023-04-29T18:07:56.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 使用github actions构建docker镜像并推送ghcr.io和dockerhub <a href="https://github.com/brinishness/go-test" target="_blank" rel="noopener noreferrer">查看例子</a></h1>
+    <updated>2023-04-29T18:37:02.000Z</updated>
+    <summary type="html"><![CDATA[<h1> github构建docker镜像并推送</h1>
 <h2> 1.新建github仓库</h2>
-<p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/8fc1fdcc600b8ebb1cd8cae591b868b4.th.png" alt="新建github仓库" loading="lazy"></p>]]></summary>
-    <content type="html"><![CDATA[<h1> 使用github actions构建docker镜像并推送ghcr.io和dockerhub <a href="https://github.com/brinishness/go-test" target="_blank" rel="noopener noreferrer">查看例子</a></h1>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/8fc1fdcc600b8ebb1cd8cae591b868b4.th.png" alt="新建github仓库" loading="lazy"></p>
+<h2> 2.新建Dockerfile</h2>
+<div class="language-docker line-numbers-mode" data-ext="docker"><pre class="language-docker"><code><span class="token instruction"><span class="token keyword">FROM</span> golang:alpine <span class="token keyword">AS</span> builder</span>
+<span class="token instruction"><span class="token keyword">RUN</span> mkdir /app</span>
+<span class="token instruction"><span class="token keyword">ADD</span> . /app/</span>
+<span class="token instruction"><span class="token keyword">WORKDIR</span> /app</span>
+<span class="token instruction"><span class="token keyword">ENV</span> GO111MODULE=off</span>
+<span class="token instruction"><span class="token keyword">RUN</span> go build -o hello .</span>
+<span class="token instruction"><span class="token keyword">FROM</span> alpine</span>
+<span class="token instruction"><span class="token keyword">RUN</span> mkdir /app</span>
+<span class="token instruction"><span class="token keyword">WORKDIR</span> /app</span>
+<span class="token instruction"><span class="token keyword">COPY</span> <span class="token options"><span class="token property">--from</span><span class="token punctuation">=</span><span class="token string">builder</span></span> /app/hello .</span>
+<span class="token instruction"><span class="token keyword">CMD</span> [<span class="token string">"./hello"</span>]</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> github构建docker镜像并推送</h1>
 <h2> 1.新建github仓库</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/8fc1fdcc600b8ebb1cd8cae591b868b4.th.png" alt="新建github仓库" loading="lazy"></p>
 <h2> 2.新建Dockerfile</h2>
@@ -60,10 +73,11 @@
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 8.查看github actions</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/31e8b38c6f7ceae852796c73c008cc10.png" alt="查看github actions" loading="lazy"></p>
 <h2> <a href="http://9.xn--ghcr-kb2is98e.io" target="_blank" rel="noopener noreferrer">9.查看ghcr.io</a></h2>
-<p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/e1c3ae057b5ac7bbd2a914345d382a57.png" alt="查看ghcr.io" loading="lazy"></p>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/30/adeceb0922814345d03a89cc27b1e3c2.png" alt="查看ghcr.io" loading="lazy"></p>
 <h2> 10.查看dockerhub</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/3d7fb4ea3b4f66af400feef226d2e741.png" alt="查看dockerhub" loading="lazy"></p>
-]]></content>
+<h2> 11.查看例子 <a href="https://github.com/brinishness/go-test.git" target="_blank" rel="noopener noreferrer">github</a></h2>
+<div class="language-url line-numbers-mode" data-ext="url"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
     <category term="Docker"/>
     <published>2023-04-29T00:00:00.000Z</published>
   </entry>
