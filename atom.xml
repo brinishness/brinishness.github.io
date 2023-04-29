@@ -5,7 +5,7 @@
   <subtitle>小明的个人博客</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-25T11:13:24.124Z</updated>
+  <updated>2023-04-29T09:36:41.822Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -569,7 +569,7 @@ yum <span class="token parameter variable">-y</span> <span class="token function
     <title type="text">verdaccio部署</title>
     <id>https://brinishness.eu.org/server/verdaccio/1.html</id>
     <link href="https://brinishness.eu.org/server/verdaccio/1.html"/>
-    <updated>2023-04-22T06:19:17.000Z</updated>
+    <updated>2023-04-29T09:34:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> verdaccio部署</h1>
 <h2> 使用docker-compose部署verdaccio</h2>
 <h3> 1.安装docker并配置docker-compose <a href="/server/docker/1.html" target="blank">查看使用方式</a></h3>
@@ -582,11 +582,9 @@ yum <span class="token parameter variable">-y</span> <span class="token function
 <h3> 2.创建verdaccio目录</h3>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 3.授权目录为777 (不配置会导致无法存储镜像)</h3>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> 3.映射目录配置 (附配置文件)</h3>
-<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动nexus</h3>
-<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问nexus</h3>
-<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.获取初始密码</h3>
-<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 7.修改密码</h3>
-<h3> 8.完成nexus安装</h3>
+<div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 4.启动verdaccio</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 5.访问verdaccio</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 6.完成verdaccio安装</h3>
 ]]></content>
     <category term="Verdaccio"/>
     <published>2023-04-11T00:00:00.000Z</published>
