@@ -1,0 +1,1 @@
+import{_ as a,Y as c,Z as t,$ as e,a0 as r}from"./framework-52b6375a.js";const o={},s=e("h1",{id:"verdaccio配置",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#verdaccio配置","aria-hidden":"true"},"#"),r(" verdaccio配置")],-1),_=[s];function d(n,i){return c(),t("div",null,_)}const l=a(o,[["render",d],["__file","2.html.vue"]]);export{l as default};
