@@ -6,8 +6,8 @@
     <link>https://brinishness.eu.org/</link>
     <description>小明的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Apr 2023 18:39:47 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Apr 2023 18:39:47 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Apr 2023 00:21:34 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Apr 2023 00:21:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -65,8 +65,8 @@
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 7.创建tag并推送</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 8.查看github actions</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/31e8b38c6f7ceae852796c73c008cc10.png" alt="查看github actions" loading="lazy"></p>
-<h2> <a href="http://9.xn--ghcr-kb2is98e.io" target="_blank" rel="noopener noreferrer">9.查看ghcr.io</a></h2>
-<p><img src="https://img.brinish.eu.org:6205/images/2023/04/30/adeceb0922814345d03a89cc27b1e3c2.png" alt="查看ghcr.io" loading="lazy"></p>
+<h2> 9.查看github镜像</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/30/adeceb0922814345d03a89cc27b1e3c2.png" alt="查看github镜像" loading="lazy"></p>
 <h2> 10.查看dockerhub</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/3d7fb4ea3b4f66af400feef226d2e741.png" alt="查看dockerhub" loading="lazy"></p>
 <h2> 11.查看例子 <a href="https://github.com/brinishness/go-test.git" target="_blank" rel="noopener noreferrer">github</a></h2>

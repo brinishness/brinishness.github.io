@@ -5,7 +5,7 @@
   <subtitle>小明的个人博客</subtitle>
   <icon>https://brinishness.eu.org/goutou.svg</icon>
   <logo>http://img.brinish.eu.org:5205/images/2023/04/11/3d0c8af0d20329a680e4012f31a4b4d1.jpg</logo>
-  <updated>2023-04-29T18:39:47.292Z</updated>
+  <updated>2023-04-30T00:21:34.981Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://brinishness.eu.org/atom.xml"/>
   <link rel="alternate" href="https://brinishness.eu.org/"/>
@@ -43,7 +43,7 @@
     <title type="text">github构建docker镜像并推送</title>
     <id>https://brinishness.eu.org/server/docker/3.html</id>
     <link href="https://brinishness.eu.org/server/docker/3.html"/>
-    <updated>2023-04-29T18:37:02.000Z</updated>
+    <updated>2023-04-30T00:18:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> github构建docker镜像并推送</h1>
 <h2> 1.新建github仓库</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/8fc1fdcc600b8ebb1cd8cae591b868b4.th.png" alt="新建github仓库" loading="lazy"></p>
@@ -72,8 +72,8 @@
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 7.创建tag并推送</h2>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 8.查看github actions</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/31e8b38c6f7ceae852796c73c008cc10.png" alt="查看github actions" loading="lazy"></p>
-<h2> <a href="http://9.xn--ghcr-kb2is98e.io" target="_blank" rel="noopener noreferrer">9.查看ghcr.io</a></h2>
-<p><img src="https://img.brinish.eu.org:6205/images/2023/04/30/adeceb0922814345d03a89cc27b1e3c2.png" alt="查看ghcr.io" loading="lazy"></p>
+<h2> 9.查看github镜像</h2>
+<p><img src="https://img.brinish.eu.org:6205/images/2023/04/30/adeceb0922814345d03a89cc27b1e3c2.png" alt="查看github镜像" loading="lazy"></p>
 <h2> 10.查看dockerhub</h2>
 <p><img src="https://img.brinish.eu.org:6205/images/2023/04/29/3d7fb4ea3b4f66af400feef226d2e741.png" alt="查看dockerhub" loading="lazy"></p>
 <h2> 11.查看例子 <a href="https://github.com/brinishness/go-test.git" target="_blank" rel="noopener noreferrer">github</a></h2>
